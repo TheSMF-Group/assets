@@ -1,0 +1,387 @@
+[
+ {
+  "arquivo": "ACL.png",
+  "codigo": "ACL",
+  "nome": "AFC Champions League",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ACL2.png",
+  "codigo": "ACL2",
+  "nome": "AFC Champions League Two",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AFCON.png",
+  "codigo": "AFCON",
+  "nome": "Copa Africana de Nacoes",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ASIAN.png",
+  "codigo": "ASIAN",
+  "nome": "Copa da Asia",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AW_ballonDor.png",
+  "codigo": "AW_ballonDor",
+  "nome": "Bola de Ouro",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AW_goldenBoot.png",
+  "codigo": "AW_goldenBoot",
+  "nome": "Chuteira de Ouro",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AW_reiDaAmerica.png",
+  "codigo": "AW_reiDaAmerica",
+  "nome": "Rei da America",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AW_topAssister.png",
+  "codigo": "AW_topAssister",
+  "nome": "Rei das Assistencias",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AW_tots.png",
+  "codigo": "AW_tots",
+  "nome": "Selecao da Temporada",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "AW_worldXI.png",
+  "codigo": "AW_worldXI",
+  "nome": "Selecao Mundial",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "CAFCC.png",
+  "codigo": "CAFCC",
+  "nome": "CAF Confederation Cup",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "CAFCL.png",
+  "codigo": "CAFCL",
+  "nome": "CAF Champions League",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "CCL.png",
+  "codigo": "CCL",
+  "nome": "CONCACAF Champions Cup",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "COPA.png",
+  "codigo": "COPA",
+  "nome": "Copa America",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "CV.png",
+  "codigo": "CV",
+  "nome": "Copa Verde",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "DOM_BRA.png",
+  "codigo": "DOM_BRA",
+  "nome": "Copa do Brasil",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "DOM_ENG.png",
+  "codigo": "DOM_ENG",
+  "nome": "FA Cup",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "DOM_ESP.png",
+  "codigo": "DOM_ESP",
+  "nome": "Copa del Rey",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "DOM_FRA.png",
+  "codigo": "DOM_FRA",
+  "nome": "Coupe de France",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "DOM_GER.png",
+  "codigo": "DOM_GER",
+  "nome": "DFB-Pokal",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "DOM_ITA.png",
+  "codigo": "DOM_ITA",
+  "nome": "Coppa Italia",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "EFL_CARABAO.png",
+  "codigo": "EFL_CARABAO",
+  "nome": "EFL Carabao Cup",
+  "transparente": false,
+  "origem": "_assets_in/trophies-src (jpeg, sem recorte)"
+ },
+ {
+  "arquivo": "EURO.png",
+  "codigo": "EURO",
+  "nome": "Eurocopa",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "GOLD.png",
+  "codigo": "GOLD",
+  "nome": "Gold Cup",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ICC.png",
+  "codigo": "ICC",
+  "nome": "Copa Intercontinental",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LEAGUE_ONE.png",
+  "codigo": "LEAGUE_ONE",
+  "nome": "League One",
+  "transparente": false,
+  "origem": "_assets_in/trophies-src (jpeg, sem recorte)"
+ },
+ {
+  "arquivo": "LG_BRA1.png",
+  "codigo": "LG_BRA1",
+  "nome": "Brasileirao Serie A",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_BRA2.png",
+  "codigo": "LG_BRA2",
+  "nome": "Brasileirao Serie B",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_BRA3.png",
+  "codigo": "LG_BRA3",
+  "nome": "Brasileirao Serie C",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_ENG1.png",
+  "codigo": "LG_ENG1",
+  "nome": "Premier League",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_ESP1.png",
+  "codigo": "LG_ESP1",
+  "nome": "LaLiga",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_FRA1.png",
+  "codigo": "LG_FRA1",
+  "nome": "Ligue 1",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_GER1.png",
+  "codigo": "LG_GER1",
+  "nome": "Bundesliga",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_ITA1.png",
+  "codigo": "LG_ITA1",
+  "nome": "Serie A",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_NED1.png",
+  "codigo": "LG_NED1",
+  "nome": "Eredivisie",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LG_POR1.png",
+  "codigo": "LG_POR1",
+  "nome": "Liga Portugal",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "LIB.png",
+  "codigo": "LIB",
+  "nome": "Copa Libertadores",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "NE.png",
+  "codigo": "NE",
+  "nome": "Copa do Nordeste",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "RSA.png",
+  "codigo": "RSA",
+  "nome": "Recopa Sul-Americana",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "SCB.png",
+  "codigo": "SCB",
+  "nome": "Supercopa do Brasil",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "SCWC.png",
+  "codigo": "SCWC",
+  "nome": "Supermundial de Clubes",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_alagoano.png",
+  "codigo": "ST_alagoano",
+  "nome": "Alagoano",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_amazonense.png",
+  "codigo": "ST_amazonense",
+  "nome": "Amazonense",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_carioca.png",
+  "codigo": "ST_carioca",
+  "nome": "Carioca",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_catarinense.png",
+  "codigo": "ST_catarinense",
+  "nome": "Catarinense Serie A",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_gaucho.png",
+  "codigo": "ST_gaucho",
+  "nome": "Gauchao",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_goiano.png",
+  "codigo": "ST_goiano",
+  "nome": "Goiano",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_mineiro.png",
+  "codigo": "ST_mineiro",
+  "nome": "Mineiro",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_paranaense.png",
+  "codigo": "ST_paranaense",
+  "nome": "Paranaense",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "ST_paulista.png",
+  "codigo": "ST_paulista",
+  "nome": "Paulistao",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "SUD.png",
+  "codigo": "SUD",
+  "nome": "Copa Sul-Americana",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "UCL.png",
+  "codigo": "UCL",
+  "nome": "UEFA Champions League",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "UEL.png",
+  "codigo": "UEL",
+  "nome": "UEFA Europa League",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "WC.png",
+  "codigo": "WC",
+  "nome": "Copa do Mundo",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ },
+ {
+  "arquivo": "_default.png",
+  "codigo": "_default",
+  "nome": "Trofeu generico",
+  "transparente": true,
+  "origem": "thefenomeno-assets (producao)"
+ }
+]

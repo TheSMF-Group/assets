@@ -1,0 +1,8112 @@
+[
+ {
+  "arquivo": "america-do-sul/paraguai/2-de-mayo.png",
+  "id": "2-de-mayo",
+  "clube": "2 de Mayo",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "europa/dinamarca/aab.png",
+  "id": "aab",
+  "clube": "AaB Aalborg",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/abc.png",
+  "id": "abc",
+  "clube": "ABC",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/escocia/aberdeen.png",
+  "id": "aberdeen",
+  "clube": "Aberdeen",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "africa/nigeria/abia-warriors.png",
+  "id": "abia-warriors",
+  "clube": "Abia Warriors",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/italia/ac-milan.png",
+  "id": "ac-milan",
+  "clube": "AC Milan",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/academia-puerto-cabello.png",
+  "id": "academia-puerto-cabello",
+  "clube": "Academia Puerto Cabello",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "africa/gana/accra-great-olympics.png",
+  "id": "accra-great-olympics",
+  "clube": "Accra Great Olympics",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "africa/gana/accra-lions.png",
+  "id": "accra-lions",
+  "clube": "Accra Lions",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/turquia/adana-demirspor.png",
+  "id": "adana-demirspor",
+  "clube": "Adana Demirspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "oceania/australia/adelaide-united.png",
+  "id": "adelaide-united",
+  "clube": "Adelaide United",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "africa/gana/aduana-stars.png",
+  "id": "aduana-stars",
+  "clube": "Aduana Stars",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/grecia/aek-athens.png",
+  "id": "aek-athens",
+  "clube": "AEK Athens",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/africa-sports.png",
+  "id": "africa-sports",
+  "clube": "Africa Sports",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "europa/dinamarca/agf.png",
+  "id": "agf",
+  "clube": "AGF Aarhus",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/aguia-de-maraba.png",
+  "id": "aguia-de-maraba",
+  "clube": "Águia de Marabá",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/aguilas-doradas.png",
+  "id": "aguilas-doradas",
+  "clube": "Águilas Doradas",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "europa/suecia/aik.png",
+  "id": "aik",
+  "clube": "AIK",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/holanda/ajax.png",
+  "id": "ajax",
+  "clube": "Ajax",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "africa/nigeria/akwa-united.png",
+  "id": "akwa-united",
+  "clube": "Akwa United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "asia/catar/al-ahli-qatar.png",
+  "id": "al-ahli-qatar",
+  "clube": "Al-Ahli Doha",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-ahli-sa.png",
+  "id": "al-ahli-sa",
+  "clube": "Al-Ahli",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "africa/egito/al-ahly.png",
+  "id": "al-ahly",
+  "clube": "Al Ahly",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "asia/catar/al-arabi-qatar.png",
+  "id": "al-arabi-qatar",
+  "clube": "Al-Arabi",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/catar/al-duhail.png",
+  "id": "al-duhail",
+  "clube": "Al-Duhail",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-ettifaq.png",
+  "id": "al-ettifaq",
+  "clube": "Al-Ettifaq",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-fateh.png",
+  "id": "al-fateh",
+  "clube": "Al-Fateh",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-fayha.png",
+  "id": "al-fayha",
+  "clube": "Al-Fayha",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/catar/al-gharafa.png",
+  "id": "al-gharafa",
+  "clube": "Al-Gharafa",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-hilal.png",
+  "id": "al-hilal",
+  "clube": "Al-Hilal",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-ittihad.png",
+  "id": "al-ittihad",
+  "clube": "Al-Ittihad",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "africa/egito/al-ittihad-eg.png",
+  "id": "al-ittihad-eg",
+  "clube": "Al-Ittihad Alexandria",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-khaleej.png",
+  "id": "al-khaleej",
+  "clube": "Al-Khaleej",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/catar/al-khor.png",
+  "id": "al-khor",
+  "clube": "Al-Khor",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/catar/al-markhiya.png",
+  "id": "al-markhiya",
+  "clube": "Al-Markhiya",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "africa/egito/al-masry.png",
+  "id": "al-masry",
+  "clube": "Al Masry",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-nassr.png",
+  "id": "al-nassr",
+  "clube": "Al-Nassr",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-okhdood.png",
+  "id": "al-okhdood",
+  "clube": "Al-Okhdood",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-orobah.png",
+  "id": "al-orobah",
+  "clube": "Al-Orobah",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-qadsiah.png",
+  "id": "al-qadsiah",
+  "clube": "Al-Qadsiah",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-raed.png",
+  "id": "al-raed",
+  "clube": "Al-Raed",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/catar/al-rayyan.png",
+  "id": "al-rayyan",
+  "clube": "Al-Rayyan",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-riyadh.png",
+  "id": "al-riyadh",
+  "clube": "Al-Riyadh",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/catar/al-sadd.png",
+  "id": "al-sadd",
+  "clube": "Al-Sadd",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-shabab.png",
+  "id": "al-shabab",
+  "clube": "Al-Shabab",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/catar/al-shamal.png",
+  "id": "al-shamal",
+  "clube": "Al-Shamal",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-taawoun.png",
+  "id": "al-taawoun",
+  "clube": "Al-Taawoun",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "asia/catar/al-wakrah.png",
+  "id": "al-wakrah",
+  "clube": "Al-Wakrah",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/al-wehda.png",
+  "id": "al-wehda",
+  "clube": "Al-Wehda",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "europa/turquia/alanyaspor.png",
+  "id": "alanyaspor",
+  "clube": "Alanyaspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/espanha/alaves.png",
+  "id": "alaves",
+  "clube": "Deportivo Alavés",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "asia/japao/albirex-niigata.png",
+  "id": "albirex-niigata",
+  "clube": "Albirex Niigata",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/aldosivi.png",
+  "id": "aldosivi",
+  "clube": "Aldosivi",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/peru/alianza-atletico.png",
+  "id": "alianza-atletico",
+  "clube": "Alianza Atlético",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/alianza-fc.png",
+  "id": "alianza-fc",
+  "clube": "Alianza FC",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/peru/alianza-lima.png",
+  "id": "alianza-lima",
+  "clube": "Alianza Lima",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "europa/holanda/almere-city.png",
+  "id": "almere-city",
+  "clube": "Almere City",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "asia/ira/aluminium-arak.png",
+  "id": "aluminium-arak",
+  "clube": "Aluminium Arak",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/amazonas.png",
+  "id": "amazonas",
+  "clube": "Amazonas",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/amazulu.png",
+  "id": "amazulu",
+  "clube": "AmaZulu",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/america.png",
+  "id": "america",
+  "clube": "Club América",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/america-cali.png",
+  "id": "america-cali",
+  "clube": "América de Cali",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/america-mg.png",
+  "id": "america-mg",
+  "clube": "América-MG",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/belgica/anderlecht.png",
+  "id": "anderlecht",
+  "clube": "Anderlecht",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "europa/franca/angers.png",
+  "id": "angers",
+  "clube": "Angers",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/angostura.png",
+  "id": "angostura",
+  "clube": "Angostura FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "europa/turquia/antalyaspor.png",
+  "id": "antalyaspor",
+  "clube": "Antalyaspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/belgica/antwerp.png",
+  "id": "antwerp",
+  "clube": "Antwerp",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/anzoategui.png",
+  "id": "anzoategui",
+  "clube": "Deportivo Anzoátegui",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/aparecidense.png",
+  "id": "aparecidense",
+  "clube": "Aparecidense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/argentinos-jrs.png",
+  "id": "argentinos-jrs",
+  "clube": "Argentinos Juniors",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/grecia/aris.png",
+  "id": "aris",
+  "clube": "Aris",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/portugal/arouca.png",
+  "id": "arouca",
+  "clube": "Arouca",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "europa/inglaterra/arsenal.png",
+  "id": "arsenal",
+  "clube": "Arsenal",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "africa/tunisia/as-marsa.png",
+  "id": "as-marsa",
+  "clube": "AS Marsa",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/tunisia/as-soliman.png",
+  "id": "as-soliman",
+  "clube": "AS Soliman",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/gana/asante-kotoko.png",
+  "id": "asante-kotoko",
+  "clube": "Asante Kotoko",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/asec-mimosas.png",
+  "id": "asec-mimosas",
+  "clube": "ASEC Mimosas",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "africa/argelia/aso-chlef.png",
+  "id": "aso-chlef",
+  "clube": "ASO Chlef",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/grecia/asteras-tripolis.png",
+  "id": "asteras-tripolis",
+  "clube": "Asteras Tripolis",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/inglaterra/aston-villa.png",
+  "id": "aston-villa",
+  "clube": "Aston Villa",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/italia/atalanta.png",
+  "id": "atalanta",
+  "clube": "Atalanta",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/espanha/athletic.png",
+  "id": "athletic",
+  "clube": "Athletic Club",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/athletico-pr.png",
+  "id": "athletico-pr",
+  "clube": "Athletico Paranaense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/atl-nacional.png",
+  "id": "atl-nacional",
+  "clube": "Atlético Nacional",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/atlanta-utd.png",
+  "id": "atlanta-utd",
+  "clube": "Atlanta United",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/atlas.png",
+  "id": "atlas",
+  "clube": "Atlas",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "europa/espanha/atletico.png",
+  "id": "atletico",
+  "clube": "Atlético Madrid",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-sul/peru/atletico-grau.png",
+  "id": "atletico-grau",
+  "clube": "Atlético Grau",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/atletico-mg.png",
+  "id": "atletico-mg",
+  "clube": "Atlético Mineiro",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/atletico-tembetary.png",
+  "id": "atletico-tembetary",
+  "clube": "Atlético Tembetary",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "europa/grecia/atromitos.png",
+  "id": "atromitos",
+  "clube": "Atromitos",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "america-do-sul/equador/aucas.png",
+  "id": "aucas",
+  "clube": "Aucas",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "oceania/australia/auckland-fc.png",
+  "id": "auckland-fc",
+  "clube": "Auckland FC",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "america-do-sul/chile/audax-italiano.png",
+  "id": "audax-italiano",
+  "clube": "Audax Italiano",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "europa/alemanha/augsburg.png",
+  "id": "augsburg",
+  "clube": "Augsburg",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/austin-fc.png",
+  "id": "austin-fc",
+  "clube": "Austin FC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/austria/austria-klagenfurt.png",
+  "id": "austria-klagenfurt",
+  "clube": "Austria Klagenfurt",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/austria/austria-wien.png",
+  "id": "austria-wien",
+  "clube": "Austria Wien",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/franca/auxerre.png",
+  "id": "auxerre",
+  "clube": "Auxerre",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/avai.png",
+  "id": "avai",
+  "clube": "Avaí",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/portugal/ave-pt.png",
+  "id": "ave-pt",
+  "clube": "AVS",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "asia/japao/avispa-fukuoka.png",
+  "id": "avispa-fukuoka",
+  "clube": "Avispa Fukuoka",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/holanda/az-alkmaar.png",
+  "id": "az-alkmaar",
+  "clube": "AZ Alkmaar",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/bahia.png",
+  "id": "bahia",
+  "clube": "Bahia",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/chequia/banik-ostrava.png",
+  "id": "banik-ostrava",
+  "clube": "Baník Ostrava",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/espanha/barcelona.png",
+  "id": "barcelona",
+  "clube": "Barcelona",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-sul/equador/barcelona-sc.png",
+  "id": "barcelona-sc",
+  "clube": "Barcelona SC",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/barracas.png",
+  "id": "barracas",
+  "clube": "Barracas Central",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/turquia/basaksehir.png",
+  "id": "basaksehir",
+  "clube": "Başakşehir",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/suica/basel.png",
+  "id": "basel",
+  "clube": "FC Basel",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "africa/nigeria/bayelsa-united.png",
+  "id": "bayelsa-united",
+  "clube": "Bayelsa United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/alemanha/bayern.png",
+  "id": "bayern",
+  "clube": "Bayern Munich",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "africa/gana/bechem-united.png",
+  "id": "bechem-united",
+  "clube": "Bechem United",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/belgrano.png",
+  "id": "belgrano",
+  "clube": "Belgrano",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "africa/nigeria/bendel-insurance.png",
+  "id": "bendel-insurance",
+  "clube": "Bendel Insurance",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/portugal/benfica.png",
+  "id": "benfica",
+  "clube": "Benfica",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "africa/gana/berekum-chelsea.png",
+  "id": "berekum-chelsea",
+  "clube": "Berekum Chelsea",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/turquia/besiktas.png",
+  "id": "besiktas",
+  "clube": "Beşiktaş",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/espanha/betis.png",
+  "id": "betis",
+  "clube": "Real Betis",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "africa/gana/bibiani-gold-stars.png",
+  "id": "bibiani-gold-stars",
+  "clube": "Bibiani Gold Stars",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/inglaterra/blackburn.png",
+  "id": "blackburn",
+  "clube": "Blackburn Rovers",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/austria/blau-weiss-linz.png",
+  "id": "blau-weiss-linz",
+  "clube": "Blau-Weiß Linz",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/portugal/boavista.png",
+  "id": "boavista",
+  "clube": "Boavista",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/boca.png",
+  "id": "boca",
+  "clube": "Boca Juniors",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/alemanha/bochum.png",
+  "id": "bochum",
+  "clube": "VfL Bochum",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/turquia/bodrum-fk.png",
+  "id": "bodrum-fk",
+  "clube": "Bodrum FK",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/chequia/bohemians-1905.png",
+  "id": "bohemians-1905",
+  "clube": "Bohemians 1905",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/italia/bologna.png",
+  "id": "bologna",
+  "clube": "Bologna",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/boston-river.png",
+  "id": "boston-river",
+  "clube": "Boston River",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/botafogo.png",
+  "id": "botafogo",
+  "clube": "Botafogo",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/botafogo-pb.png",
+  "id": "botafogo-pb",
+  "clube": "Botafogo-PB",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/botafogo-sp.png",
+  "id": "botafogo-sp",
+  "clube": "Botafogo-SP",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/bouake-fc.png",
+  "id": "bouake-fc",
+  "clube": "FC Bouaké",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "europa/inglaterra/bournemouth.png",
+  "id": "bournemouth",
+  "clube": "Bournemouth",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/portugal/braga.png",
+  "id": "braga",
+  "clube": "Braga",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/bragantino.png",
+  "id": "bragantino",
+  "clube": "Red Bull Bragantino",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/noruega/brann.png",
+  "id": "brann",
+  "clube": "Brann",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/brasiliense.png",
+  "id": "brasiliense",
+  "clube": "Brasiliense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/inglaterra/brentford.png",
+  "id": "brentford",
+  "clube": "Brentford",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/franca/brest.png",
+  "id": "brest",
+  "clube": "Brest",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/inglaterra/brighton.png",
+  "id": "brighton",
+  "clube": "Brighton",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "oceania/australia/brisbane-roar.png",
+  "id": "brisbane-roar",
+  "clube": "Brisbane Roar",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "europa/inglaterra/bristol-city.png",
+  "id": "bristol-city",
+  "clube": "Bristol City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/suecia/brommapojkarna.png",
+  "id": "brommapojkarna",
+  "clube": "IF Brommapojkarna",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/dinamarca/brondby.png",
+  "id": "brondby",
+  "clube": "Brøndby",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/belgica/brugge.png",
+  "id": "brugge",
+  "clube": "Club Brugge",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/brusque.png",
+  "id": "brusque",
+  "clube": "Brusque",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/bucaramanga.png",
+  "id": "bucaramanga",
+  "clube": "Atlético Bucaramanga",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "europa/inglaterra/burnley.png",
+  "id": "burnley",
+  "clube": "Burnley",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "africa/tunisia/ca-bizertin.png",
+  "id": "ca-bizertin",
+  "clube": "CA Bizertin",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/tunisia/cab-bizerte.png",
+  "id": "cab-bizerte",
+  "clube": "CA Bizertin",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "europa/espanha/cadiz.png",
+  "id": "cadiz",
+  "clube": "Cádiz",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "europa/italia/cagliari.png",
+  "id": "cagliari",
+  "clube": "Cagliari",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/cape-town-city.png",
+  "id": "cape-town-city",
+  "clube": "Cape Town City",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/carabobo.png",
+  "id": "carabobo",
+  "clube": "Carabobo FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/caracas-fc.png",
+  "id": "caracas-fc",
+  "clube": "Caracas FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "europa/inglaterra/cardiff.png",
+  "id": "cardiff",
+  "clube": "Cardiff City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "america-do-sul/peru/carlos-mannucci.png",
+  "id": "carlos-mannucci",
+  "clube": "Carlos A. Mannucci",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "europa/portugal/casa-pia.png",
+  "id": "casa-pia",
+  "clube": "Casa Pia",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/ceara.png",
+  "id": "ceara",
+  "clube": "Ceará",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/escocia/celtic.png",
+  "id": "celtic",
+  "clube": "Celtic",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "oceania/australia/central-coast-mariners.png",
+  "id": "central-coast-mariners",
+  "clube": "Central Coast Mariners",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/central-cordoba.png",
+  "id": "central-cordoba",
+  "clube": "Central Córdoba",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "africa/egito/ceramica-cleopatra.png",
+  "id": "ceramica-cleopatra",
+  "clube": "Ceramica Cleopatra",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "europa/belgica/cercle-brugge.png",
+  "id": "cercle-brugge",
+  "clube": "Cercle Brugge",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "asia/japao/cerezo-osaka.png",
+  "id": "cerezo-osaka",
+  "clube": "Cerezo Osaka",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/cerro-porteno.png",
+  "id": "cerro-porteno",
+  "clube": "Cerro Porteño",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "america-do-sul/peru/cesar-vallejo.png",
+  "id": "cesar-vallejo",
+  "clube": "César Vallejo",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/cf-montreal.png",
+  "id": "cf-montreal",
+  "clube": "CF Montréal",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "africa/marrocos/chabab-mohammedia.png",
+  "id": "chabab-mohammedia",
+  "clube": "Chabab Mohammedia",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/chapecoense.png",
+  "id": "chapecoense",
+  "clube": "Chapecoense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/belgica/charleroi.png",
+  "id": "charleroi",
+  "clube": "Charleroi",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/charlotte-fc.png",
+  "id": "charlotte-fc",
+  "clube": "Charlotte FC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/inglaterra/chelsea.png",
+  "id": "chelsea",
+  "clube": "Chelsea",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/chicago-fire.png",
+  "id": "chicago-fire",
+  "clube": "Chicago Fire",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/chico.png",
+  "id": "chico",
+  "clube": "Boyacá Chicó",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/chippa-united.png",
+  "id": "chippa-united",
+  "clube": "Chippa United",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/chivas.png",
+  "id": "chivas",
+  "clube": "Guadalajara",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/peru/cienciano.png",
+  "id": "cienciano",
+  "clube": "Cienciano",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "africa/tunisia/club-africain.png",
+  "id": "club-africain",
+  "clube": "Club Africain",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "america-do-sul/chile/cobreloa.png",
+  "id": "cobreloa",
+  "clube": "Cobreloa",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/chile/cobresal.png",
+  "id": "cobresal",
+  "clube": "Cobresal",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/chile/colo-colo.png",
+  "id": "colo-colo",
+  "clube": "Colo-Colo",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "africa/camaroes/colombe-sportive.png",
+  "id": "colombe-sportive",
+  "clube": "Colombe Sportive",
+  "pais": "camaroes",
+  "cc": "CMR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Elite One"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/colon.png",
+  "id": "colon",
+  "clube": "Colón",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/colorado-rapids.png",
+  "id": "colorado-rapids",
+  "clube": "Colorado Rapids",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/columbus.png",
+  "id": "columbus",
+  "clube": "Columbus Crew",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/peru/comerciantes-unidos.png",
+  "id": "comerciantes-unidos",
+  "clube": "Comerciantes Unidos",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "europa/italia/como.png",
+  "id": "como",
+  "clube": "Como",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/confianca.png",
+  "id": "confianca",
+  "clube": "Confiança",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "asia/japao/consadole-sapporo.png",
+  "id": "consadole-sapporo",
+  "clube": "Consadole Sapporo",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/dinamarca/copenhagen.png",
+  "id": "copenhagen",
+  "clube": "FC Copenhagen",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "america-do-sul/chile/coquimbo.png",
+  "id": "coquimbo",
+  "clube": "Coquimbo Unido",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/corinthians.png",
+  "id": "corinthians",
+  "clube": "Corinthians",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/coritiba.png",
+  "id": "coritiba",
+  "clube": "Coritiba",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/costa-rica-ms.png",
+  "id": "costa-rica-ms",
+  "clube": "Costa Rica-MS",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "africa/camaroes/coton-sport.png",
+  "id": "coton-sport",
+  "clube": "Coton Sport",
+  "pais": "camaroes",
+  "cc": "CMR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Elite One"
+ },
+ {
+  "arquivo": "europa/inglaterra/coventry.png",
+  "id": "coventry",
+  "clube": "Coventry City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "africa/argelia/cr-belouizdad.png",
+  "id": "cr-belouizdad",
+  "clube": "CR Belouizdad",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/polonia/cracovia.png",
+  "id": "cracovia",
+  "clube": "Cracovia",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/crb.png",
+  "id": "crb",
+  "clube": "CRB",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/criciuma.png",
+  "id": "criciuma",
+  "clube": "Criciúma",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/cruz-azul.png",
+  "id": "cruz-azul",
+  "clube": "Cruz Azul",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/cruzeiro.png",
+  "id": "cruzeiro",
+  "clube": "Cruzeiro",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/inglaterra/crystal-palace.png",
+  "id": "crystal-palace",
+  "clube": "Crystal Palace",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "africa/argelia/cs-constantine.png",
+  "id": "cs-constantine",
+  "clube": "CS Constantine",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "africa/tunisia/cs-hammam-lif.png",
+  "id": "cs-hammam-lif",
+  "clube": "CS Hammam-Lif",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/tunisia/cs-sfaxien.png",
+  "id": "cs-sfaxien",
+  "clube": "CS Sfaxien",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/cuiaba.png",
+  "id": "cuiaba",
+  "clube": "Cuiabá",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/servia/cukaricki.png",
+  "id": "cukaricki",
+  "clube": "Čukarički",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "america-do-sul/peru/cusco-fc.png",
+  "id": "cusco-fc",
+  "clube": "Cusco FC",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/daegu-fc.png",
+  "id": "daegu-fc",
+  "clube": "Daegu FC",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/daejeon-hana-citizen.png",
+  "id": "daejeon-hana-citizen",
+  "clube": "Daejeon Hana Citizen",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "africa/senegal/dakar-sacre-coeur.png",
+  "id": "dakar-sacre-coeur",
+  "clube": "Dakar Sacré-Cœur",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "asia/arabia-saudita/damac.png",
+  "id": "damac",
+  "clube": "Damac",
+  "pais": "arabia-saudita",
+  "cc": "KSA",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Saudi Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/danubio.png",
+  "id": "danubio",
+  "clube": "Danubio",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/dc-united.png",
+  "id": "dc-united",
+  "clube": "DC United",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/defensa-justicia.png",
+  "id": "defensa-justicia",
+  "clube": "Defensa y Justicia",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/defensor.png",
+  "id": "defensor",
+  "clube": "Defensor Sporting",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/suecia/degerfors.png",
+  "id": "degerfors",
+  "clube": "Degerfors IF",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "america-do-sul/equador/delfin.png",
+  "id": "delfin",
+  "clube": "Delfín",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "europa/belgica/dender.png",
+  "id": "dender",
+  "clube": "Dender",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/chile/deportes-iquique.png",
+  "id": "deportes-iquique",
+  "clube": "Deportes Iquique",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/chile/deportes-limache.png",
+  "id": "deportes-limache",
+  "clube": "Deportes Limache",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/peru/deportivo-binacional.png",
+  "id": "deportivo-binacional",
+  "clube": "Deportivo Binacional",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/deportivo-cali.png",
+  "id": "deportivo-cali",
+  "clube": "Deportivo Cali",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/equador/deportivo-cuenca.png",
+  "id": "deportivo-cuenca",
+  "clube": "Deportivo Cuenca",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "america-do-sul/peru/deportivo-garcilaso.png",
+  "id": "deportivo-garcilaso",
+  "clube": "Deportivo Garcilaso",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/deportivo-la-guaira.png",
+  "id": "deportivo-la-guaira",
+  "clube": "Deportivo La Guaira",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/deportivo-maldonado.png",
+  "id": "deportivo-maldonado",
+  "clube": "Deportivo Maldonado",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/deportivo-pereira.png",
+  "id": "deportivo-pereira",
+  "clube": "Deportivo Pereira",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/deportivo-tachira.png",
+  "id": "deportivo-tachira",
+  "clube": "Deportivo Táchira",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "africa/senegal/diambars.png",
+  "id": "diambars",
+  "clube": "Diambars FC",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "europa/croacia/dinamo-zagreb.png",
+  "id": "dinamo-zagreb",
+  "clube": "Dinamo Zagreb",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/suecia/djurgarden.png",
+  "id": "djurgarden",
+  "clube": "Djurgårdens IF",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/ucrania/dnipro-1.png",
+  "id": "dnipro-1",
+  "clube": "SC Dnipro-1",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "africa/nigeria/doma-united.png",
+  "id": "doma-united",
+  "clube": "Doma United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/alemanha/dortmund.png",
+  "id": "dortmund",
+  "clube": "Borussia Dortmund",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "africa/gana/dreams-fc.png",
+  "id": "dreams-fc",
+  "clube": "Dreams FC",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/chequia/dukla-praha.png",
+  "id": "dukla-praha",
+  "clube": "Dukla Prague",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/escocia/dundee-fc.png",
+  "id": "dundee-fc",
+  "clube": "Dundee",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "europa/escocia/dundee-utd.png",
+  "id": "dundee-utd",
+  "clube": "Dundee United",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "europa/ucrania/dynamo-kyiv.png",
+  "id": "dynamo-kyiv",
+  "clube": "Dynamo Kyiv",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "africa/egito/el-gouna.png",
+  "id": "el-gouna",
+  "clube": "El Gouna",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/equador/el-nacional.png",
+  "id": "el-nacional",
+  "clube": "El Nacional",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "europa/suecia/elfsborg.png",
+  "id": "elfsborg",
+  "clube": "IF Elfsborg",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "america-do-sul/equador/emelec.png",
+  "id": "emelec",
+  "clube": "Emelec",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "europa/italia/empoli.png",
+  "id": "empoli",
+  "clube": "Empoli",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "africa/egito/enppi.png",
+  "id": "enppi",
+  "clube": "ENPPI",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/envigado.png",
+  "id": "envigado",
+  "clube": "Envigado",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "africa/nigeria/enyimba.png",
+  "id": "enyimba",
+  "clube": "Enyimba",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "africa/argelia/es-setif.png",
+  "id": "es-setif",
+  "clube": "ES Sétif",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/espanha/espanyol.png",
+  "id": "espanyol",
+  "clube": "Espanyol",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "africa/tunisia/esperance-tunis.png",
+  "id": "esperance-tunis",
+  "clube": "Espérance de Tunis",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "asia/ira/esteghlal.png",
+  "id": "esteghlal",
+  "clube": "Esteghlal",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/portugal/estoril.png",
+  "id": "estoril",
+  "clube": "Estoril",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/estudiantes.png",
+  "id": "estudiantes",
+  "clube": "Estudiantes",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/estudiantes-merida.png",
+  "id": "estudiantes-merida",
+  "clube": "Estudiantes de Mérida",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "africa/tunisia/etoile-metlaoui.png",
+  "id": "etoile-metlaoui",
+  "clube": "ES Métlaoui",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/tunisia/etoile-sahel.png",
+  "id": "etoile-sahel",
+  "clube": "Étoile du Sahel",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "europa/inglaterra/everton.png",
+  "id": "everton",
+  "clube": "Everton",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/chile/everton-vina.png",
+  "id": "everton-vina",
+  "clube": "Everton de Viña del Mar",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "europa/portugal/famalicao.png",
+  "id": "famalicao",
+  "clube": "Famalicão",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "africa/marrocos/far-rabat.png",
+  "id": "far-rabat",
+  "clube": "AS FAR Rabat",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/chequia/fastav-zlin.png",
+  "id": "fastav-zlin",
+  "clube": "Fastav Zlín",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/fc-cincinnati.png",
+  "id": "fc-cincinnati",
+  "clube": "FC Cincinnati",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/fc-seoul.png",
+  "id": "fc-seoul",
+  "clube": "FC Seoul",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "asia/japao/fc-tokyo.png",
+  "id": "fc-tokyo",
+  "clube": "FC Tokyo",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/turquia/fenerbahce.png",
+  "id": "fenerbahce",
+  "clube": "Fenerbahçe",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/fenix-uru.png",
+  "id": "fenix-uru",
+  "clube": "Fénix",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/ferroviaria.png",
+  "id": "ferroviaria",
+  "clube": "Ferroviária",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/holanda/feyenoord.png",
+  "id": "feyenoord",
+  "clube": "Feyenoord",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/figueirense.png",
+  "id": "figueirense",
+  "clube": "Figueirense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/italia/fiorentina.png",
+  "id": "fiorentina",
+  "clube": "Fiorentina",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/flamengo.png",
+  "id": "flamengo",
+  "clube": "Flamengo",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/fluminense.png",
+  "id": "fluminense",
+  "clube": "Fluminense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "asia/ira/foolad.png",
+  "id": "foolad",
+  "clube": "Foolad",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/fortaleza.png",
+  "id": "fortaleza",
+  "clube": "Fortaleza",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/fortaleza-ceif.png",
+  "id": "fortaleza-ceif",
+  "clube": "Fortaleza CEIF",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "europa/holanda/fortuna-sittard.png",
+  "id": "fortuna-sittard",
+  "clube": "Fortuna Sittard",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "europa/alemanha/frankfurt.png",
+  "id": "frankfurt",
+  "clube": "Eintracht Frankfurt",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/noruega/fredrikstad.png",
+  "id": "fredrikstad",
+  "clube": "Fredrikstad",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/alemanha/freiburg.png",
+  "id": "freiburg",
+  "clube": "Freiburg",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "africa/marrocos/fus-rabat.png",
+  "id": "fus-rabat",
+  "clube": "FUS Rabat",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "africa/egito/future-fc.png",
+  "id": "future-fc",
+  "clube": "Future FC",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/gagnoa.png",
+  "id": "gagnoa",
+  "clube": "SC Gagnoa",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "europa/suecia/gais.png",
+  "id": "gais",
+  "clube": "GAIS",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/turquia/galatasaray.png",
+  "id": "galatasaray",
+  "clube": "Galatasaray",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "asia/japao/gamba-osaka.png",
+  "id": "gamba-osaka",
+  "clube": "Gamba Osaka",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/gangwon-fc.png",
+  "id": "gangwon-fc",
+  "clube": "Gangwon FC",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "europa/turquia/gaziantep.png",
+  "id": "gaziantep",
+  "clube": "Gaziantep FK",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/general-caballero.png",
+  "id": "general-caballero",
+  "clube": "General Caballero",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "africa/senegal/generation-foot.png",
+  "id": "generation-foot",
+  "clube": "Génération Foot",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "europa/belgica/genk.png",
+  "id": "genk",
+  "clube": "Genk",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "europa/italia/genoa.png",
+  "id": "genoa",
+  "clube": "Genoa",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/belgica/gent.png",
+  "id": "gent",
+  "clube": "Gent",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "europa/espanha/getafe.png",
+  "id": "getafe",
+  "clube": "Getafe",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "africa/egito/ghazl-el-mahalla.png",
+  "id": "ghazl-el-mahalla",
+  "clube": "Ghazl El Mahalla",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "europa/portugal/gil-vicente.png",
+  "id": "gil-vicente",
+  "clube": "Gil Vicente",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/gimcheon-sangmu.png",
+  "id": "gimcheon-sangmu",
+  "clube": "Gimcheon Sangmu",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/gimnasia-lp.png",
+  "id": "gimnasia-lp",
+  "clube": "Gimnasia La Plata",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/polonia/gks-katowice.png",
+  "id": "gks-katowice",
+  "clube": "GKS Katowice",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/alemanha/gladbach.png",
+  "id": "gladbach",
+  "clube": "Borussia Mönchengladbach",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/holanda/go-ahead-eagles.png",
+  "id": "go-ahead-eagles",
+  "clube": "Go Ahead Eagles",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/godoy-cruz.png",
+  "id": "godoy-cruz",
+  "clube": "Godoy Cruz",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/goias.png",
+  "id": "goias",
+  "clube": "Goiás",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "asia/ira/gol-gohar.png",
+  "id": "gol-gohar",
+  "clube": "Gol Gohar",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/golden-arrows.png",
+  "id": "golden-arrows",
+  "clube": "Golden Arrows",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "africa/nigeria/gombe-united.png",
+  "id": "gombe-united",
+  "clube": "Gombe United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/croacia/gorica-hr.png",
+  "id": "gorica-hr",
+  "clube": "HNK Gorica",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/polonia/gornik-zabrze.png",
+  "id": "gornik-zabrze",
+  "clube": "Górnik Zabrze",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/suecia/goteborg.png",
+  "id": "goteborg",
+  "clube": "IFK Göteborg",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/suica/grasshopper.png",
+  "id": "grasshopper",
+  "clube": "Grasshopper",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/austria/grazer-ak.png",
+  "id": "grazer-ak",
+  "clube": "Grazer AK",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/gremio.png",
+  "id": "gremio",
+  "clube": "Grêmio",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/guarani.png",
+  "id": "guarani",
+  "clube": "Guarani",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/guarani-py.png",
+  "id": "guarani-py",
+  "clube": "Guaraní",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "africa/senegal/guediawaye-fc.png",
+  "id": "guediawaye-fc",
+  "clube": "Guédiawaye FC",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/gwangju-fc.png",
+  "id": "gwangju-fc",
+  "clube": "Gwangju FC",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "europa/suecia/hacken.png",
+  "id": "hacken",
+  "clube": "BK Häcken",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/croacia/hajduk-split.png",
+  "id": "hajduk-split",
+  "clube": "Hajduk Split",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/suecia/halmstad.png",
+  "id": "halmstad",
+  "clube": "Halmstads BK",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/noruega/hamkam.png",
+  "id": "hamkam",
+  "clube": "HamKam",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/suecia/hammarby.png",
+  "id": "hammarby",
+  "clube": "Hammarby",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "africa/egito/haras-el-hodoud.png",
+  "id": "haras-el-hodoud",
+  "clube": "Haras El Hodoud",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "europa/austria/hartberg.png",
+  "id": "hartberg",
+  "clube": "TSV Hartberg",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "africa/marrocos/hassania-agadir.png",
+  "id": "hassania-agadir",
+  "clube": "Hassania Agadir",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/turquia/hatayspor.png",
+  "id": "hatayspor",
+  "clube": "Hatayspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/noruega/haugesund.png",
+  "id": "haugesund",
+  "clube": "Haugesund",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "asia/ira/havadar.png",
+  "id": "havadar",
+  "clube": "Havadar",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "africa/gana/heart-of-lions.png",
+  "id": "heart-of-lions",
+  "clube": "Heart of Lions",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "africa/nigeria/heartland-fc.png",
+  "id": "heartland-fc",
+  "clube": "Heartland FC",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/escocia/hearts.png",
+  "id": "hearts",
+  "clube": "Heart of Midlothian",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "africa/gana/hearts-of-oak.png",
+  "id": "hearts-of-oak",
+  "clube": "Hearts of Oak",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/holanda/heerenveen.png",
+  "id": "heerenveen",
+  "clube": "SC Heerenveen",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "europa/alemanha/heidenheim.png",
+  "id": "heidenheim",
+  "clube": "Heidenheim",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/holanda/heracles.png",
+  "id": "heracles",
+  "clube": "Heracles Almelo",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "europa/escocia/hibernian.png",
+  "id": "hibernian",
+  "clube": "Hibernian",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "europa/alemanha/hoffenheim.png",
+  "id": "hoffenheim",
+  "clube": "Hoffenheim",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/alemanha/holstein-kiel.png",
+  "id": "holstein-kiel",
+  "clube": "Holstein Kiel",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/houston-dynamo.png",
+  "id": "houston-dynamo",
+  "clube": "Houston Dynamo",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/chequia/hradec-kralove.png",
+  "id": "hradec-kralove",
+  "clube": "Hradec Králové",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "america-do-sul/chile/huachipato.png",
+  "id": "huachipato",
+  "clube": "Huachipato",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "europa/inglaterra/hull.png",
+  "id": "hull",
+  "clube": "Hull City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/humaita-ac.png",
+  "id": "humaita-ac",
+  "clube": "Humaitá-AC",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/huracan.png",
+  "id": "huracan",
+  "clube": "Huracán",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/incheon-united.png",
+  "id": "incheon-united",
+  "clube": "Incheon United",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/independiente.png",
+  "id": "independiente",
+  "clube": "Independiente",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/equador/independiente-valle.png",
+  "id": "independiente-valle",
+  "clube": "Independiente del Valle",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/instituto.png",
+  "id": "instituto",
+  "clube": "Instituto",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/italia/inter.png",
+  "id": "inter",
+  "clube": "Inter",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/inter-miami.png",
+  "id": "inter-miami",
+  "clube": "Inter Miami",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/internacional.png",
+  "id": "internacional",
+  "clube": "Internacional",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/inglaterra/ipswich.png",
+  "id": "ipswich",
+  "clube": "Ipswich Town",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "africa/egito/ismaily.png",
+  "id": "ismaily",
+  "clube": "Ismaily",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "europa/turquia/istanbulspor.png",
+  "id": "istanbulspor",
+  "clube": "İstanbulspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/croacia/istra-1961.png",
+  "id": "istra-1961",
+  "clube": "Istra 1961",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/ituano.png",
+  "id": "ituano",
+  "clube": "Ituano",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/chequia/jablonec.png",
+  "id": "jablonec",
+  "clube": "Jablonec",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/polonia/jagiellonia.png",
+  "id": "jagiellonia",
+  "clube": "Jagiellonia Białystok",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/jaguares.png",
+  "id": "jaguares",
+  "clube": "Jaguares de Córdoba",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "africa/senegal/jamono-fatick.png",
+  "id": "jamono-fatick",
+  "clube": "Jamono Fatick",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "europa/servia/javor.png",
+  "id": "javor",
+  "clube": "Javor Ivanjica",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/jeju-united.png",
+  "id": "jeju-united",
+  "clube": "Jeju United",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/jeonbuk-hyundai-motors.png",
+  "id": "jeonbuk-hyundai-motors",
+  "clube": "Jeonbuk Hyundai Motors",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "africa/marrocos/jeunesse-soualem.png",
+  "id": "jeunesse-soualem",
+  "clube": "Jeunesse Soualem",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "africa/argelia/js-kabylie.png",
+  "id": "js-kabylie",
+  "clube": "JS Kabylie",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "africa/tunisia/js-kairouan.png",
+  "id": "js-kairouan",
+  "clube": "JS Kairouan",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/tunisia/js-omrane.png",
+  "id": "js-omrane",
+  "clube": "JS El Omrane",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/argelia/js-saoura.png",
+  "id": "js-saoura",
+  "clube": "JS Saoura",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "america-do-sul/peru/juan-pablo-ii.png",
+  "id": "juan-pablo-ii",
+  "clube": "Juan Pablo II College",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/juarez.png",
+  "id": "juarez",
+  "clube": "FC Juárez",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "asia/japao/jubilo-iwata.png",
+  "id": "jubilo-iwata",
+  "clube": "Júbilo Iwata",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/junior-barranquilla.png",
+  "id": "junior-barranquilla",
+  "clube": "Junior",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/juventude.png",
+  "id": "juventude",
+  "clube": "Juventude",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/italia/juventus.png",
+  "id": "juventus",
+  "clube": "Juventus",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/kaizer-chiefs.png",
+  "id": "kaizer-chiefs",
+  "clube": "Kaizer Chiefs",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "europa/grecia/kallithea.png",
+  "id": "kallithea",
+  "clube": "Kallithea",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/suecia/kalmar.png",
+  "id": "kalmar",
+  "clube": "Kalmar FF",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "africa/nigeria/kano-pillars.png",
+  "id": "kano-pillars",
+  "clube": "Kano Pillars",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "africa/gana/karela-united.png",
+  "id": "karela-united",
+  "clube": "Karela United",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/chequia/karvina.png",
+  "id": "karvina",
+  "clube": "Karviná",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "asia/japao/kashima-antlers.png",
+  "id": "kashima-antlers",
+  "clube": "Kashima Antlers",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "asia/japao/kashiwa-reysol.png",
+  "id": "kashiwa-reysol",
+  "clube": "Kashiwa Reysol",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/turquia/kasimpasa.png",
+  "id": "kasimpasa",
+  "clube": "Kasımpaşa",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "africa/nigeria/katsina-united.png",
+  "id": "katsina-united",
+  "clube": "Katsina United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "asia/japao/kawasaki-frontale.png",
+  "id": "kawasaki-frontale",
+  "clube": "Kawasaki Frontale",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/turquia/kayserispor.png",
+  "id": "kayserispor",
+  "clube": "Kayserispor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/noruega/kfum-oslo.png",
+  "id": "kfum-oslo",
+  "clube": "KFUM Oslo",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/escocia/kilmarnock.png",
+  "id": "kilmarnock",
+  "clube": "Kilmarnock",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "europa/ucrania/kolos-kovalivka.png",
+  "id": "kolos-kovalivka",
+  "clube": "Kolos Kovalivka",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "europa/turquia/konyaspor.png",
+  "id": "konyaspor",
+  "clube": "Konyaspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/polonia/korona-kielce.png",
+  "id": "korona-kielce",
+  "clube": "Korona Kielce",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/belgica/kortrijk.png",
+  "id": "kortrijk",
+  "clube": "KV Kortrijk",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "europa/noruega/kristiansund.png",
+  "id": "kristiansund",
+  "clube": "Kristiansund",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/ucrania/kryvbas.png",
+  "id": "kryvbas",
+  "clube": "Kryvbas Kryvyi Rih",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "africa/nigeria/kwara-united.png",
+  "id": "kwara-united",
+  "clube": "Kwara United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "asia/japao/kyoto-sanga.png",
+  "id": "kyoto-sanga",
+  "clube": "Kyoto Sanga",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/la-equidad.png",
+  "id": "la-equidad",
+  "clube": "La Equidad",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/la-galaxy.png",
+  "id": "la-galaxy",
+  "clube": "LA Galaxy",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/lafc.png",
+  "id": "lafc",
+  "clube": "LAFC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/lanus.png",
+  "id": "lanus",
+  "clube": "Lanús",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/espanha/las-palmas.png",
+  "id": "las-palmas",
+  "clube": "Las Palmas",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "europa/austria/lask.png",
+  "id": "lask",
+  "clube": "LASK",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/suica/lausanne-sport.png",
+  "id": "lausanne-sport",
+  "clube": "Lausanne-Sport",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/italia/lazio.png",
+  "id": "lazio",
+  "clube": "Lazio",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-sul/equador/ldu-quito.png",
+  "id": "ldu-quito",
+  "clube": "LDU Quito",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "europa/franca/le-havre.png",
+  "id": "le-havre",
+  "clube": "Le Havre",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/italia/lecce.png",
+  "id": "lecce",
+  "clube": "Lecce",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/polonia/lech-poznan.png",
+  "id": "lech-poznan",
+  "clube": "Lech Poznań",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/inglaterra/leeds.png",
+  "id": "leeds",
+  "clube": "Leeds United",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/polonia/legia-warsaw.png",
+  "id": "legia-warsaw",
+  "clube": "Legia Warsaw",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/gana/legon-cities.png",
+  "id": "legon-cities",
+  "clube": "Legon Cities",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "europa/inglaterra/leicester.png",
+  "id": "leicester",
+  "clube": "Leicester City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/alemanha/leipzig.png",
+  "id": "leipzig",
+  "clube": "RB Leipzig",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/franca/lens.png",
+  "id": "lens",
+  "clube": "Lens",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/leon.png",
+  "id": "leon",
+  "clube": "León",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "europa/grecia/levadiakos.png",
+  "id": "levadiakos",
+  "clube": "Levadiakos",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/alemanha/leverkusen.png",
+  "id": "leverkusen",
+  "clube": "Bayer Leverkusen",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "america-do-sul/equador/libertad-fc.png",
+  "id": "libertad-fc",
+  "clube": "Libertad FC",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/libertad-py.png",
+  "id": "libertad-py",
+  "clube": "Libertad",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "europa/franca/lille.png",
+  "id": "lille",
+  "clube": "Lille",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/noruega/lillestrom.png",
+  "id": "lillestrom",
+  "clube": "Lillestrøm",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "africa/senegal/linguere.png",
+  "id": "linguere",
+  "clube": "ASC Linguère",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "europa/inglaterra/liverpool.png",
+  "id": "liverpool",
+  "clube": "Liverpool",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/liverpool-uru.png",
+  "id": "liverpool-uru",
+  "clube": "Liverpool Montevideo",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/ucrania/lnz-cherkasy.png",
+  "id": "lnz-cherkasy",
+  "clube": "LNZ Cherkasy",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "africa/nigeria/lobi-stars.png",
+  "id": "lobi-stars",
+  "clube": "Lobi Stars",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/croacia/lokomotiva-zagreb.png",
+  "id": "lokomotiva-zagreb",
+  "clube": "Lokomotiva Zagreb",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/londrina.png",
+  "id": "londrina",
+  "clube": "Londrina",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/peru/los-chankas.png",
+  "id": "los-chankas",
+  "clube": "Los Chankas",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "europa/suica/lugano.png",
+  "id": "lugano",
+  "clube": "FC Lugano",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/luverdense.png",
+  "id": "luverdense",
+  "clube": "Luverdense",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/suica/luzern.png",
+  "id": "luzern",
+  "clube": "FC Luzern",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/dinamarca/lyngby.png",
+  "id": "lyngby",
+  "clube": "Lyngby",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/franca/lyon.png",
+  "id": "lyon",
+  "clube": "Lyon",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/lys-sassandra.png",
+  "id": "lys-sassandra",
+  "clube": "LYS Sassandra",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "america-do-sul/equador/macara.png",
+  "id": "macara",
+  "clube": "Macará",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "oceania/australia/macarthur-fc.png",
+  "id": "macarthur-fc",
+  "clube": "Macarthur FC",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "asia/japao/machida-zelvia.png",
+  "id": "machida-zelvia",
+  "clube": "FC Machida Zelvia",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/magesi-fc.png",
+  "id": "magesi-fc",
+  "clube": "Magesi FC",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "africa/marrocos/maghreb-fes.png",
+  "id": "maghreb-fes",
+  "clube": "Maghreb de Fès",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/alemanha/mainz.png",
+  "id": "mainz",
+  "clube": "Mainz 05",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "asia/ira/malavan.png",
+  "id": "malavan",
+  "clube": "Malavan",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/espanha/mallorca.png",
+  "id": "mallorca",
+  "clube": "Mallorca",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "europa/suecia/malmo.png",
+  "id": "malmo",
+  "clube": "Malmö FF",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/mamelodi-sundowns.png",
+  "id": "mamelodi-sundowns",
+  "clube": "Mamelodi Sundowns",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "europa/inglaterra/man-city.png",
+  "id": "man-city",
+  "clube": "Manchester City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/inglaterra/man-utd.png",
+  "id": "man-utd",
+  "clube": "Manchester United",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/manaus-fc.png",
+  "id": "manaus-fc",
+  "clube": "Manaus FC",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/equador/manta-fc.png",
+  "id": "manta-fc",
+  "clube": "Manta FC",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "europa/franca/marseille.png",
+  "id": "marseille",
+  "clube": "Marseille",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/marumo-gallants.png",
+  "id": "marumo-gallants",
+  "clube": "Marumo Gallants",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/mazatlan.png",
+  "id": "mazatlan",
+  "clube": "Mazatlán",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "africa/argelia/mc-alger.png",
+  "id": "mc-alger",
+  "clube": "MC Alger",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "africa/argelia/mc-el-bayadh.png",
+  "id": "mc-el-bayadh",
+  "clube": "MC El Bayadh",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "africa/argelia/mc-oran.png",
+  "id": "mc-oran",
+  "clube": "MC Oran",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/belgica/mechelen.png",
+  "id": "mechelen",
+  "clube": "KV Mechelen",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "africa/gana/medeama-sc.png",
+  "id": "medeama-sc",
+  "clube": "Medeama SC",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/medellin.png",
+  "id": "medellin",
+  "clube": "Independiente Medellín",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "oceania/australia/melbourne-city.png",
+  "id": "melbourne-city",
+  "clube": "Melbourne City",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "oceania/australia/melbourne-victory.png",
+  "id": "melbourne-victory",
+  "clube": "Melbourne Victory",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "america-do-sul/peru/melgar.png",
+  "id": "melgar",
+  "clube": "FBC Melgar",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "asia/ira/mes-kerman.png",
+  "id": "mes-kerman",
+  "clube": "Mes Kerman",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "asia/ira/mes-rafsanjan.png",
+  "id": "mes-rafsanjan",
+  "clube": "Mes Rafsanjan",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/metropolitanos.png",
+  "id": "metropolitanos",
+  "clube": "Metropolitanos FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "europa/inglaterra/middlesbrough.png",
+  "id": "middlesbrough",
+  "clube": "Middlesbrough",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/dinamarca/midtjylland.png",
+  "id": "midtjylland",
+  "clube": "FC Midtjylland",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/millonarios.png",
+  "id": "millonarios",
+  "clube": "Millonarios",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "europa/inglaterra/millwall.png",
+  "id": "millwall",
+  "clube": "Millwall",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/mineros-guayana.png",
+  "id": "mineros-guayana",
+  "clube": "Mineros de Guayana",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/minnesota-utd.png",
+  "id": "minnesota-utd",
+  "clube": "Minnesota United",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/mirassol.png",
+  "id": "mirassol",
+  "clube": "Mirassol",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/suecia/mjallby.png",
+  "id": "mjallby",
+  "clube": "Mjällby AIF",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/chequia/mlada-boleslav.png",
+  "id": "mlada-boleslav",
+  "clube": "Mladá Boleslav",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/servia/mladost-lucani.png",
+  "id": "mladost-lucani",
+  "clube": "Mladost Lučani",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "africa/marrocos/moghreb-tetouan.png",
+  "id": "moghreb-tetouan",
+  "clube": "Moghreb Tétouan",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/noruega/molde.png",
+  "id": "molde",
+  "clube": "Molde",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/franca/monaco.png",
+  "id": "monaco",
+  "clube": "Monaco",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/monagas.png",
+  "id": "monagas",
+  "clube": "Monagas SC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/monterrey.png",
+  "id": "monterrey",
+  "clube": "Monterrey",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/montevideo-ct.png",
+  "id": "montevideo-ct",
+  "clube": "Montevideo City",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/franca/montpellier.png",
+  "id": "montpellier",
+  "clube": "Montpellier",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/italia/monza.png",
+  "id": "monza",
+  "clube": "Monza",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/portugal/moreirense.png",
+  "id": "moreirense",
+  "clube": "Moreirense",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "europa/escocia/motherwell.png",
+  "id": "motherwell",
+  "clube": "Motherwell",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "europa/polonia/motor-lublin.png",
+  "id": "motor-lublin",
+  "clube": "Motor Lublin",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/marrocos/mouloudia-oujda.png",
+  "id": "mouloudia-oujda",
+  "clube": "Mouloudia Oujda",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "asia/catar/muaither.png",
+  "id": "muaither",
+  "clube": "Muaither SC",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "america-do-sul/equador/mushuc-runa.png",
+  "id": "mushuc-runa",
+  "clube": "Mushuc Runa",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "africa/argelia/na-hussein-dey.png",
+  "id": "na-hussein-dey",
+  "clube": "NA Hussein Dey",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/nacional-py.png",
+  "id": "nacional-py",
+  "clube": "Nacional Asunción",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/nacional-uru.png",
+  "id": "nacional-uru",
+  "clube": "Nacional",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "asia/japao/nagoya-grampus.png",
+  "id": "nagoya-grampus",
+  "clube": "Nagoya Grampus",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/franca/nantes.png",
+  "id": "nantes",
+  "clube": "Nantes",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/italia/napoli.png",
+  "id": "napoli",
+  "clube": "Napoli",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/servia/napredak.png",
+  "id": "napredak",
+  "clube": "Napredak Kruševac",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "africa/nigeria/nasarawa-united.png",
+  "id": "nasarawa-united",
+  "clube": "Nasarawa United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/nashville-sc.png",
+  "id": "nashville-sc",
+  "clube": "Nashville SC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "asia/ira/nassaji.png",
+  "id": "nassaji",
+  "clube": "Nassaji Mazandaran",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "africa/egito/national-bank-egypt.png",
+  "id": "national-bank-egypt",
+  "clube": "National Bank of Egypt",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "africa/gana/nations-fc.png",
+  "id": "nations-fc",
+  "clube": "Nations FC",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/nautico.png",
+  "id": "nautico",
+  "clube": "Náutico",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/holanda/nec.png",
+  "id": "nec",
+  "clube": "NEC Nijmegen",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/necaxa.png",
+  "id": "necaxa",
+  "clube": "Necaxa",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/new-england.png",
+  "id": "new-england",
+  "clube": "New England Revolution",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/inglaterra/newcastle.png",
+  "id": "newcastle",
+  "clube": "Newcastle",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "oceania/australia/newcastle-jets.png",
+  "id": "newcastle-jets",
+  "clube": "Newcastle Jets",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "europa/franca/nice.png",
+  "id": "nice",
+  "clube": "Nice",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/dinamarca/nordsjaelland.png",
+  "id": "nordsjaelland",
+  "clube": "FC Nordsjælland",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/suecia/norrkoping.png",
+  "id": "norrkoping",
+  "clube": "IFK Norrköping",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/inglaterra/norwich.png",
+  "id": "norwich",
+  "clube": "Norwich City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/inglaterra/nottm-forest.png",
+  "id": "nottm-forest",
+  "clube": "Nottingham Forest",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/servia/novi-pazar.png",
+  "id": "novi-pazar",
+  "clube": "FK Novi Pazar",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/novorizontino.png",
+  "id": "novorizontino",
+  "clube": "Novorizontino",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "africa/gana/nsoatreman.png",
+  "id": "nsoatreman",
+  "clube": "Nsoatreman FC",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/chile/nublense.png",
+  "id": "nublense",
+  "clube": "Ñublense",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/ny-red-bulls.png",
+  "id": "ny-red-bulls",
+  "clube": "New York Red Bulls",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/ucrania/obolon-kyiv.png",
+  "id": "obolon-kyiv",
+  "clube": "Obolon Kyiv",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "europa/grecia/ofi.png",
+  "id": "ofi",
+  "clube": "OFI Crete",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/servia/ofk-beograd.png",
+  "id": "ofk-beograd",
+  "clube": "OFK Beograd",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "africa/argelia/ol-akbou.png",
+  "id": "ol-akbou",
+  "clube": "Olympique Akbou",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/ucrania/oleksandriya.png",
+  "id": "oleksandriya",
+  "clube": "Oleksandriya",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/olimpia.png",
+  "id": "olimpia",
+  "clube": "Olimpia",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "europa/grecia/olympiacos.png",
+  "id": "olympiacos",
+  "clube": "Olympiacos",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "africa/marrocos/olympic-safi.png",
+  "id": "olympic-safi",
+  "clube": "Olympic Safi",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/once-caldas.png",
+  "id": "once-caldas",
+  "clube": "Once Caldas",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/operario-pr.png",
+  "id": "operario-pr",
+  "clube": "Operário-PR",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-sul/equador/orense.png",
+  "id": "orense",
+  "clube": "Orense",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/orlando-city.png",
+  "id": "orlando-city",
+  "clube": "Orlando City",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/orlando-pirates.png",
+  "id": "orlando-pirates",
+  "clube": "Orlando Pirates",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "africa/tunisia/os-beja.png",
+  "id": "os-beja",
+  "clube": "OS Béja",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "europa/espanha/osasuna.png",
+  "id": "osasuna",
+  "clube": "Osasuna",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "europa/croacia/osijek.png",
+  "id": "osijek",
+  "clube": "NK Osijek",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "africa/senegal/oslo-fa.png",
+  "id": "oslo-fa",
+  "clube": "Oslo FA",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "europa/inglaterra/oxford.png",
+  "id": "oxford",
+  "clube": "Oxford United",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/pachuca.png",
+  "id": "pachuca",
+  "clube": "Pachuca",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/chile/palestino.png",
+  "id": "palestino",
+  "clube": "Palestino",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/palmeiras.png",
+  "id": "palmeiras",
+  "clube": "Palmeiras",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/grecia/panathinaikos.png",
+  "id": "panathinaikos",
+  "clube": "Panathinaikos",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/grecia/panetolikos.png",
+  "id": "panetolikos",
+  "clube": "Panetolikos",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/grecia/panserraikos.png",
+  "id": "panserraikos",
+  "clube": "Panserraikos",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "europa/grecia/paok.png",
+  "id": "paok",
+  "clube": "PAOK",
+  "pais": "grecia",
+  "cc": "GRE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Greek Super League"
+ },
+ {
+  "arquivo": "africa/argelia/paradou-ac.png",
+  "id": "paradou-ac",
+  "clube": "Paradou AC",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/chequia/pardubice.png",
+  "id": "pardubice",
+  "clube": "Pardubice",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/italia/parma.png",
+  "id": "parma",
+  "clube": "Parma",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/servia/partizan.png",
+  "id": "partizan",
+  "clube": "Partizan",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/pasto.png",
+  "id": "pasto",
+  "clube": "Deportivo Pasto",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/patriotas.png",
+  "id": "patriotas",
+  "clube": "Patriotas Boyacá",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/patronato.png",
+  "id": "patronato",
+  "clube": "Patronato",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "asia/ira/paykan.png",
+  "id": "paykan",
+  "clube": "Paykan",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/paysandu.png",
+  "id": "paysandu",
+  "clube": "Paysandu",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/holanda/pec-zwolle.png",
+  "id": "pec-zwolle",
+  "clube": "PEC Zwolle",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/penarol.png",
+  "id": "penarol",
+  "clube": "Peñarol",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/turquia/pendikspor.png",
+  "id": "pendikspor",
+  "clube": "Pendikspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "asia/ira/persepolis.png",
+  "id": "persepolis",
+  "clube": "Persepolis",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "oceania/australia/perth-glory.png",
+  "id": "perth-glory",
+  "clube": "Perth Glory",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "africa/egito/pharco.png",
+  "id": "pharco",
+  "clube": "Pharco",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/philadelphia.png",
+  "id": "philadelphia",
+  "clube": "Philadelphia Union",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/polonia/piast-gliwice.png",
+  "id": "piast-gliwice",
+  "clube": "Piast Gliwice",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/nigeria/plateau-united.png",
+  "id": "plateau-united",
+  "clube": "Plateau United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/platense.png",
+  "id": "platense",
+  "clube": "Platense",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/plaza-colonia.png",
+  "id": "plaza-colonia",
+  "clube": "Plaza Colonia",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/inglaterra/plymouth.png",
+  "id": "plymouth",
+  "clube": "Plymouth Argyle",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/polonia/pogon-szczecin.png",
+  "id": "pogon-szczecin",
+  "clube": "Pogoń Szczecin",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/pohang-steelers.png",
+  "id": "pohang-steelers",
+  "clube": "Pohang Steelers",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "europa/ucrania/polissya.png",
+  "id": "polissya",
+  "clube": "Polissya Zhytomyr",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/polokwane-city.png",
+  "id": "polokwane-city",
+  "clube": "Polokwane City",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/ponte-preta.png",
+  "id": "ponte-preta",
+  "clube": "Ponte Preta",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/portland-timbers.png",
+  "id": "portland-timbers",
+  "clube": "Portland Timbers",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/portugal/porto.png",
+  "id": "porto",
+  "clube": "Porto",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/portuguesa-ve.png",
+  "id": "portuguesa-ve",
+  "clube": "Portuguesa FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "europa/inglaterra/preston.png",
+  "id": "preston",
+  "clube": "Preston North End",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/franca/psg.png",
+  "id": "psg",
+  "clube": "Paris SG",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/holanda/psv.png",
+  "id": "psv",
+  "clube": "PSV",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/puebla.png",
+  "id": "puebla",
+  "clube": "Puebla",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/pumas.png",
+  "id": "pumas",
+  "clube": "Pumas UNAM",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "europa/polonia/puszcza-niepolomice.png",
+  "id": "puszcza-niepolomice",
+  "clube": "Puszcza Niepołomice",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/camaroes/pwd-bamenda.png",
+  "id": "pwd-bamenda",
+  "clube": "PWD Bamenda",
+  "pais": "camaroes",
+  "cc": "CMR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Elite One"
+ },
+ {
+  "arquivo": "africa/egito/pyramids-fc.png",
+  "id": "pyramids-fc",
+  "clube": "Pyramids FC",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "asia/catar/qatar-sc.png",
+  "id": "qatar-sc",
+  "clube": "Qatar SC",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "europa/inglaterra/qpr.png",
+  "id": "qpr",
+  "clube": "Queens Park Rangers",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/queretaro.png",
+  "id": "queretaro",
+  "clube": "Querétaro",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/racing.png",
+  "id": "racing",
+  "clube": "Racing Club",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/racing-uru.png",
+  "id": "racing-uru",
+  "clube": "Racing Club Montevideo",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/servia/radnicki-1923.png",
+  "id": "radnicki-1923",
+  "clube": "Radnički 1923",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "europa/servia/radnik-surdulica.png",
+  "id": "radnik-surdulica",
+  "clube": "Radnik Surdulica",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "europa/polonia/radomiak.png",
+  "id": "radomiak",
+  "clube": "Radomiak Radom",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/marrocos/raja-ca.png",
+  "id": "raja-ca",
+  "clube": "Raja Casablanca",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/polonia/rakow.png",
+  "id": "rakow",
+  "clube": "Raków Częstochowa",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/dinamarca/randers.png",
+  "id": "randers",
+  "clube": "Randers FC",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/escocia/rangers.png",
+  "id": "rangers",
+  "clube": "Rangers",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "africa/nigeria/rangers-intl.png",
+  "id": "rangers-intl",
+  "clube": "Rangers International",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/austria/rapid-wien.png",
+  "id": "rapid-wien",
+  "clube": "Rapid Wien",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/espanha/rayo-vallecano.png",
+  "id": "rayo-vallecano",
+  "clube": "Rayo Vallecano",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/rayo-zuliano.png",
+  "id": "rayo-zuliano",
+  "clube": "Rayo Zuliano",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "africa/argelia/rc-relizane.png",
+  "id": "rc-relizane",
+  "clube": "RC Relizane",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "africa/marrocos/rca-zemamra.png",
+  "id": "rca-zemamra",
+  "clube": "RCA Zemamra",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/espanha/real-madrid.png",
+  "id": "real-madrid",
+  "clube": "Real Madrid",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/real-salt-lake.png",
+  "id": "real-salt-lake",
+  "clube": "Real Salt Lake",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/servia/red-star-belgrade.png",
+  "id": "red-star-belgrade",
+  "clube": "Red Star Belgrade",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "europa/franca/reims.png",
+  "id": "reims",
+  "clube": "Stade de Reims",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/remo.png",
+  "id": "remo",
+  "clube": "Remo",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "africa/nigeria/remo-stars.png",
+  "id": "remo-stars",
+  "clube": "Remo Stars",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/franca/rennes.png",
+  "id": "rennes",
+  "clube": "Rennes",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/austria/rheindorf-altach.png",
+  "id": "rheindorf-altach",
+  "clube": "SCR Altach",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/richards-bay.png",
+  "id": "richards-bay",
+  "clube": "Richards Bay",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "europa/croacia/rijeka.png",
+  "id": "rijeka",
+  "clube": "HNK Rijeka",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/portugal/rio-ave.png",
+  "id": "rio-ave",
+  "clube": "Rio Ave",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/rio-branco-es.png",
+  "id": "rio-branco-es",
+  "clube": "Rio Branco-ES",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/river.png",
+  "id": "river",
+  "clube": "River Plate",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/river-plate-uru.png",
+  "id": "river-plate-uru",
+  "clube": "River Plate Montevideo",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "africa/nigeria/rivers-united.png",
+  "id": "rivers-united",
+  "clube": "Rivers United",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/italia/roma.png",
+  "id": "roma",
+  "clube": "Roma",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/rosario-central.png",
+  "id": "rosario-central",
+  "clube": "Rosario Central",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/noruega/rosenborg.png",
+  "id": "rosenborg",
+  "clube": "Rosenborg",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/escocia/ross-county.png",
+  "id": "ross-county",
+  "clube": "Ross County",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/royal-am.png",
+  "id": "royal-am",
+  "clube": "Royal AM",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "africa/marrocos/rs-berkane.png",
+  "id": "rs-berkane",
+  "clube": "RS Berkane",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "europa/ucrania/rukh-lviv.png",
+  "id": "rukh-lviv",
+  "clube": "Rukh Lviv",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "asia/japao/sagan-tosu.png",
+  "id": "sagan-tosu",
+  "clube": "Sagan Tosu",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/franca/saint-etienne.png",
+  "id": "saint-etienne",
+  "clube": "Saint-Étienne",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/austria/salzburg.png",
+  "id": "salzburg",
+  "clube": "RB Salzburg",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "africa/gana/samartex.png",
+  "id": "samartex",
+  "clube": "Samartex",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/sampaio-correa.png",
+  "id": "sampaio-correa",
+  "clube": "Sampaio Corrêa",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/turquia/samsunspor.png",
+  "id": "samsunspor",
+  "clube": "Samsunspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/san-diego-fc.png",
+  "id": "san-diego-fc",
+  "clube": "San Diego FC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/san-jose.png",
+  "id": "san-jose",
+  "clube": "San Jose Earthquakes",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/san-lorenzo.png",
+  "id": "san-lorenzo",
+  "clube": "San Lorenzo",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/san-pedro.png",
+  "id": "san-pedro",
+  "clube": "FC San Pédro",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "asia/ira/sanat-naft.png",
+  "id": "sanat-naft",
+  "clube": "Sanat Naft",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/noruega/sandefjord.png",
+  "id": "sandefjord",
+  "clube": "Sandefjord",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "asia/japao/sanfrecce-hiroshima.png",
+  "id": "sanfrecce-hiroshima",
+  "clube": "Sanfrecce Hiroshima",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/santa-cruz.png",
+  "id": "santa-cruz",
+  "clube": "Santa Cruz",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/santa-fe.png",
+  "id": "santa-fe",
+  "clube": "Independiente Santa Fe",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/santos.png",
+  "id": "santos",
+  "clube": "Santos",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/santos-laguna.png",
+  "id": "santos-laguna",
+  "clube": "Santos Laguna",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/sao-bernardo.png",
+  "id": "sao-bernardo",
+  "clube": "São Bernardo",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/sao-paulo.png",
+  "id": "sao-paulo",
+  "clube": "São Paulo",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/sao-raimundo-rr.png",
+  "id": "sao-raimundo-rr",
+  "clube": "São Raimundo-RR",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/sarmiento.png",
+  "id": "sarmiento",
+  "clube": "Sarmiento",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/noruega/sarpsborg-08.png",
+  "id": "sarpsborg-08",
+  "clube": "Sarpsborg 08",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/seattle.png",
+  "id": "seattle",
+  "clube": "Seattle Sounders",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/sekhukhune-united.png",
+  "id": "sekhukhune-united",
+  "clube": "Sekhukhune United",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "asia/ira/sepahan.png",
+  "id": "sepahan",
+  "clube": "Sepahan",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/suica/servette.png",
+  "id": "servette",
+  "clube": "Servette",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/espanha/sevilla.png",
+  "id": "sevilla",
+  "clube": "Sevilla",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "europa/ucrania/shakhtar.png",
+  "id": "shakhtar",
+  "clube": "Shakhtar Donetsk",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "asia/ira/shams-azar.png",
+  "id": "shams-azar",
+  "clube": "Shams Azar",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/inglaterra/sheff-utd.png",
+  "id": "sheff-utd",
+  "clube": "Sheffield United",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/inglaterra/sheff-wed.png",
+  "id": "sheff-wed",
+  "clube": "Sheffield Wednesday",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "asia/japao/shimizu-s-pulse.png",
+  "id": "shimizu-s-pulse",
+  "clube": "Shimizu S-Pulse",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "africa/nigeria/shooting-stars.png",
+  "id": "shooting-stars",
+  "clube": "Shooting Stars",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/croacia/sibenik.png",
+  "id": "sibenik",
+  "clube": "HNK Šibenik",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/chequia/sigma-olomouc.png",
+  "id": "sigma-olomouc",
+  "clube": "Sigma Olomouc",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/dinamarca/silkeborg.png",
+  "id": "silkeborg",
+  "clube": "Silkeborg",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/belgica/sint-truiden.png",
+  "id": "sint-truiden",
+  "clube": "Sint-Truiden",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "europa/suica/sion.png",
+  "id": "sion",
+  "clube": "FC Sion",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/suecia/sirius.png",
+  "id": "sirius",
+  "clube": "IK Sirius",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "europa/turquia/sivasspor.png",
+  "id": "sivasspor",
+  "clube": "Sivasspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "europa/polonia/slask-wroclaw.png",
+  "id": "slask-wroclaw",
+  "clube": "Śląsk Wrocław",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/croacia/slaven-belupo.png",
+  "id": "slaven-belupo",
+  "clube": "Slaven Belupo",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/chequia/slavia-prague.png",
+  "id": "slavia-prague",
+  "clube": "Slavia Prague",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/chequia/slovan-liberec.png",
+  "id": "slovan-liberec",
+  "clube": "Slovan Liberec",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "africa/egito/smouha.png",
+  "id": "smouha",
+  "clube": "Smouha",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "europa/espanha/sociedad.png",
+  "id": "sociedad",
+  "clube": "Real Sociedad",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/sol-fc.png",
+  "id": "sol-fc",
+  "clube": "SOL FC",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "africa/senegal/sonacos.png",
+  "id": "sonacos",
+  "clube": "Sonacos",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "europa/dinamarca/sonderjyske.png",
+  "id": "sonderjyske",
+  "clube": "SønderjyskE",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/inglaterra/southampton.png",
+  "id": "southampton",
+  "clube": "Southampton",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/chequia/sparta-prague.png",
+  "id": "sparta-prague",
+  "clube": "Sparta Prague",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "europa/holanda/sparta-rotterdam.png",
+  "id": "sparta-rotterdam",
+  "clube": "Sparta Rotterdam",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "europa/servia/spartak-subotica.png",
+  "id": "spartak-subotica",
+  "clube": "Spartak Subotica",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "america-do-sul/peru/sport-boys.png",
+  "id": "sport-boys",
+  "clube": "Sport Boys",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-sul/peru/sport-huancayo.png",
+  "id": "sport-huancayo",
+  "clube": "Sport Huancayo",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/sport-recife.png",
+  "id": "sport-recife",
+  "clube": "Sport Recife",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/portugal/sporting.png",
+  "id": "sporting",
+  "clube": "Sporting CP",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "america-do-sul/peru/sporting-cristal.png",
+  "id": "sporting-cristal",
+  "clube": "Sporting Cristal",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/sporting-kc.png",
+  "id": "sporting-kc",
+  "clube": "Sporting KC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/sportivo-ameliano.png",
+  "id": "sportivo-ameliano",
+  "clube": "Sportivo Ameliano",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/sportivo-luqueno.png",
+  "id": "sportivo-luqueno",
+  "clube": "Sportivo Luqueño",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/sportivo-trinidense.png",
+  "id": "sportivo-trinidense",
+  "clube": "Sportivo Trinidense",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "europa/suica/st-gallen.png",
+  "id": "st-gallen",
+  "clube": "FC St. Gallen",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/escocia/st-johnstone.png",
+  "id": "st-johnstone",
+  "clube": "St Johnstone",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/st-louis-city.png",
+  "id": "st-louis-city",
+  "clube": "St. Louis City SC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/escocia/st-mirren.png",
+  "id": "st-mirren",
+  "clube": "St Mirren",
+  "pais": "escocia",
+  "cc": "SCO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Scottish Premiership"
+ },
+ {
+  "arquivo": "europa/alemanha/st-pauli.png",
+  "id": "st-pauli",
+  "clube": "St. Pauli",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "africa/tunisia/stade-tunisien.png",
+  "id": "stade-tunisien",
+  "clube": "Stade Tunisien",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "europa/polonia/stal-mielec.png",
+  "id": "stal-mielec",
+  "clube": "Stal Mielec",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/belgica/standard.png",
+  "id": "standard",
+  "clube": "Standard Liège",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/stellenbosch-fc.png",
+  "id": "stellenbosch-fc",
+  "clube": "Stellenbosch FC",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "europa/inglaterra/stoke.png",
+  "id": "stoke",
+  "clube": "Stoke City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/franca/strasbourg.png",
+  "id": "strasbourg",
+  "clube": "Strasbourg",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/noruega/stromsgodset.png",
+  "id": "stromsgodset",
+  "clube": "Strømsgodset",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/austria/sturm-graz.png",
+  "id": "sturm-graz",
+  "clube": "Sturm Graz",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/alemanha/stuttgart.png",
+  "id": "stuttgart",
+  "clube": "Stuttgart",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/inglaterra/sunderland.png",
+  "id": "sunderland",
+  "clube": "Sunderland",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "africa/nigeria/sunshine-stars.png",
+  "id": "sunshine-stars",
+  "clube": "Sunshine Stars",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/supersport-united.png",
+  "id": "supersport-united",
+  "clube": "SuperSport United",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/suwon-fc.png",
+  "id": "suwon-fc",
+  "clube": "Suwon FC",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "europa/inglaterra/swansea.png",
+  "id": "swansea",
+  "clube": "Swansea City",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "oceania/australia/sydney-fc.png",
+  "id": "sydney-fc",
+  "clube": "Sydney FC",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "america-do-sul/paraguai/tacuary.png",
+  "id": "tacuary",
+  "clube": "Tacuary",
+  "pais": "paraguai",
+  "cc": "PAR",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Paraguay"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/talleres.png",
+  "id": "talleres",
+  "clube": "Talleres",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "africa/gana/tamale-city.png",
+  "id": "tamale-city",
+  "clube": "Tamale City",
+  "pais": "gana",
+  "cc": "GHA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ghana Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/equador/tecnico-universitario.png",
+  "id": "tecnico-universitario",
+  "clube": "Técnico Universitario",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "europa/servia/tekstilac.png",
+  "id": "tekstilac",
+  "clube": "Tekstilac Odžaci",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "europa/chequia/teplice.png",
+  "id": "teplice",
+  "clube": "Teplice",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "africa/senegal/teungueth-fc.png",
+  "id": "teungueth-fc",
+  "clube": "Teungueth FC",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/tigre.png",
+  "id": "tigre",
+  "clube": "Tigre",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/tigres.png",
+  "id": "tigres",
+  "clube": "Tigres UANL",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/tijuana.png",
+  "id": "tijuana",
+  "clube": "Club Tijuana",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "asia/japao/tokyo-verdy.png",
+  "id": "tokyo-verdy",
+  "clube": "Tokyo Verdy",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "america-do-sul/colombia/tolima.png",
+  "id": "tolima",
+  "clube": "Deportes Tolima",
+  "pais": "colombia",
+  "cc": "COL",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Categoría Primera A"
+ },
+ {
+  "arquivo": "america-do-norte/mexico/toluca.png",
+  "id": "toluca",
+  "clube": "Toluca",
+  "pais": "mexico",
+  "cc": "MEX",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "Liga MX"
+ },
+ {
+  "arquivo": "europa/italia/torino.png",
+  "id": "torino",
+  "clube": "Torino",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/toronto-fc.png",
+  "id": "toronto-fc",
+  "clube": "Toronto FC",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/inglaterra/tottenham.png",
+  "id": "tottenham",
+  "clube": "Tottenham",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/franca/toulouse.png",
+  "id": "toulouse",
+  "clube": "Toulouse",
+  "pais": "franca",
+  "cc": "FRA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ligue 1"
+ },
+ {
+  "arquivo": "europa/turquia/trabzonspor.png",
+  "id": "trabzonspor",
+  "clube": "Trabzonspor",
+  "pais": "turquia",
+  "cc": "TUR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Süper Lig"
+ },
+ {
+  "arquivo": "asia/ira/tractor.png",
+  "id": "tractor",
+  "clube": "Tractor",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/noruega/tromso.png",
+  "id": "tromso",
+  "clube": "Tromsø",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/trujillanos.png",
+  "id": "trujillanos",
+  "clube": "Trujillanos FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "africa/africa-do-sul/ts-galaxy.png",
+  "id": "ts-galaxy",
+  "clube": "TS Galaxy",
+  "pais": "africa-do-sul",
+  "cc": "RSA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "South African PSL"
+ },
+ {
+  "arquivo": "europa/servia/tsc-backa-topola.png",
+  "id": "tsc-backa-topola",
+  "clube": "TSC Bačka Topola",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "europa/holanda/twente.png",
+  "id": "twente",
+  "clube": "Twente",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-sul/chile/u-catolica.png",
+  "id": "u-catolica",
+  "clube": "Universidad Católica",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/equador/u-catolica-ec.png",
+  "id": "u-catolica-ec",
+  "clube": "Universidad Católica del Ecuador",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "america-do-sul/chile/u-de-chile.png",
+  "id": "u-de-chile",
+  "clube": "Universidad de Chile",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "europa/italia/udinese.png",
+  "id": "udinese",
+  "clube": "Udinese",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "asia/coreia-do-sul/ulsan-hd.png",
+  "id": "ulsan-hd",
+  "clube": "Ulsan HD",
+  "pais": "coreia-do-sul",
+  "cc": "KOR",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "K League 1"
+ },
+ {
+  "arquivo": "asia/catar/umm-salal.png",
+  "id": "umm-salal",
+  "clube": "Umm Salal",
+  "pais": "catar",
+  "cc": "QAT",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Qatar Stars League"
+ },
+ {
+  "arquivo": "africa/camaroes/ums-loum.png",
+  "id": "ums-loum",
+  "clube": "UMS de Loum",
+  "pais": "camaroes",
+  "cc": "CMR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Elite One"
+ },
+ {
+  "arquivo": "europa/alemanha/union-berlin.png",
+  "id": "union-berlin",
+  "clube": "Union Berlin",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "america-do-sul/chile/union-espanola.png",
+  "id": "union-espanola",
+  "clube": "Unión Española",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "america-do-sul/chile/union-la-calera.png",
+  "id": "union-la-calera",
+  "clube": "Unión La Calera",
+  "pais": "chile",
+  "cc": "CHI",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Chile"
+ },
+ {
+  "arquivo": "europa/belgica/union-sg.png",
+  "id": "union-sg",
+  "clube": "Union SG",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "africa/marrocos/union-touarga.png",
+  "id": "union-touarga",
+  "clube": "Union Touarga",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "america-do-sul/peru/universitario.png",
+  "id": "universitario",
+  "clube": "Universitario",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "asia/japao/urawa-red-diamonds.png",
+  "id": "urawa-red-diamonds",
+  "clube": "Urawa Red Diamonds",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "africa/tunisia/us-ben-guerdane.png",
+  "id": "us-ben-guerdane",
+  "clube": "US Ben Guerdane",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/senegal/us-goree.png",
+  "id": "us-goree",
+  "clube": "US Gorée",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "africa/tunisia/us-monastir.png",
+  "id": "us-monastir",
+  "clube": "US Monastir",
+  "pais": "tunisia",
+  "cc": "TUN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Tunisie"
+ },
+ {
+  "arquivo": "africa/argelia/usm-alger.png",
+  "id": "usm-alger",
+  "clube": "USM Alger",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "africa/argelia/usm-bel-abbes.png",
+  "id": "usm-bel-abbes",
+  "clube": "USM Bel Abbès",
+  "pais": "argelia",
+  "cc": "ALG",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Algérie"
+ },
+ {
+  "arquivo": "europa/chequia/usti-nad-labem.png",
+  "id": "usti-nad-labem",
+  "clube": "FK Ústí nad Labem",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "america-do-sul/peru/utc.png",
+  "id": "utc",
+  "clube": "UTC Cajamarca",
+  "pais": "peru",
+  "cc": "PER",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga 1 Perú"
+ },
+ {
+  "arquivo": "europa/holanda/utrecht.png",
+  "id": "utrecht",
+  "clube": "Utrecht",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "europa/espanha/valencia.png",
+  "id": "valencia",
+  "clube": "Valencia",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "europa/noruega/valerenga.png",
+  "id": "valerenga",
+  "clube": "Vålerenga",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/espanha/valladolid.png",
+  "id": "valladolid",
+  "clube": "Real Valladolid",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-norte/estados-unidos/vancouver.png",
+  "id": "vancouver",
+  "clube": "Vancouver Whitecaps",
+  "pais": "estados-unidos",
+  "cc": "USA",
+  "continente": "america-do-norte",
+  "confederacao": "CONCACAF",
+  "liga": "MLS"
+ },
+ {
+  "arquivo": "europa/croacia/varazdin.png",
+  "id": "varazdin",
+  "clube": "NK Varaždin",
+  "pais": "croacia",
+  "cc": "CRO",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "HNL"
+ },
+ {
+  "arquivo": "europa/suecia/varnamo.png",
+  "id": "varnamo",
+  "clube": "IFK Värnamo",
+  "pais": "suecia",
+  "cc": "SWE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Allsvenskan"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/vasco.png",
+  "id": "vasco",
+  "clube": "Vasco da Gama",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/dinamarca/vejle.png",
+  "id": "vejle",
+  "clube": "Vejle",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "america-do-sul/argentina/velez.png",
+  "id": "velez",
+  "clube": "Vélez Sarsfield",
+  "pais": "argentina",
+  "cc": "ARG",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Liga Argentina"
+ },
+ {
+  "arquivo": "europa/italia/venezia.png",
+  "id": "venezia",
+  "clube": "Venezia",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/ucrania/veres-rivne.png",
+  "id": "veres-rivne",
+  "clube": "Veres Rivne",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "europa/italia/verona.png",
+  "id": "verona",
+  "clube": "Hellas Verona",
+  "pais": "italia",
+  "cc": "ITA",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serie A"
+ },
+ {
+  "arquivo": "europa/dinamarca/viborg.png",
+  "id": "viborg",
+  "clube": "Viborg",
+  "pais": "dinamarca",
+  "cc": "DEN",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Danish Superliga"
+ },
+ {
+  "arquivo": "europa/noruega/viking.png",
+  "id": "viking",
+  "clube": "Viking",
+  "pais": "noruega",
+  "cc": "NOR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eliteserien"
+ },
+ {
+  "arquivo": "europa/chequia/viktoria-plzen.png",
+  "id": "viktoria-plzen",
+  "clube": "Viktoria Plzeň",
+  "pais": "chequia",
+  "cc": "CZE",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Czech First League"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/vila-nova.png",
+  "id": "vila-nova",
+  "clube": "Vila Nova",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série B"
+ },
+ {
+  "arquivo": "europa/espanha/villarreal.png",
+  "id": "villarreal",
+  "clube": "Villarreal",
+  "pais": "espanha",
+  "cc": "ESP",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "La Liga"
+ },
+ {
+  "arquivo": "america-do-sul/equador/vinotinto-ec.png",
+  "id": "vinotinto-ec",
+  "clube": "Vinotinto FC",
+  "pais": "equador",
+  "cc": "ECU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "LigaPro Ecuador"
+ },
+ {
+  "arquivo": "asia/japao/vissel-kobe.png",
+  "id": "vissel-kobe",
+  "clube": "Vissel Kobe",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/holanda/vitesse.png",
+  "id": "vitesse",
+  "clube": "Vitesse",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/vitoria-ba.png",
+  "id": "vitoria-ba",
+  "clube": "Vitória",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Brasileirão"
+ },
+ {
+  "arquivo": "europa/portugal/vitoria-sc.png",
+  "id": "vitoria-sc",
+  "clube": "Vitória SC",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "europa/portugal/vizela.png",
+  "id": "vizela",
+  "clube": "Vizela",
+  "pais": "portugal",
+  "cc": "POR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Primeira Liga"
+ },
+ {
+  "arquivo": "europa/servia/vojvodina.png",
+  "id": "vojvodina",
+  "clube": "Vojvodina",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/volta-redonda.png",
+  "id": "volta-redonda",
+  "clube": "Volta Redonda",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/ucrania/vorskla.png",
+  "id": "vorskla",
+  "clube": "Vorskla Poltava",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "europa/holanda/waalwijk.png",
+  "id": "waalwijk",
+  "clube": "RKC Waalwijk",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "africa/senegal/wally-daan.png",
+  "id": "wally-daan",
+  "clube": "Wally Daan",
+  "pais": "senegal",
+  "cc": "SEN",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Sénégal"
+ },
+ {
+  "arquivo": "america-do-sul/uruguai/wanderers-uru.png",
+  "id": "wanderers-uru",
+  "clube": "Montevideo Wanderers",
+  "pais": "uruguai",
+  "cc": "URU",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera Uruguaya"
+ },
+ {
+  "arquivo": "europa/inglaterra/watford.png",
+  "id": "watford",
+  "clube": "Watford",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "oceania/australia/wellington-phoenix.png",
+  "id": "wellington-phoenix",
+  "clube": "Wellington Phoenix",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "europa/alemanha/werder.png",
+  "id": "werder",
+  "clube": "Werder Bremen",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/inglaterra/west-brom.png",
+  "id": "west-brom",
+  "clube": "West Bromwich Albion",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Championship"
+ },
+ {
+  "arquivo": "europa/inglaterra/west-ham.png",
+  "id": "west-ham",
+  "clube": "West Ham",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/belgica/westerlo.png",
+  "id": "westerlo",
+  "clube": "Westerlo",
+  "pais": "belgica",
+  "cc": "BEL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Pro League"
+ },
+ {
+  "arquivo": "oceania/australia/western-sydney-wanderers.png",
+  "id": "western-sydney-wanderers",
+  "clube": "Western Sydney Wanderers",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "oceania/australia/western-united.png",
+  "id": "western-united",
+  "clube": "Western United",
+  "pais": "australia",
+  "cc": "AUS",
+  "continente": "oceania",
+  "confederacao": "AFC",
+  "liga": "A-League"
+ },
+ {
+  "arquivo": "europa/polonia/widzew-lodz.png",
+  "id": "widzew-lodz",
+  "clube": "Widzew Łódź",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/nigeria/wikki-tourists.png",
+  "id": "wikki-tourists",
+  "clube": "Wikki Tourists",
+  "pais": "nigeria",
+  "cc": "NGA",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Nigeria Premier Football League"
+ },
+ {
+  "arquivo": "europa/holanda/willem-ii.png",
+  "id": "willem-ii",
+  "clube": "Willem II",
+  "pais": "holanda",
+  "cc": "NED",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Eredivisie"
+ },
+ {
+  "arquivo": "europa/suica/winterthur.png",
+  "id": "winterthur",
+  "clube": "FC Winterthur",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/polonia/wisla-krakow.png",
+  "id": "wisla-krakow",
+  "clube": "Wisła Kraków",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "europa/austria/wolfsberger.png",
+  "id": "wolfsberger",
+  "clube": "Wolfsberger AC",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "europa/alemanha/wolfsburg.png",
+  "id": "wolfsburg",
+  "clube": "Wolfsburg",
+  "pais": "alemanha",
+  "cc": "GER",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Bundesliga"
+ },
+ {
+  "arquivo": "europa/inglaterra/wolves.png",
+  "id": "wolves",
+  "clube": "Wolverhampton",
+  "pais": "inglaterra",
+  "cc": "ENG",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Premier League"
+ },
+ {
+  "arquivo": "europa/austria/wsg-tirol.png",
+  "id": "wsg-tirol",
+  "clube": "WSG Tirol",
+  "pais": "austria",
+  "cc": "AUT",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Austrian Bundesliga"
+ },
+ {
+  "arquivo": "africa/marrocos/wydad-ac.png",
+  "id": "wydad-ac",
+  "clube": "Wydad AC",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/yaracuyanos.png",
+  "id": "yaracuyanos",
+  "clube": "Yaracuyanos FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "asia/japao/yokohama-f-marinos.png",
+  "id": "yokohama-f-marinos",
+  "clube": "Yokohama F. Marinos",
+  "pais": "japao",
+  "cc": "JPN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "J1 League"
+ },
+ {
+  "arquivo": "europa/suica/young-boys.png",
+  "id": "young-boys",
+  "clube": "Young Boys",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "africa/marrocos/youssoufia-berrechid.png",
+  "id": "youssoufia-berrechid",
+  "clube": "Youssoufia Berrechid",
+  "pais": "marrocos",
+  "cc": "MAR",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Botola Pro"
+ },
+ {
+  "arquivo": "america-do-sul/brasil/ypiranga.png",
+  "id": "ypiranga",
+  "clube": "Ypiranga",
+  "pais": "brasil",
+  "cc": "BRA",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Série C"
+ },
+ {
+  "arquivo": "europa/suica/yverdon.png",
+  "id": "yverdon",
+  "clube": "Yverdon Sport",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ },
+ {
+  "arquivo": "europa/polonia/zaglebie-lubin.png",
+  "id": "zaglebie-lubin",
+  "clube": "Zagłębie Lubin",
+  "pais": "polonia",
+  "cc": "POL",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ekstraklasa"
+ },
+ {
+  "arquivo": "africa/egito/zamalek.png",
+  "id": "zamalek",
+  "clube": "Zamalek",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "america-do-sul/venezuela/zamora-ve.png",
+  "id": "zamora-ve",
+  "clube": "Zamora FC",
+  "pais": "venezuela",
+  "cc": "VEN",
+  "continente": "america-do-sul",
+  "confederacao": "CONMEBOL",
+  "liga": "Primera División de Venezuela"
+ },
+ {
+  "arquivo": "africa/egito/zed-fc.png",
+  "id": "zed-fc",
+  "clube": "ZED FC",
+  "pais": "egito",
+  "cc": "EGY",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Egyptian Premier League"
+ },
+ {
+  "arquivo": "europa/servia/zeleznicar-pancevo.png",
+  "id": "zeleznicar-pancevo",
+  "clube": "Železničar Pančevo",
+  "pais": "servia",
+  "cc": "SRB",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Serbian SuperLiga"
+ },
+ {
+  "arquivo": "asia/ira/zob-ahan.png",
+  "id": "zob-ahan",
+  "clube": "Zob Ahan",
+  "pais": "ira",
+  "cc": "IRN",
+  "continente": "asia",
+  "confederacao": "AFC",
+  "liga": "Persian Gulf Pro League"
+ },
+ {
+  "arquivo": "europa/ucrania/zorya.png",
+  "id": "zorya",
+  "clube": "Zorya Luhansk",
+  "pais": "ucrania",
+  "cc": "UKR",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Ukrainian Premier League"
+ },
+ {
+  "arquivo": "africa/costa-do-marfim/zoukougbeu.png",
+  "id": "zoukougbeu",
+  "clube": "AFAD Djékanou",
+  "pais": "costa-do-marfim",
+  "cc": "CIV",
+  "continente": "africa",
+  "confederacao": "CAF",
+  "liga": "Ligue 1 Côte d’Ivoire"
+ },
+ {
+  "arquivo": "europa/suica/zurich.png",
+  "id": "zurich",
+  "clube": "FC Zürich",
+  "pais": "suica",
+  "cc": "SUI",
+  "continente": "europa",
+  "confederacao": "UEFA",
+  "liga": "Swiss Super League"
+ }
+]
