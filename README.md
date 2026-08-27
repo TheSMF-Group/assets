@@ -4,7 +4,7 @@ Pacote de imagens para os projetos de futebol: retratos de jogadores, escudos de
 clubes e troféus. Tudo em PNG, com um manifesto por pasta relacionando arquivo →
 entidade. Montado em 26/08/2026.
 
-406 MB no total. Fora de qualquer repositório de propósito — ver "Peso" no fim.
+406 MB no total. Repositório público: `github.com/TheSMF-Group/assets`.
 
 ```
 ~/assets/
@@ -101,9 +101,8 @@ recorte e de um código canônico.
 
 ## Peso
 
-406 MB. Não versionar. `theconnections/.gitignore` já ignora `fotos/`, e esta
-pasta vive fora de qualquer repositório justamente para não entrar em nenhum por
-acidente.
+406 MB versionados, ~800 MB para clonar (working tree + objetos do git). Vale
+lembrar antes de rodar `git clone` numa máquina apertada.
 
 O disco da máquina estava com 11 GB livres de 228 GB quando isto foi montado, o
 que é apertado. As faces foram **movidas** de `theconnections/fotos/`, não
@@ -117,6 +116,26 @@ mais nada.
 
 ---
 
+## Servindo por CDN
+
+Sendo público, o conteúdo é servível por jsDelivr sem custo de Edge Request,
+como o `thefenomeno-assets` já faz:
+
+```
+https://cdn.jsdelivr.net/gh/TheSMF-Group/assets@main/faces/3373.png
+https://cdn.jsdelivr.net/gh/TheSMF-Group/assets@main/clubs/europa/espanha/real-madrid.png
+https://cdn.jsdelivr.net/gh/TheSMF-Group/assets@main/trophys/UCL.png
+```
+
+Ao consumir em `<img>` numa página que exporta canvas (share cards), use
+`crossOrigin="anonymous"` — jsDelivr responde com `access-control-allow-origin: *`,
+mas sem o atributo a imagem tainta o canvas e quebra o export em PNG. Mesma
+pegadinha documentada em `thefenomeno/src/game/assetCdn.ts`.
+
+**Este repo não é a fonte de verdade dos escudos e troféus.** Produção lê do
+`thefenomeno-assets`, em caminhos diferentes (`crests/<id>.webp` na raiz). Editar
+um escudo aqui não muda nada no jogo; edite lá.
+
 ## Proveniência
 
 | pasta | fonte |
@@ -125,4 +144,7 @@ mais nada.
 | `clubs/` | `thefenomeno/public/crests/` + metadados de `thefenomeno/src/game/clubs.ts` |
 | `trophys/` | `TheSMF-Group/thefenomeno-assets` (recortados) + 2 jpeg de `_assets_in/trophies-src/` |
 
-Imagens de terceiros, sem licença de redistribuição. Uso local/interno.
+Imagens de terceiros (Transfermarkt e escudos/troféus de clubes e competições),
+sem licença de redistribuição. O repositório é público por decisão deliberada,
+para que o conteúdo possa ser servido por jsDelivr como já acontece com o
+`thefenomeno-assets` — não porque haja direito de republicação.
