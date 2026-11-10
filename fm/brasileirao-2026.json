@@ -1,0 +1,7677 @@
+{
+ "geradoEm": "2026-11-10T14:59:58.435Z",
+ "fonte": "Cut-Out Player Faces Megapack 2027.00 (sortitoutsi.net, comunidade); ids do Football Manager; mapeamento Cartola→FM pelos elencos FM27",
+ "uso": "teste interno e beta do Gravata; recortes de cabeça e ombros, PNG 250x250 com alfa",
+ "atletas": [
+  {
+   "cartolaId": "51413",
+   "apelido": "Walter",
+   "nome": "Walter Leandro Capeloza Artune",
+   "posicao": "GOL",
+   "clube": "MIR",
+   "fmUid": "19041660",
+   "nomeFm": "Walter",
+   "arquivo": "faces/19041660.png"
+  },
+  {
+   "cartolaId": "106199",
+   "apelido": "Gabriel Pec",
+   "nome": "Gabriel Fortes Chaves",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "19397595",
+   "nomeFm": "Gabriel Pec",
+   "arquivo": "faces/19397595.png"
+  },
+  {
+   "cartolaId": "151294",
+   "apelido": "Juan Ferreira",
+   "nome": "Juan Ferreira Leite",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "2000399985",
+   "nomeFm": "Juan",
+   "arquivo": "faces/2000399985.png"
+  },
+  {
+   "cartolaId": "130443",
+   "apelido": "Luciano",
+   "nome": "Luciano Bertolo Ludwig",
+   "posicao": "ZAG",
+   "clube": "CHA",
+   "fmUid": "2000343152",
+   "nomeFm": "Luciano",
+   "arquivo": "faces/2000343152.png"
+  },
+  {
+   "cartolaId": "105901",
+   "apelido": "Edson Fernando",
+   "nome": "Edson Fernando da Silva Gomes",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19375015",
+   "nomeFm": "Edson Fernando",
+   "arquivo": "faces/19375015.png"
+  },
+  {
+   "cartolaId": "99267",
+   "apelido": "Pochettino",
+   "nome": "Tomás Pochettino",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "14077425",
+   "nomeFm": "Tomás Pochettino",
+   "arquivo": "faces/14077425.png"
+  },
+  {
+   "cartolaId": "103626",
+   "apelido": "Ocampo",
+   "nome": "Brian Alexis Ocampo Ferreira",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "78088553",
+   "nomeFm": "Brian Ocampo",
+   "arquivo": "faces/78088553.png"
+  },
+  {
+   "cartolaId": "108946",
+   "apelido": "Victor Sá",
+   "nome": "João Victor Santos Sá",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "19186267",
+   "nomeFm": "Victor Sá",
+   "arquivo": "faces/19186267.png"
+  },
+  {
+   "cartolaId": "112985",
+   "apelido": "Peralta",
+   "nome": "Fabrizio José Peralta Ramírez",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "79035287",
+   "nomeFm": "Fabrizio Peralta",
+   "arquivo": "faces/79035287.png"
+  },
+  {
+   "cartolaId": "141763",
+   "apelido": "Fabiano Souza",
+   "nome": "Fabiano Josué de Souza Silva",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "83288805",
+   "nomeFm": "Fabiano Souza",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "102310",
+   "apelido": "Matheus Felipe",
+   "nome": "Matheus Felipe Santos Nascimento",
+   "posicao": "ZAG",
+   "clube": "REM",
+   "fmUid": "19362991",
+   "nomeFm": "Matheus Felipe",
+   "arquivo": "faces/19362991.png"
+  },
+  {
+   "cartolaId": "120681",
+   "apelido": "Marco Moreno",
+   "nome": "Marco Moreno Ojeda",
+   "posicao": "ZAG",
+   "clube": "BAH",
+   "fmUid": "67294772",
+   "nomeFm": "Marco Moreno",
+   "arquivo": "faces/67294772.png"
+  },
+  {
+   "cartolaId": "101995",
+   "apelido": "Brítez",
+   "nome": "Emanuel Fermín Brítez",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "14048046",
+   "nomeFm": "Emanuel Brítez",
+   "arquivo": "faces/14048046.png"
+  },
+  {
+   "cartolaId": "98617",
+   "apelido": "Maripán",
+   "nome": "Guillermo Alfonso Maripán Loaysa",
+   "posicao": "ZAG",
+   "clube": "INT",
+   "fmUid": "75030680",
+   "nomeFm": "Guillermo Maripán",
+   "arquivo": "faces/75030680.png"
+  },
+  {
+   "cartolaId": "109114",
+   "apelido": "Matheus Nascimento",
+   "nome": "Matheus Nascimento de Paula",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "19404650",
+   "nomeFm": "Matheus Nascimento",
+   "arquivo": "faces/19404650.png"
+  },
+  {
+   "cartolaId": "117061",
+   "apelido": "Gabriel Knesowitsch",
+   "nome": "Gabriel Knesowitsch",
+   "posicao": "ZAG",
+   "clube": "MIR",
+   "fmUid": "2000163479",
+   "nomeFm": "Gabriel Knesowitsch",
+   "arquivo": "faces/2000163479.png"
+  },
+  {
+   "cartolaId": "103562",
+   "apelido": "Guido Herrera",
+   "nome": "Guido Gabriel Herrera",
+   "posicao": "GOL",
+   "clube": "BAH",
+   "fmUid": "14046852",
+   "nomeFm": "Guido Herrera",
+   "arquivo": "faces/14046852.png"
+  },
+  {
+   "cartolaId": "123445",
+   "apelido": "Dantas",
+   "nome": "João Vitor Silva Dantas de Oliveira",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "2000202618",
+   "nomeFm": "Dantas",
+   "arquivo": "faces/2000202618.png"
+  },
+  {
+   "cartolaId": "99034",
+   "apelido": "Elias",
+   "nome": "Elias Lira Nogueira Júnior",
+   "posicao": "LAT",
+   "clube": "MIR",
+   "fmUid": "19341140",
+   "nomeFm": "Elias",
+   "arquivo": "faces/19341140.png"
+  },
+  {
+   "cartolaId": "91130",
+   "apelido": "Fernandinho",
+   "nome": "Fernando José Marques Maciel",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19323764",
+   "nomeFm": "Fernandinho",
+   "arquivo": "faces/19323764.png"
+  },
+  {
+   "cartolaId": "151404",
+   "apelido": "Lucas Emanuel",
+   "nome": "Lucas Emanuel Jales do Nascimento",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "2000567353",
+   "nomeFm": "Lucas Emanuel",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "113558",
+   "apelido": "Bruninho",
+   "nome": "Bruno Gonçalves de Jesus",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "19407442",
+   "nomeFm": "Bruninho",
+   "arquivo": "faces/19407442.png"
+  },
+  {
+   "cartolaId": "122121",
+   "apelido": "Túlio Eduardo",
+   "nome": "Túlio Eduardo Silva de Oliveira",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "2000479496",
+   "nomeFm": "Túlio Eduardo",
+   "arquivo": "faces/2000479496.png"
+  },
+  {
+   "cartolaId": "103967",
+   "apelido": "Bruno Santos",
+   "nome": "Bruno Santos de Oliveira",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19404751",
+   "nomeFm": "Bruno Santos",
+   "arquivo": "faces/19404751.png"
+  },
+  {
+   "cartolaId": "98333",
+   "apelido": "Gabriel Batista",
+   "nome": "Gabriel Batista de Souza",
+   "posicao": "GOL",
+   "clube": "BOT",
+   "fmUid": "19249719",
+   "nomeFm": "Gabriel Batista",
+   "arquivo": "faces/19249719.png"
+  },
+  {
+   "cartolaId": "126996",
+   "apelido": "Paulinho",
+   "nome": "Paulo Ricardo Alves Ibelli",
+   "posicao": "LAT",
+   "clube": "VAS",
+   "fmUid": "2000158438",
+   "nomeFm": "Paulinho",
+   "arquivo": "faces/2000158438.png"
+  },
+  {
+   "cartolaId": "91626",
+   "apelido": "Paulinho",
+   "nome": "Paulo Victor da Silva",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "19239527",
+   "nomeFm": "Paulinho",
+   "arquivo": "faces/19239527.png"
+  },
+  {
+   "cartolaId": "146833",
+   "apelido": "Cléber Lucas",
+   "nome": "Cléber Lucas Chieppe Chagas",
+   "posicao": "GOL",
+   "clube": "BOT",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "91204",
+   "apelido": "Warleson",
+   "nome": "Warleson Steillon Lisboa Oliveira - Stellion",
+   "posicao": "GOL",
+   "clube": "BOT",
+   "fmUid": "19259016",
+   "nomeFm": "Warleson",
+   "arquivo": "faces/19259016.png"
+  },
+  {
+   "cartolaId": "97450",
+   "apelido": "Gustavo Mosquito",
+   "nome": "Gustavo Henric da Silva",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19227511",
+   "nomeFm": "Gustavo Silva",
+   "arquivo": "faces/19227511.png"
+  },
+  {
+   "cartolaId": "151436",
+   "apelido": "Miguel Bilong",
+   "nome": "Miguel Cinoncelli Bilong",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000532587",
+   "nomeFm": "Miguel Bilong",
+   "arquivo": "faces/2000532587.png"
+  },
+  {
+   "cartolaId": "141339",
+   "apelido": "Paulo Roberto",
+   "nome": "Paulo Roberto da Silva Souza",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000437661",
+   "nomeFm": "Paulo Roberto",
+   "arquivo": "faces/2000437661.png"
+  },
+  {
+   "cartolaId": "151406",
+   "apelido": "Herick",
+   "nome": "Herick Garcia da Silva Neves",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "151405",
+   "apelido": "Victor Hugo",
+   "nome": "Victor Hugo Gonçalves dos Santos",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000589177",
+   "nomeFm": "Victor Hugo",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "146624",
+   "apelido": "Heittor",
+   "nome": "Heittor Vinicius da Silva Nunes",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000521530",
+   "nomeFm": "Heittor",
+   "arquivo": "faces/2000521530.png"
+  },
+  {
+   "cartolaId": "118806",
+   "apelido": "Buta",
+   "nome": "Aurélio Gabriel Ulineia Buta",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "55070291",
+   "nomeFm": "Aurélio Buta",
+   "arquivo": "faces/55070291.png"
+  },
+  {
+   "cartolaId": "124483",
+   "apelido": "Lucas Monzón",
+   "nome": "Lucas Gabriel Nunes Monzón Lemos",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": "78105725",
+   "nomeFm": "Lucas Monzón",
+   "arquivo": "faces/78105725.png"
+  },
+  {
+   "cartolaId": "131762",
+   "apelido": "Isac",
+   "nome": "Isac Silvestre da Silva",
+   "posicao": "ZAG",
+   "clube": "SAO",
+   "fmUid": "2000204242",
+   "nomeFm": "Isac",
+   "arquivo": "faces/2000204242.png"
+  },
+  {
+   "cartolaId": "144424",
+   "apelido": "Vitor Lamounier",
+   "nome": "Vitor Lamounier Rego",
+   "posicao": "GOL",
+   "clube": "CRU",
+   "fmUid": "2000519066",
+   "nomeFm": "Vitor Lamounier",
+   "arquivo": "faces/2000519066.png"
+  },
+  {
+   "cartolaId": "146964",
+   "apelido": "Filipe Sirio",
+   "nome": "Filipe Borba Sirio",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "2000379463",
+   "nomeFm": "Filipe Sírio",
+   "arquivo": "faces/2000379463.png"
+  },
+  {
+   "cartolaId": "150842",
+   "apelido": "Gabriel Vinicius",
+   "nome": "Gabriel Vinicius Oliveira da Silva",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "2000379530",
+   "nomeFm": "Gabriel Vinícius",
+   "arquivo": "faces/2000379530.png"
+  },
+  {
+   "cartolaId": "151412",
+   "apelido": "Kássio",
+   "nome": "Kássio da Silva de Jesus",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "2000210542",
+   "nomeFm": "Da Silva",
+   "arquivo": "faces/2000210542.png"
+  },
+  {
+   "cartolaId": "150841",
+   "apelido": "Fabricio Prado",
+   "nome": "Fabricio Zechmeister do Prado",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "2000587602",
+   "nomeFm": "Fabricio Prado",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141160",
+   "apelido": "Zé Lucas",
+   "nome": "José Lucas Gomes da Silva",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "2000443913",
+   "nomeFm": "Zé Lucas",
+   "arquivo": "faces/2000443913.png"
+  },
+  {
+   "cartolaId": "151440",
+   "apelido": "Gutte",
+   "nome": "João Pedro Porto Lucrécio",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000353032",
+   "nomeFm": "Gutte",
+   "arquivo": "faces/2000353032.png"
+  },
+  {
+   "cartolaId": "93637",
+   "apelido": "Bruno Tubarão",
+   "nome": "Bruno Nunes de Barros",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19296455",
+   "nomeFm": "Bruno Tubarão",
+   "arquivo": "faces/19296455.png"
+  },
+  {
+   "cartolaId": "144976",
+   "apelido": "Domingos Andrade",
+   "nome": "Domingos Paulo Andrade",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "95073319",
+   "nomeFm": "Domingos Andrade",
+   "arquivo": "faces/95073319.png"
+  },
+  {
+   "cartolaId": "147468",
+   "apelido": "Wellington",
+   "nome": "Wellington Felipe Pradeiczuk",
+   "posicao": "GOL",
+   "clube": "CHA",
+   "fmUid": "2000534977",
+   "nomeFm": "Wellington",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "122670",
+   "apelido": "Diego Caito",
+   "nome": "Diego Caito Barcellos Oliveira dos Santos",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "2000243371",
+   "nomeFm": "Diego Caito",
+   "arquivo": "faces/2000243371.png"
+  },
+  {
+   "cartolaId": "109097",
+   "apelido": "Jovane Cabral",
+   "nome": "Jovane Eduardo Borges Cabral",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "83111471",
+   "nomeFm": "Jovane Cabral",
+   "arquivo": "faces/83111471.png"
+  },
+  {
+   "cartolaId": "106950",
+   "apelido": "Fernando",
+   "nome": "Fernando Augusto Pereira Bueno Júnior",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19364443",
+   "nomeFm": "Fernando",
+   "arquivo": "faces/19364443.png"
+  },
+  {
+   "cartolaId": "114801",
+   "apelido": "Danilo Pereira",
+   "nome": "Danilo Pereira da Silva",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "19334517",
+   "nomeFm": "Danilo Pereira",
+   "arquivo": "faces/19334517.png"
+  },
+  {
+   "cartolaId": "151292",
+   "apelido": "Felipe Morais",
+   "nome": "Felipe de Morais Barbosa Penna dos Santos",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "2000495995",
+   "nomeFm": "Felipe Morais",
+   "arquivo": "faces/2000495995.png"
+  },
+  {
+   "cartolaId": "127871",
+   "apelido": "Vargas",
+   "nome": "Kerwin Andrés Calderón Vargas",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "2000057688",
+   "nomeFm": "Kerwin Vargas",
+   "arquivo": "faces/2000057688.png"
+  },
+  {
+   "cartolaId": "109461",
+   "apelido": "Calebe",
+   "nome": "Calebe Gonçalves Ferreira da Silva",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19363221",
+   "nomeFm": "Calebe",
+   "arquivo": "faces/19363221.png"
+  },
+  {
+   "cartolaId": "147878",
+   "apelido": "Alejandro",
+   "nome": "Alejandro Ariel Almaraz",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "2000347153",
+   "nomeFm": "Alejandro Almaraz",
+   "arquivo": "faces/2000347153.png"
+  },
+  {
+   "cartolaId": "141344",
+   "apelido": "Vitor Tissi",
+   "nome": "Vitor Gonçalves Tissi",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "2000437653",
+   "nomeFm": "Vitor Tissi",
+   "arquivo": "faces/2000437653.png"
+  },
+  {
+   "cartolaId": "142764",
+   "apelido": "Franco Rossi",
+   "nome": "Franco Andrés Rossi Donazar",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "2000088930",
+   "nomeFm": "Franco Rossi",
+   "arquivo": "faces/2000088930.png"
+  },
+  {
+   "cartolaId": "95541",
+   "apelido": "Gustavo Cazonatti",
+   "nome": "Gustavo Cazonatti",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "83205145",
+   "nomeFm": "Gustavo Cazonatti",
+   "arquivo": "faces/83205145.png"
+  },
+  {
+   "cartolaId": "117314",
+   "apelido": "Thiago Borbas",
+   "nome": "Thiago Nicolás Borbas Silva",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "78102818",
+   "nomeFm": "Thiago Borbas",
+   "arquivo": "faces/78102818.png"
+  },
+  {
+   "cartolaId": "147201",
+   "apelido": "João Kempes",
+   "nome": "João Gabriel Kempes Gonçalves",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "2000498736",
+   "nomeFm": "João Kempes",
+   "arquivo": "faces/2000498736.png"
+  },
+  {
+   "cartolaId": "100596",
+   "apelido": "Krovinovic",
+   "nome": "Filip Krovinović",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "24044427",
+   "nomeFm": "Filip Krovinović",
+   "arquivo": "faces/24044427.png"
+  },
+  {
+   "cartolaId": "107093",
+   "apelido": "Luciano Juba",
+   "nome": "Luciano Batista da Silva Júnior",
+   "posicao": "LAT",
+   "clube": "BAH",
+   "fmUid": "19408285",
+   "nomeFm": "Luciano Juba",
+   "arquivo": "faces/19408285.png"
+  },
+  {
+   "cartolaId": "114323",
+   "apelido": "Colidio",
+   "nome": "Facundo Colidio",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "14180905",
+   "nomeFm": "Facundo Colidio",
+   "arquivo": "faces/14180905.png"
+  },
+  {
+   "cartolaId": "130444",
+   "apelido": "Rodrigo",
+   "nome": "Rodrigo Êndrio Azevedo Tiago",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "2000321052",
+   "nomeFm": "Rodrigo Endrio",
+   "arquivo": "faces/2000321052.png"
+  },
+  {
+   "cartolaId": "106313",
+   "apelido": "Domingos Duarte",
+   "nome": "Domingos de Sousa Coutinho Meneses Duarte",
+   "posicao": "ZAG",
+   "clube": "SAO",
+   "fmUid": "55063355",
+   "nomeFm": "Domingos Duarte",
+   "arquivo": "faces/55063355.png"
+  },
+  {
+   "cartolaId": "130121",
+   "apelido": "João Costa",
+   "nome": "João Gabriel e Costa Cesco",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000135065",
+   "nomeFm": "João Costa",
+   "arquivo": "faces/2000135065.png"
+  },
+  {
+   "cartolaId": "117909",
+   "apelido": "Wesley",
+   "nome": "Wesley Gassova Ribeiro Teixeira",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000192473",
+   "nomeFm": "Wesley",
+   "arquivo": "faces/2000192473.png"
+  },
+  {
+   "cartolaId": "86777",
+   "apelido": "Danilo Barbosa",
+   "nome": "Danilo Barbosa da Silva",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "19192108",
+   "nomeFm": "Danilo Barbosa",
+   "arquivo": "faces/19192108.png"
+  },
+  {
+   "cartolaId": "104649",
+   "apelido": "Heitor",
+   "nome": "Heitor Rodrigues da Fonseca",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19364334",
+   "nomeFm": "Heitor",
+   "arquivo": "faces/19364334.png"
+  },
+  {
+   "cartolaId": "124961",
+   "apelido": "Castaño",
+   "nome": "Kevin Duván Castaño Gil",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "76069073",
+   "nomeFm": "Kevin Castaño",
+   "arquivo": "faces/76069073.png"
+  },
+  {
+   "cartolaId": "86864",
+   "apelido": "Marlon",
+   "nome": "Marlon Matheus Lopes do Nascimento",
+   "posicao": "LAT",
+   "clube": "REM",
+   "fmUid": "19249345",
+   "nomeFm": "Marlon",
+   "arquivo": "faces/19249345.png"
+  },
+  {
+   "cartolaId": "77510",
+   "apelido": "Fred",
+   "nome": "Frederico Rodrigues de Paula Santos",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "19159362",
+   "nomeFm": "Fred",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "123795",
+   "apelido": "Lucho Rodríguez",
+   "nome": "Luciano Rodríguez Rosales",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000068954",
+   "nomeFm": "Luciano Rodríguez",
+   "arquivo": "faces/2000068954.png"
+  },
+  {
+   "cartolaId": "85035",
+   "apelido": "Sanabria",
+   "nome": "Arnaldo Antonio Sanabria Ayala - Tonny",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "67181404",
+   "nomeFm": "Antonio Sanabria",
+   "arquivo": "faces/67181404.png"
+  },
+  {
+   "cartolaId": "87747",
+   "apelido": "Yago Felipe",
+   "nome": "Yago Felipe da Costa Rocha",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "19193050",
+   "nomeFm": "Yago Felipe",
+   "arquivo": "faces/19193050.png"
+  },
+  {
+   "cartolaId": "151600",
+   "apelido": "Miguel Carvalho",
+   "nome": "Miguel Carvalho Vianna",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "2000108512",
+   "nomeFm": "Miguel Carvalho",
+   "arquivo": "faces/2000108512.png"
+  },
+  {
+   "cartolaId": "140908",
+   "apelido": "Bruno Bertinato",
+   "nome": "Bruno Oliveira Bertinato",
+   "posicao": "GOL",
+   "clube": "PAL",
+   "fmUid": "19250018",
+   "nomeFm": "Bruno Bertinato",
+   "arquivo": "faces/19250018.png"
+  },
+  {
+   "cartolaId": "151632",
+   "apelido": "Lemos",
+   "nome": "Pedro Henrique Lemos Barbosa",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "2000443530",
+   "nomeFm": "Lemos",
+   "arquivo": "faces/2000443530.png"
+  },
+  {
+   "cartolaId": "101237",
+   "apelido": "Eliasson",
+   "nome": "Niclas Eliasson Santana",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "93052049",
+   "nomeFm": "Niclas Eliasson",
+   "arquivo": "faces/93052049.png"
+  },
+  {
+   "cartolaId": "102255",
+   "apelido": "Santiago Sosa",
+   "nome": "Santiago Leonel Sosa",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "14185870",
+   "nomeFm": "Santiago Sosa",
+   "arquivo": "faces/14185870.png"
+  },
+  {
+   "cartolaId": "146814",
+   "apelido": "Josmar",
+   "nome": "Josmar Silva Miranda",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "2000521651",
+   "nomeFm": "Josmar",
+   "arquivo": "faces/2000521651.png"
+  },
+  {
+   "cartolaId": "106843",
+   "apelido": "Borrero",
+   "nome": "Dylan Felipe Borrero Caicedo",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "76063316",
+   "nomeFm": "Dylan Borrero",
+   "arquivo": "faces/76063316.png"
+  },
+  {
+   "cartolaId": "107300",
+   "apelido": "Alex Bruno",
+   "nome": "Alex Bruno da Costa Lima",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "2000063838",
+   "nomeFm": "Alex Bruno",
+   "arquivo": "faces/2000063838.png"
+  },
+  {
+   "cartolaId": "140167",
+   "apelido": "Luizinho",
+   "nome": "Luiz Fernando dos Santos de Nardi",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "2000524076",
+   "nomeFm": "Luizinho",
+   "arquivo": "faces/2000524076.png"
+  },
+  {
+   "cartolaId": "141335",
+   "apelido": "Lucas Crepaldi",
+   "nome": "Lucas Crepaldi Pimentel",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000579329",
+   "nomeFm": "Lucas Crepaldi",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141954",
+   "apelido": "Khensane",
+   "nome": "Khensane Mpusane Eustaquio Machel",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "2000444739",
+   "nomeFm": "Khensane",
+   "arquivo": "faces/2000444739.png"
+  },
+  {
+   "cartolaId": "138941",
+   "apelido": "Bruno Duarte",
+   "nome": "Bruno Duarte da Silva",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "19184144",
+   "nomeFm": "Bruno Duarte",
+   "arquivo": "faces/19184144.png"
+  },
+  {
+   "cartolaId": "151289",
+   "apelido": "Kelvin",
+   "nome": "Kelvin Vinicius Barbosa Coutinho",
+   "posicao": "ZAG",
+   "clube": "CRU",
+   "fmUid": "2000358794",
+   "nomeFm": "Kelvin",
+   "arquivo": "faces/2000358794.png"
+  },
+  {
+   "cartolaId": "130252",
+   "apelido": "Euder",
+   "nome": "Euder Galdino da Silva",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "2000481538",
+   "nomeFm": "Euder",
+   "arquivo": "faces/2000481538.png"
+  },
+  {
+   "cartolaId": "145781",
+   "apelido": "Bruno André",
+   "nome": "Bruno André Azevedo Ribeiro",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "2000380230",
+   "nomeFm": "Bruno André",
+   "arquivo": "faces/2000380230.png"
+  },
+  {
+   "cartolaId": "111412",
+   "apelido": "Arthur Chaves",
+   "nome": "Arthur Largura Chaves",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": "19335705",
+   "nomeFm": "Arthur Chaves",
+   "arquivo": "faces/19335705.png"
+  },
+  {
+   "cartolaId": "108602",
+   "apelido": "Valencia",
+   "nome": "Anthony Lenín Valencia Bajaña",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "86066857",
+   "nomeFm": "Anthony Valencia",
+   "arquivo": "faces/86066857.png"
+  },
+  {
+   "cartolaId": "150251",
+   "apelido": "Joaquín Freitas",
+   "nome": "Joaquín Freitas",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "2000278286",
+   "nomeFm": "Joaquín Freitas",
+   "arquivo": "faces/2000278286.png"
+  },
+  {
+   "cartolaId": "151742",
+   "apelido": "André Lucas",
+   "nome": "André Lucas Ribeiro Domingos",
+   "posicao": "LAT",
+   "clube": "PAL",
+   "fmUid": "2000430155",
+   "nomeFm": "André Lucas",
+   "arquivo": "faces/2000430155.png"
+  },
+  {
+   "cartolaId": "73992",
+   "apelido": "Rodinei",
+   "nome": "Rodinei Marcelo de Almeida",
+   "posicao": "LAT",
+   "clube": "SAN",
+   "fmUid": "19161089",
+   "nomeFm": "Rodinei",
+   "arquivo": "faces/19161089.png"
+  },
+  {
+   "cartolaId": "117926",
+   "apelido": "Nicolás Fonseca",
+   "nome": "Nicolás Fonseca",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "43339410",
+   "nomeFm": "Nicolás Fonseca",
+   "arquivo": "faces/43339410.png"
+  },
+  {
+   "cartolaId": "149807",
+   "apelido": "Wanderson",
+   "nome": "Wanderson Estrela Oliveira",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "2000501195",
+   "nomeFm": "Wanderson",
+   "arquivo": "faces/2000501195.png"
+  },
+  {
+   "cartolaId": "122390",
+   "apelido": "Rodrigo Gelado",
+   "nome": "Rodrigo Silva Nascimento",
+   "posicao": "LAT",
+   "clube": "CFC",
+   "fmUid": "2000198534",
+   "nomeFm": "Rodrigo Gelado",
+   "arquivo": "faces/2000198534.png"
+  },
+  {
+   "cartolaId": "127628",
+   "apelido": "Lautaro López",
+   "nome": "Lautaro López",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "2000026406",
+   "nomeFm": "Lautaro López",
+   "arquivo": "faces/2000026406.png"
+  },
+  {
+   "cartolaId": "151825",
+   "apelido": "Gabriel Ibson",
+   "nome": "Gabriel Ibson Evangelista da Silva",
+   "posicao": "ZAG",
+   "clube": "CFC",
+   "fmUid": "2000437291",
+   "nomeFm": "Gabriel Ibson",
+   "arquivo": "faces/2000437291.png"
+  },
+  {
+   "cartolaId": "124552",
+   "apelido": "Lescano",
+   "nome": "Alan Hernán Lescano",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "14240630",
+   "nomeFm": "Alan Lescano",
+   "arquivo": "faces/14240630.png"
+  },
+  {
+   "cartolaId": "80076",
+   "apelido": "Zé Roberto",
+   "nome": "José Roberto Assunção de Araújo Filho",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19197056",
+   "nomeFm": "Zé Roberto",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "99520",
+   "apelido": "Ziyech",
+   "nome": "Hakim Ziyech",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "37040604",
+   "nomeFm": "Hakim Ziyech",
+   "arquivo": "faces/37040604.png"
+  },
+  {
+   "cartolaId": "130525",
+   "apelido": "Pedro Lima",
+   "nome": "Pedro Henrique Cardoso de Lima",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "2000264337",
+   "nomeFm": "Pedro Lima",
+   "arquivo": "faces/2000264337.png"
+  },
+  {
+   "cartolaId": "151347",
+   "apelido": "Ruan Sales",
+   "nome": "Ruan Sales Oliveira",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "2000463017",
+   "nomeFm": "Ruan Sales",
+   "arquivo": "faces/2000463017.png"
+  },
+  {
+   "cartolaId": "146985",
+   "apelido": "Yago Melo",
+   "nome": "Yago Vitor de Melo Veloso",
+   "posicao": "ZAG",
+   "clube": "COR",
+   "fmUid": "2000520575",
+   "nomeFm": "Yago Melo",
+   "arquivo": "faces/2000520575.png"
+  },
+  {
+   "cartolaId": "148439",
+   "apelido": "Darlan Dutra",
+   "nome": "Darlan Silva Dutra",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "2000393052",
+   "nomeFm": "Darlan",
+   "arquivo": "faces/2000393052.png"
+  },
+  {
+   "cartolaId": "104387",
+   "apelido": "Gabriel Pereira",
+   "nome": "Gabriel Pereira Magalhães dos Santos",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "19383188",
+   "nomeFm": "Gabriel Pereira",
+   "arquivo": "faces/19383188.png"
+  },
+  {
+   "cartolaId": "123433",
+   "apelido": "Rosivan",
+   "nome": "Rosivan Macedo Soares",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "2000532679",
+   "nomeFm": "Rosivan",
+   "arquivo": "faces/2000532679.png"
+  },
+  {
+   "cartolaId": "98974",
+   "apelido": "Viña",
+   "nome": "Matías Nicolás Viña Susperreguy",
+   "posicao": "LAT",
+   "clube": "CRU",
+   "fmUid": "78081848",
+   "nomeFm": "Matías Viña",
+   "arquivo": "faces/78081848.png"
+  },
+  {
+   "cartolaId": "97133",
+   "apelido": "Dudu",
+   "nome": "Luís Eduardo Marques dos Santos",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19242556",
+   "nomeFm": "Dudu Marques",
+   "arquivo": "faces/19242556.png"
+  },
+  {
+   "cartolaId": "131454",
+   "apelido": "Athos",
+   "nome": "Athos Thawan Miranda da Silva",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "2000112097",
+   "nomeFm": "Athos Thawan",
+   "arquivo": "faces/2000112097.png"
+  },
+  {
+   "cartolaId": "96678",
+   "apelido": "Bustos",
+   "nome": "Fabricio Tomás Bustos Sein",
+   "posicao": "LAT",
+   "clube": "CFC",
+   "fmUid": "14077012",
+   "nomeFm": "Fabricio Bustos",
+   "arquivo": "faces/14077012.png"
+  },
+  {
+   "cartolaId": "141610",
+   "apelido": "João Pedro",
+   "nome": "João Pedro Pantiga Gomes",
+   "posicao": "GOL",
+   "clube": "SAO",
+   "fmUid": "2000272195",
+   "nomeFm": "João Pedro",
+   "arquivo": "faces/2000272195.png"
+  },
+  {
+   "cartolaId": "130454",
+   "apelido": "Samuel",
+   "nome": "Samuel Lima Barros",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "2000207233",
+   "nomeFm": "Samuel",
+   "arquivo": "faces/2000207233.png"
+  },
+  {
+   "cartolaId": "141608",
+   "apelido": "Pedro Bezerra",
+   "nome": "Pedro Henrique Bezerra Araújo",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "2000379995",
+   "nomeFm": "Pedro Bezerra",
+   "arquivo": "faces/2000379995.png"
+  },
+  {
+   "cartolaId": "149175",
+   "apelido": "Andrés González",
+   "nome": "Andrés Dionicio Moreno González",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "2000533787",
+   "nomeFm": "Andrés Moreno",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "116128",
+   "apelido": "Gabriel Werner",
+   "nome": "Gabriel Werner",
+   "posicao": "GOL",
+   "clube": "CHA",
+   "fmUid": "2000164061",
+   "nomeFm": "Gabriel Werner",
+   "arquivo": "faces/2000164061.png"
+  },
+  {
+   "cartolaId": "116825",
+   "apelido": "Jhonny",
+   "nome": "Jhonny Cardinoti Pedro",
+   "posicao": "LAT",
+   "clube": "FLU",
+   "fmUid": "2000220505",
+   "nomeFm": "Jhonny",
+   "arquivo": "faces/2000220505.png"
+  },
+  {
+   "cartolaId": "132553",
+   "apelido": "Jemmes",
+   "nome": "Jemmes Bruno Ribeiro da Silva",
+   "posicao": "ZAG",
+   "clube": "FLU",
+   "fmUid": "2000035202",
+   "nomeFm": "Jemmes",
+   "arquivo": "faces/2000035202.png"
+  },
+  {
+   "cartolaId": "152258",
+   "apelido": "Gustavo Inácio",
+   "nome": "Gustavo Alves Inácio",
+   "posicao": "ZAG",
+   "clube": "CRU",
+   "fmUid": "2000505770",
+   "nomeFm": "Gustavo Inácio",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "152259",
+   "apelido": "João Borne",
+   "nome": "João Pedro Borne Guimarães",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "2000484266",
+   "nomeFm": "João Borne",
+   "arquivo": "faces/2000484266.png"
+  },
+  {
+   "cartolaId": "152260",
+   "apelido": "Emanuel",
+   "nome": "Emanuel Mariano Quaresma da Silva",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "2000544702",
+   "nomeFm": "Emanuel Mariano",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "152424",
+   "apelido": "Léo Cerci",
+   "nome": "Leonardo Cerci Elias",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "2000546440",
+   "nomeFm": "Léo Cerci",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "152261",
+   "apelido": "Guilherme Pires",
+   "nome": "Guilherme Pires Soares",
+   "posicao": "GOL",
+   "clube": "CAM",
+   "fmUid": "2000572972",
+   "nomeFm": "Guilherme Pires",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141464",
+   "apelido": "Henrique Menke",
+   "nome": "Henrique Menke Lopes",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "2000273963",
+   "nomeFm": "Henrique Menke",
+   "arquivo": "faces/2000273963.png"
+  },
+  {
+   "cartolaId": "147887",
+   "apelido": "Pedro Assis",
+   "nome": "Pedro Assis Gonçalves",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "2000403419",
+   "nomeFm": "Pedro Assis",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "147565",
+   "apelido": "Kauan Alemão",
+   "nome": "Kauan Felipe Klisman Rocha",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "2000550590",
+   "nomeFm": "Kauan Alemão",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "142439",
+   "apelido": "Bruno Baldini",
+   "nome": "Bruno Gonçalves Baldini",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "2000423864",
+   "nomeFm": "Bruno Baldini",
+   "arquivo": "faces/2000423864.png"
+  },
+  {
+   "cartolaId": "141493",
+   "apelido": "Loide Augusto",
+   "nome": "Loide António Augusto",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "83335583",
+   "nomeFm": "Loide Augusto",
+   "arquivo": "faces/83335583.png"
+  },
+  {
+   "cartolaId": "141413",
+   "apelido": "Eric",
+   "nome": "Eric de Jesus Soares",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000335694",
+   "nomeFm": "Eric",
+   "arquivo": "faces/2000335694.png"
+  },
+  {
+   "cartolaId": "97810",
+   "apelido": "Erick",
+   "nome": "Erick de Arruda Serafim",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "19324930",
+   "nomeFm": "Erick",
+   "arquivo": "faces/19324930.png"
+  },
+  {
+   "cartolaId": "68685",
+   "apelido": "Alan Patrick",
+   "nome": "Alan Patrick Lourenço",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19084056",
+   "nomeFm": "Alan Patrick",
+   "arquivo": "faces/19084056.png"
+  },
+  {
+   "cartolaId": "106593",
+   "apelido": "Villalba",
+   "nome": "Lucas Hernán Villalba",
+   "posicao": "ZAG",
+   "clube": "CRU",
+   "fmUid": "14063401",
+   "nomeFm": "Lucas Villalba",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "124369",
+   "apelido": "Léo Aragão",
+   "nome": "Leonardo de Aragão Carvalho",
+   "posicao": "GOL",
+   "clube": "CRU",
+   "fmUid": "2000075954",
+   "nomeFm": "Léo Aragão",
+   "arquivo": "faces/2000075954.png"
+  },
+  {
+   "cartolaId": "69012",
+   "apelido": "Santos",
+   "nome": "Aderbar Melo dos Santos Neto",
+   "posicao": "GOL",
+   "clube": "CAP",
+   "fmUid": "19148968",
+   "nomeFm": "Santos",
+   "arquivo": "faces/19148968.png"
+  },
+  {
+   "cartolaId": "151492",
+   "apelido": "Marquinhos",
+   "nome": "Marcos Vinicius Krygsman Monteiro",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "2000494604",
+   "nomeFm": "Marquinhos",
+   "arquivo": "faces/2000494604.png"
+  },
+  {
+   "cartolaId": "146578",
+   "apelido": "Gabriel Veneno",
+   "nome": "João Gabriel Castro Santos",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "2000475982",
+   "nomeFm": "Gabriel Veneno",
+   "arquivo": "faces/2000475982.png"
+  },
+  {
+   "cartolaId": "142641",
+   "apelido": "Wanderson",
+   "nome": "Wanderson Júnior de Souza Vaz",
+   "posicao": "LAT",
+   "clube": "CAM",
+   "fmUid": "2000372637",
+   "nomeFm": "Wanderson",
+   "arquivo": "faces/2000372637.png"
+  },
+  {
+   "cartolaId": "109573",
+   "apelido": "Martinelli",
+   "nome": "Matheus Martinelli Lima",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "19406135",
+   "nomeFm": "Martinelli",
+   "arquivo": "faces/19406135.png"
+  },
+  {
+   "cartolaId": "68928",
+   "apelido": "Rafael",
+   "nome": "Rafael Pires Monteiro",
+   "posicao": "GOL",
+   "clube": "SAO",
+   "fmUid": "2111991",
+   "nomeFm": "Rafael",
+   "arquivo": "faces/2111991.png"
+  },
+  {
+   "cartolaId": "68899",
+   "apelido": "Philippe Coutinho",
+   "nome": "Philippe Coutinho Correia",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19046041",
+   "nomeFm": "Philippe Coutinho",
+   "arquivo": "faces/19046041.png"
+  },
+  {
+   "cartolaId": "63007",
+   "apelido": "Neymar",
+   "nome": "Neymar da Silva Santos Júnior",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19024412",
+   "nomeFm": "Neymar",
+   "arquivo": "faces/19024412.png"
+  },
+  {
+   "cartolaId": "92171",
+   "apelido": "Arthur Cabral",
+   "nome": "Arthur Mendonça Cabral",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "19266403",
+   "nomeFm": "Arthur Cabral",
+   "arquivo": "faces/19266403.png"
+  },
+  {
+   "cartolaId": "103056",
+   "apelido": "Gabriel Brazão",
+   "nome": "Gabriel Nascimento Rezende Brazão - Resende",
+   "posicao": "GOL",
+   "clube": "SAN",
+   "fmUid": "19338228",
+   "nomeFm": "Gabriel Brazão",
+   "arquivo": "faces/19338228.png"
+  },
+  {
+   "cartolaId": "42234",
+   "apelido": "Cássio",
+   "nome": "Cássio Roberto Ramos",
+   "posicao": "GOL",
+   "clube": "CRU",
+   "fmUid": "8833553",
+   "nomeFm": "Cássio",
+   "arquivo": "faces/8833553.png"
+  },
+  {
+   "cartolaId": "152616",
+   "apelido": "Vinícius Almeida",
+   "nome": "Vinicius Rodrigues Mariano de Almeida",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000540040",
+   "nomeFm": "Vinícius",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "100898",
+   "apelido": "Vitinho",
+   "nome": "Victor Alexander da Silva",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "19273472",
+   "nomeFm": "Vitinho",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "101727",
+   "apelido": "Matheuzinho",
+   "nome": "Matheus França Silva",
+   "posicao": "LAT",
+   "clube": "COR",
+   "fmUid": "19350687",
+   "nomeFm": "Matheuzinho",
+   "arquivo": "faces/19350687.png"
+  },
+  {
+   "cartolaId": "72294",
+   "apelido": "Everson",
+   "nome": "Everson Felipe Marques Pires",
+   "posicao": "GOL",
+   "clube": "CAM",
+   "fmUid": "19045164",
+   "nomeFm": "Everson",
+   "arquivo": "faces/19045164.png"
+  },
+  {
+   "cartolaId": "37656",
+   "apelido": "Fábio",
+   "nome": "Fábio Deivson Lopes Maciel",
+   "posicao": "GOL",
+   "clube": "FLU",
+   "fmUid": "303204",
+   "nomeFm": "Fábio",
+   "arquivo": "faces/303204.png"
+  },
+  {
+   "cartolaId": "105949",
+   "apelido": "Rochet",
+   "nome": "Sergio Ramón Rochet Álvarez",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "78063165",
+   "nomeFm": "Sergio Rochet",
+   "arquivo": "faces/78063165.png"
+  },
+  {
+   "cartolaId": "96591",
+   "apelido": "Renan Lodi",
+   "nome": "Renan Augusto Lodi dos Santos",
+   "posicao": "LAT",
+   "clube": "CAM",
+   "fmUid": "19259027",
+   "nomeFm": "Renan Lodi",
+   "arquivo": "faces/19259027.png"
+  },
+  {
+   "cartolaId": "104758",
+   "apelido": "Enzo Díaz",
+   "nome": "Enzo Hernán Díaz",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "14184324",
+   "nomeFm": "Enzo Díaz",
+   "arquivo": "faces/14184324.png"
+  },
+  {
+   "cartolaId": "105436",
+   "apelido": "Carrascal",
+   "nome": "Jorge Andrés Carrascal Guardo",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "76040911",
+   "nomeFm": "Jorge Carrascal",
+   "arquivo": "faces/76040911.png"
+  },
+  {
+   "cartolaId": "99274",
+   "apelido": "Alexander Barboza",
+   "nome": "Alexander Nahuel Barboza Ullúa",
+   "posicao": "ZAG",
+   "clube": "PAL",
+   "fmUid": "14076367",
+   "nomeFm": "Alexander Barboza",
+   "arquivo": "faces/14076367.png"
+  },
+  {
+   "cartolaId": "61987",
+   "apelido": "Alex Sandro",
+   "nome": "Alex Sandro Lobo Silva",
+   "posicao": "LAT",
+   "clube": "FLA",
+   "fmUid": "19067093",
+   "nomeFm": "Alex Sandro",
+   "arquivo": "faces/19067093.png"
+  },
+  {
+   "cartolaId": "90768",
+   "apelido": "Fabrício Bruno",
+   "nome": "Fabrício Bruno Soares de Faria",
+   "posicao": "ZAG",
+   "clube": "CRU",
+   "fmUid": "19225861",
+   "nomeFm": "Fabrício Bruno",
+   "arquivo": "faces/19225861.png"
+  },
+  {
+   "cartolaId": "87008",
+   "apelido": "Léo Jardim",
+   "nome": "Leonardo César Jardim",
+   "posicao": "GOL",
+   "clube": "VAS",
+   "fmUid": "19219843",
+   "nomeFm": "Léo Jardim",
+   "arquivo": "faces/19219843.png"
+  },
+  {
+   "cartolaId": "91101",
+   "apelido": "Ronaldo",
+   "nome": "Ronaldo de Oliveira Strada",
+   "posicao": "GOL",
+   "clube": "BAH",
+   "fmUid": "19249507",
+   "nomeFm": "Ronaldo",
+   "arquivo": "faces/19249507.png"
+  },
+  {
+   "cartolaId": "97868",
+   "apelido": "Iago",
+   "nome": "Iago Amaral Borduchi",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "19287778",
+   "nomeFm": "Iago Borduchi",
+   "arquivo": "faces/19287778.png"
+  },
+  {
+   "cartolaId": "80313",
+   "apelido": "Gilberto",
+   "nome": "Gilberto Moraes Júnior",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "19171411",
+   "nomeFm": "Gilberto",
+   "arquivo": "faces/19171411.png"
+  },
+  {
+   "cartolaId": "80196",
+   "apelido": "Yago Pikachu",
+   "nome": "Glaybson Yago Souza Lisboa",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19173877",
+   "nomeFm": "Yago Pikachu",
+   "arquivo": "faces/19173877.png"
+  },
+  {
+   "cartolaId": "104783",
+   "apelido": "Acevedo",
+   "nome": "Nicolás Brian Acevedo Tabárez",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "78094472",
+   "nomeFm": "Nicolás Acevedo",
+   "arquivo": "faces/78094472.png"
+  },
+  {
+   "cartolaId": "109401",
+   "apelido": "Erick Pulga",
+   "nome": "Erick da Costa Farias",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "2000143441",
+   "nomeFm": "Erick Pulga",
+   "arquivo": "faces/2000143441.png"
+  },
+  {
+   "cartolaId": "113397",
+   "apelido": "Cristian Olivera",
+   "nome": "Cristian Gonzalo Olivera Ibarra - Kike",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "78097898",
+   "nomeFm": "Kike Olivera",
+   "arquivo": "faces/78097898.png"
+  },
+  {
+   "cartolaId": "68996",
+   "apelido": "Willian José",
+   "nome": "Willian José da Silva",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "19081798",
+   "nomeFm": "Willian José",
+   "arquivo": "faces/19081798.png"
+  },
+  {
+   "cartolaId": "98517",
+   "apelido": "Jean Lucas",
+   "nome": "Jean Lucas de Souza Oliveira",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "19328100",
+   "nomeFm": "Jean Lucas",
+   "arquivo": "faces/19328100.png"
+  },
+  {
+   "cartolaId": "91772",
+   "apelido": "David Duarte",
+   "nome": "David de Duarte Macedo",
+   "posicao": "ZAG",
+   "clube": "BAH",
+   "fmUid": "19273581",
+   "nomeFm": "David Duarte",
+   "arquivo": "faces/19273581.png"
+  },
+  {
+   "cartolaId": "98022",
+   "apelido": "Erick",
+   "nome": "Erick Luis Conrado de Carvalho",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "19350363",
+   "nomeFm": "Erick",
+   "arquivo": "faces/19350363.png"
+  },
+  {
+   "cartolaId": "85425",
+   "apelido": "João Paulo",
+   "nome": "João Paulo Silva Martins",
+   "posicao": "GOL",
+   "clube": "SAN",
+   "fmUid": "19231041",
+   "nomeFm": "João Paulo",
+   "arquivo": "faces/19231041.png"
+  },
+  {
+   "cartolaId": "123717",
+   "apelido": "Zé Guilherme",
+   "nome": "José Guilherme de Lima Costa",
+   "posicao": "LAT",
+   "clube": "BAH",
+   "fmUid": "2000255804",
+   "nomeFm": "Zé Guilherme",
+   "arquivo": "faces/2000255804.png"
+  },
+  {
+   "cartolaId": "98484",
+   "apelido": "Kanu",
+   "nome": "Victor Hugo Soares dos Santos",
+   "posicao": "ZAG",
+   "clube": "BAH",
+   "fmUid": "19307359",
+   "nomeFm": "Kanu",
+   "arquivo": "faces/19307359.png"
+  },
+  {
+   "cartolaId": "106822",
+   "apelido": "Rodrigo Nestor",
+   "nome": "Rodrigo Nestor Bertalia",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "19306946",
+   "nomeFm": "Rodrigo Nestor",
+   "arquivo": "faces/19306946.png"
+  },
+  {
+   "cartolaId": "106323",
+   "apelido": "Caio Alexandre",
+   "nome": "Caio Alexandre Souza e Silva",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "19360351",
+   "nomeFm": "Caio Alexandre",
+   "arquivo": "faces/19360351.png"
+  },
+  {
+   "cartolaId": "121824",
+   "apelido": "Kayke",
+   "nome": "Kayke Ferrari Guimarães",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "2000208346",
+   "nomeFm": "Kayke",
+   "arquivo": "faces/2000208346.png"
+  },
+  {
+   "cartolaId": "141419",
+   "apelido": "Fredi Lippert",
+   "nome": "Frederico Lippert Neto Gomes",
+   "posicao": "ZAG",
+   "clube": "BAH",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "123360",
+   "apelido": "Cauly",
+   "nome": "Cauly Oliveira Souza",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "91119875",
+   "nomeFm": "Cauly",
+   "arquivo": "faces/91119875.png"
+  },
+  {
+   "cartolaId": "72493",
+   "apelido": "Alex Telles",
+   "nome": "Alex Nicolao Telles",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "19162830",
+   "nomeFm": "Alex Telles",
+   "arquivo": "faces/19162830.png"
+  },
+  {
+   "cartolaId": "101314",
+   "apelido": "Ademir",
+   "nome": "Ademir da Silva Santos Júnior",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "19409404",
+   "nomeFm": "Ademir",
+   "arquivo": "faces/19409404.png"
+  },
+  {
+   "cartolaId": "107173",
+   "apelido": "Michel Araújo",
+   "nome": "Michel Daryl Araújo Villar",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "78082187",
+   "nomeFm": "Michel Araújo",
+   "arquivo": "faces/78082187.png"
+  },
+  {
+   "cartolaId": "145379",
+   "apelido": "Kauê Furquim",
+   "nome": "Kauê Junior Furquim da Silva",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "2000480666",
+   "nomeFm": "Kauê Furquim",
+   "arquivo": "faces/2000480666.png"
+  },
+  {
+   "cartolaId": "122994",
+   "apelido": "Victor Nascimento",
+   "nome": "Victor dos Santos Nascimento",
+   "posicao": "GOL",
+   "clube": "BAH",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "107231",
+   "apelido": "Danilo",
+   "nome": "Danilo dos Santos de Oliveira",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "19371902",
+   "nomeFm": "Danilo Santos",
+   "arquivo": "faces/19371902.png"
+  },
+  {
+   "cartolaId": "129663",
+   "apelido": "Ruan Pablo",
+   "nome": "Ruan Pablo Barbosa Sousa",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "2000382044",
+   "nomeFm": "Ruan Pablo",
+   "arquivo": "faces/2000382044.png"
+  },
+  {
+   "cartolaId": "95799",
+   "apelido": "Artur",
+   "nome": "Artur Victor Guimarães",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "19261284",
+   "nomeFm": "Artur",
+   "arquivo": "faces/19261284.png"
+  },
+  {
+   "cartolaId": "98672",
+   "apelido": "Savarino",
+   "nome": "Jefferson David Savarino Quintero",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "86039716",
+   "nomeFm": "Jefferson Savarino",
+   "arquivo": "faces/86039716.png"
+  },
+  {
+   "cartolaId": "142890",
+   "apelido": "Montoro",
+   "nome": "Álvaro Montoro",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000188763",
+   "nomeFm": "Álvaro Montoro",
+   "arquivo": "faces/2000188763.png"
+  },
+  {
+   "cartolaId": "111831",
+   "apelido": "Matheus Martins",
+   "nome": "Matheus Martins Silva dos Santos",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "19400560",
+   "nomeFm": "Matheus Martins",
+   "arquivo": "faces/19400560.png"
+  },
+  {
+   "cartolaId": "129930",
+   "apelido": "Cristhian Loor",
+   "nome": "Cristhian Joel Loor Santamaría - Christian",
+   "posicao": "GOL",
+   "clube": "BOT",
+   "fmUid": "2000238718",
+   "nomeFm": "Cristhian Loor",
+   "arquivo": "faces/2000238718.png"
+  },
+  {
+   "cartolaId": "136955",
+   "apelido": "Sanabria",
+   "nome": "Mateo Naín Sanabria Doracio",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "2000044144",
+   "nomeFm": "Mateo Sanabria",
+   "arquivo": "faces/2000044144.png"
+  },
+  {
+   "cartolaId": "91158",
+   "apelido": "Kaio",
+   "nome": "Kaio Fernando da Silva Pantaleão",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": "83208229",
+   "nomeFm": "Kaio Pantaleão",
+   "arquivo": "faces/83208229.png"
+  },
+  {
+   "cartolaId": "124481",
+   "apelido": "Mateo Ponte",
+   "nome": "Mateo Ponte Costa",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "2000076467",
+   "nomeFm": "Mateo Ponte",
+   "arquivo": "faces/2000076467.png"
+  },
+  {
+   "cartolaId": "97468",
+   "apelido": "Marçal",
+   "nome": "Fernando Marçal de Oliveira",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "19051992",
+   "nomeFm": "Marçal",
+   "arquivo": "faces/19051992.png"
+  },
+  {
+   "cartolaId": "104693",
+   "apelido": "Newton",
+   "nome": "Newton Araújo da Costa Júnior",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "2000052804",
+   "nomeFm": "Newton",
+   "arquivo": "faces/2000052804.png"
+  },
+  {
+   "cartolaId": "94968",
+   "apelido": "Juninho Capixaba",
+   "nome": "Luis Antônio da Rocha Júnior",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "19311395",
+   "nomeFm": "Juninho Capixaba",
+   "arquivo": "faces/19311395.png"
+  },
+  {
+   "cartolaId": "93882",
+   "apelido": "Cleiton",
+   "nome": "Cleiton Schwengber",
+   "posicao": "GOL",
+   "clube": "RBB",
+   "fmUid": "19239596",
+   "nomeFm": "Cleiton",
+   "arquivo": "faces/19239596.png"
+  },
+  {
+   "cartolaId": "146375",
+   "apelido": "Kadir",
+   "nome": "José Kadir Barría Rose",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "2000482325",
+   "nomeFm": "Kadir Barría",
+   "arquivo": "faces/2000482325.png"
+  },
+  {
+   "cartolaId": "100848",
+   "apelido": "Luan Cândido",
+   "nome": "Luan Cândido de Almeida",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "19340771",
+   "nomeFm": "Luan Cândido",
+   "arquivo": "faces/19340771.png"
+  },
+  {
+   "cartolaId": "100695",
+   "apelido": "Fernando",
+   "nome": "Fernando dos Santos Pedro",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "19302798",
+   "nomeFm": "Fernando",
+   "arquivo": "faces/19302798.png"
+  },
+  {
+   "cartolaId": "143072",
+   "apelido": "Gabriel Abdias",
+   "nome": "Gabriel da Silva Abdias",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "2000210808",
+   "nomeFm": "Gabriel Abdias",
+   "arquivo": "faces/2000210808.png"
+  },
+  {
+   "cartolaId": "142484",
+   "apelido": "Barrera",
+   "nome": "Jordan Andrés Barrera Herrera",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000170179",
+   "nomeFm": "Jordan Barrera",
+   "arquivo": "faces/2000170179.png"
+  },
+  {
+   "cartolaId": "142877",
+   "apelido": "Villalba",
+   "nome": "Lucas Martín Villalba Jaume",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "2000087223",
+   "nomeFm": "Lucas Villalba",
+   "arquivo": "faces/2000087223.png"
+  },
+  {
+   "cartolaId": "70360",
+   "apelido": "Eduardo Sasha",
+   "nome": "Eduardo Colcenti Antunes",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "19089313",
+   "nomeFm": "Eduardo Sasha",
+   "arquivo": "faces/19089313.png"
+  },
+  {
+   "cartolaId": "69140",
+   "apelido": "Allan",
+   "nome": "Allan Marques Loureiro",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "19101228",
+   "nomeFm": "Allan",
+   "arquivo": "faces/19101228.png"
+  },
+  {
+   "cartolaId": "105213",
+   "apelido": "Sant'Anna",
+   "nome": "Ariel Agustín Sant'Anna Quintero",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "78079054",
+   "nomeFm": "Agustín Sant'Anna",
+   "arquivo": "faces/78079054.png"
+  },
+  {
+   "cartolaId": "106434",
+   "apelido": "Eduardo Santos",
+   "nome": "Eduardo Gonzaga Mendes Santos",
+   "posicao": "ZAG",
+   "clube": "RBB",
+   "fmUid": "19325873",
+   "nomeFm": "Eduardo",
+   "arquivo": "faces/19325873.png"
+  },
+  {
+   "cartolaId": "78605",
+   "apelido": "Gabriel",
+   "nome": "Gabriel Girotto Franco",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "19154441",
+   "nomeFm": "Gabriel",
+   "arquivo": "faces/19154441.png"
+  },
+  {
+   "cartolaId": "107236",
+   "apelido": "Vanderlan",
+   "nome": "Vanderlan Barbosa da Silva",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "19398966",
+   "nomeFm": "Vanderlan",
+   "arquivo": "faces/19398966.png"
+  },
+  {
+   "cartolaId": "94067",
+   "apelido": "Matheus Fernandes",
+   "nome": "Matheus Fernandes Siqueira",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "19250978",
+   "nomeFm": "Matheus Fernandes",
+   "arquivo": "faces/19250978.png"
+  },
+  {
+   "cartolaId": "104588",
+   "apelido": "Fabrício",
+   "nome": "Fabrício Oliveira de Souza",
+   "posicao": "GOL",
+   "clube": "RBB",
+   "fmUid": "19380337",
+   "nomeFm": "Fabrício",
+   "arquivo": "faces/19380337.png"
+  },
+  {
+   "cartolaId": "111246",
+   "apelido": "Alix Vinicius",
+   "nome": "Alix Vinicius de Souza Sampaio",
+   "posicao": "ZAG",
+   "clube": "RBB",
+   "fmUid": "2000240912",
+   "nomeFm": "Alix Vinicius",
+   "arquivo": "faces/2000240912.png"
+  },
+  {
+   "cartolaId": "110750",
+   "apelido": "Gustavo Marques",
+   "nome": "Gustavo Marques Alves dos Santos",
+   "posicao": "ZAG",
+   "clube": "RBB",
+   "fmUid": "2000132673",
+   "nomeFm": "Gustavo Marques",
+   "arquivo": "faces/2000132673.png"
+  },
+  {
+   "cartolaId": "122897",
+   "apelido": "Guzmán Rodríguez",
+   "nome": "Guzmán Rodríguez Ferrari",
+   "posicao": "ZAG",
+   "clube": "RBB",
+   "fmUid": "78102041",
+   "nomeFm": "Guzmán Rodríguez",
+   "arquivo": "faces/78102041.png"
+  },
+  {
+   "cartolaId": "110715",
+   "apelido": "Andrés Hurtado",
+   "nome": "José Andrés Hurtado Cheme",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "86078361",
+   "nomeFm": "Andrés Hurtado",
+   "arquivo": "faces/86078361.png"
+  },
+  {
+   "cartolaId": "103295",
+   "apelido": "Eric Ramires",
+   "nome": "Eric dos Santos Rodrigues",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "19350770",
+   "nomeFm": "Eric Ramires",
+   "arquivo": "faces/19350770.png"
+  },
+  {
+   "cartolaId": "107744",
+   "apelido": "Praxedes",
+   "nome": "Bruno Conceição Praxedes",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "112886",
+   "apelido": "Lucas Barbosa",
+   "nome": "Lucas Henrique Barbosa",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "19409769",
+   "nomeFm": "Lucas Barbosa",
+   "arquivo": "faces/19409769.png"
+  },
+  {
+   "cartolaId": "122394",
+   "apelido": "Gustavinho",
+   "nome": "Gustavo Ribeiro Neves",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "2000157429",
+   "nomeFm": "Gustavo Neves",
+   "arquivo": "faces/2000157429.png"
+  },
+  {
+   "cartolaId": "103014",
+   "apelido": "Laquintana",
+   "nome": "Ignacio Jesús Laquintana Marsico - Nacho",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "78093909",
+   "nomeFm": "Ignacio Laquintana",
+   "arquivo": "faces/78093909.png"
+  },
+  {
+   "cartolaId": "108133",
+   "apelido": "Isidro Pitta",
+   "nome": "Isidro Miguel Pitta Saldívar",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "79033532",
+   "nomeFm": "Isidro Pitta",
+   "arquivo": "faces/79033532.png"
+  },
+  {
+   "cartolaId": "111760",
+   "apelido": "Fabinho",
+   "nome": "Fábio Silva de Freitas",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "19377986",
+   "nomeFm": "Fabinho",
+   "arquivo": "faces/19377986.png"
+  },
+  {
+   "cartolaId": "113157",
+   "apelido": "Nathan Mendes",
+   "nome": "Nathan Gabriel de Souza Mendes",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "2000094268",
+   "nomeFm": "Nathan Mendes",
+   "arquivo": "faces/2000094268.png"
+  },
+  {
+   "cartolaId": "72605",
+   "apelido": "Vitor Hugo",
+   "nome": "Vitor Hugo Franchescoli de Souza",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "19144097",
+   "nomeFm": "Vitor Hugo",
+   "arquivo": "faces/19144097.png"
+  },
+  {
+   "cartolaId": "87999",
+   "apelido": "Gustavo Scarpa",
+   "nome": "Gustavo Henrique Furtado Scarpa",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "19139020",
+   "nomeFm": "Gustavo Scarpa",
+   "arquivo": "faces/19139020.png"
+  },
+  {
+   "cartolaId": "132274",
+   "apelido": "Ignacio Sosa",
+   "nome": "Ignacio Sosa Ospital",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "2000088563",
+   "nomeFm": "Ignacio Sosa",
+   "arquivo": "faces/2000088563.png"
+  },
+  {
+   "cartolaId": "132580",
+   "apelido": "Vinicinho",
+   "nome": "Vinicius Mendonça Pereira",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "2000091502",
+   "nomeFm": "Vinicinho",
+   "arquivo": "faces/2000091502.png"
+  },
+  {
+   "cartolaId": "125488",
+   "apelido": "João Pedro",
+   "nome": "João Pedro de Sousa Rodrigues - Tchoca",
+   "posicao": "ZAG",
+   "clube": "COR",
+   "fmUid": "2000208450",
+   "nomeFm": "João Pedro Tchoca",
+   "arquivo": "faces/2000208450.png"
+  },
+  {
+   "cartolaId": "140906",
+   "apelido": "Davi Gomes",
+   "nome": "Davi Gomes de Alvarenga",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "2000442763",
+   "nomeFm": "Davi Gomes",
+   "arquivo": "faces/2000442763.png"
+  },
+  {
+   "cartolaId": "124239",
+   "apelido": "Henry Mosquera",
+   "nome": "Henry David Mosquera Sánchez",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "2000155489",
+   "nomeFm": "Henry Mosquera",
+   "arquivo": "faces/2000155489.png"
+  },
+  {
+   "cartolaId": "68920",
+   "apelido": "Dudu",
+   "nome": "Eduardo Pereira Rodrigues",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "19058671",
+   "nomeFm": "Dudu",
+   "arquivo": "faces/19058671.png"
+  },
+  {
+   "cartolaId": "39656",
+   "apelido": "Alan Franco",
+   "nome": "Alan Steven Franco Palma",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "86066841",
+   "nomeFm": "Alan Franco",
+   "arquivo": "faces/86066841.png"
+  },
+  {
+   "cartolaId": "100084",
+   "apelido": "Igor Gomes",
+   "nome": "Igor Silveira Gomes",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "19290872",
+   "nomeFm": "Igor Gomes",
+   "arquivo": "faces/19290872.png"
+  },
+  {
+   "cartolaId": "91607",
+   "apelido": "Rony",
+   "nome": "Ronielson da Silva Barbosa",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "19249790",
+   "nomeFm": "Rony",
+   "arquivo": "faces/19249790.png"
+  },
+  {
+   "cartolaId": "98909",
+   "apelido": "Cuello",
+   "nome": "Tomás Esteban Cuello",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "14178597",
+   "nomeFm": "Tomás Cuello",
+   "arquivo": "faces/14178597.png"
+  },
+  {
+   "cartolaId": "103767",
+   "apelido": "Gabriel Menino",
+   "nome": "Gabriel Vinícius Menino",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19333767",
+   "nomeFm": "Gabriel Menino",
+   "arquivo": "faces/19333767.png"
+  },
+  {
+   "cartolaId": "78248",
+   "apelido": "Gustavo Henrique",
+   "nome": "Gustavo Henrique Vernes",
+   "posicao": "ZAG",
+   "clube": "COR",
+   "fmUid": "19167576",
+   "nomeFm": "Gustavo Henrique",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "118774",
+   "apelido": "Alexsander",
+   "nome": "Alexsander Cristhian Gomes da Costa - Christian",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000084501",
+   "nomeFm": "Alexsander",
+   "arquivo": "faces/2000084501.png"
+  },
+  {
+   "cartolaId": "105068",
+   "apelido": "Reinier",
+   "nome": "Reinier Jesus Carvalho",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "19354888",
+   "nomeFm": "Reinier",
+   "arquivo": "faces/19354888.png"
+  },
+  {
+   "cartolaId": "115674",
+   "apelido": "Gabriel Delfim",
+   "nome": "Gabriel Delfim Ferreira",
+   "posicao": "GOL",
+   "clube": "CAM",
+   "fmUid": "2000029408",
+   "nomeFm": "Gabriel Delfim",
+   "arquivo": "faces/2000029408.png"
+  },
+  {
+   "cartolaId": "107554",
+   "apelido": "Natanael",
+   "nome": "Natanael Moreira Milouski",
+   "posicao": "LAT",
+   "clube": "CAM",
+   "fmUid": "19383253",
+   "nomeFm": "Natanael",
+   "arquivo": "faces/19383253.png"
+  },
+  {
+   "cartolaId": "122990",
+   "apelido": "Patrick",
+   "nome": "Patrick Roberto da Silva Campos",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "2000125296",
+   "nomeFm": "Patrick",
+   "arquivo": "faces/2000125296.png"
+  },
+  {
+   "cartolaId": "100842",
+   "apelido": "Ruan",
+   "nome": "Ruan Tressoldi Netto",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "19352206",
+   "nomeFm": "Ruan Tressoldi",
+   "arquivo": "faces/19352206.png"
+  },
+  {
+   "cartolaId": "101002",
+   "apelido": "Júnior Santos",
+   "nome": "José Antonio dos Santos Júnior",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "19366935",
+   "nomeFm": "Júnior Santos",
+   "arquivo": "faces/19366935.png"
+  },
+  {
+   "cartolaId": "92440",
+   "apelido": "André Ramalho",
+   "nome": "André Ramalho Silva",
+   "posicao": "ZAG",
+   "clube": "COR",
+   "fmUid": "16097159",
+   "nomeFm": "André Ramalho",
+   "arquivo": "faces/16097159.png"
+  },
+  {
+   "cartolaId": "98720",
+   "apelido": "Angileri",
+   "nome": "Fabrizio Germán Angileri - Fabricio",
+   "posicao": "LAT",
+   "clube": "COR",
+   "fmUid": "14079839",
+   "nomeFm": "Fabrizio Angileri",
+   "arquivo": "faces/14079839.png"
+  },
+  {
+   "cartolaId": "92087",
+   "apelido": "Lyanco",
+   "nome": "Lyanco Evangelista Silveira Neves Vojnovic",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "19236273",
+   "nomeFm": "Lyanco",
+   "arquivo": "faces/19236273.png"
+  },
+  {
+   "cartolaId": "77485",
+   "apelido": "Carrillo",
+   "nome": "André Martín Carrillo Díaz",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "77012583",
+   "nomeFm": "André Carrillo",
+   "arquivo": "faces/77012583.png"
+  },
+  {
+   "cartolaId": "78435",
+   "apelido": "Vitinho",
+   "nome": "Victor Vinícius Coelho dos Santos",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "101574",
+   "apelido": "Hugo Souza",
+   "nome": "Hugo de Souza Nogueira",
+   "posicao": "GOL",
+   "clube": "COR",
+   "fmUid": "19270232",
+   "nomeFm": "Hugo Souza",
+   "arquivo": "faces/19270232.png"
+  },
+  {
+   "cartolaId": "85048",
+   "apelido": "Memphis Depay",
+   "nome": "Memphis Depay",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "37024470",
+   "nomeFm": "Memphis Depay",
+   "arquivo": "faces/37024470.png"
+  },
+  {
+   "cartolaId": "102340",
+   "apelido": "Cacá",
+   "nome": "Carlos de Menezes Júnior",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "19350725",
+   "nomeFm": "Cacá",
+   "arquivo": "faces/19350725.png"
+  },
+  {
+   "cartolaId": "105531",
+   "apelido": "Matheus Bidu",
+   "nome": "Matheus Lima Beltrão Oliveira Valin",
+   "posicao": "LAT",
+   "clube": "COR",
+   "fmUid": "19388106",
+   "nomeFm": "Matheus Bidu",
+   "arquivo": "faces/19388106.png"
+  },
+  {
+   "cartolaId": "117910",
+   "apelido": "Breno Bidon",
+   "nome": "Breno de Souza Bidon",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "2000161829",
+   "nomeFm": "Breno Bidon",
+   "arquivo": "faces/2000161829.png"
+  },
+  {
+   "cartolaId": "117632",
+   "apelido": "Garro",
+   "nome": "Rodrigo Garro",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "14208032",
+   "nomeFm": "Rodrigo Garro",
+   "arquivo": "faces/14208032.png"
+  },
+  {
+   "cartolaId": "96342",
+   "apelido": "Charles",
+   "nome": "Charles Rigon Mattos - Matos",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "19305263",
+   "nomeFm": "Charles",
+   "arquivo": "faces/19305263.png"
+  },
+  {
+   "cartolaId": "107908",
+   "apelido": "Hugo",
+   "nome": "Hugo Ferreira de Farias",
+   "posicao": "LAT",
+   "clube": "COR",
+   "fmUid": "19305767",
+   "nomeFm": "Hugo",
+   "arquivo": "faces/19305767.png"
+  },
+  {
+   "cartolaId": "95556",
+   "apelido": "Raniele",
+   "nome": "Raniele Almeida Melo",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "2000028409",
+   "nomeFm": "Raniele",
+   "arquivo": "faces/2000028409.png"
+  },
+  {
+   "cartolaId": "111832",
+   "apelido": "Jefté",
+   "nome": "Jefté Vital da Silva Dias",
+   "posicao": "LAT",
+   "clube": "PAL",
+   "fmUid": "2000079323",
+   "nomeFm": "Jefté",
+   "arquivo": "faces/2000079323.png"
+  },
+  {
+   "cartolaId": "97642",
+   "apelido": "Félix Torres",
+   "nome": "Félix Eduardo Torres Caicedo",
+   "posicao": "ZAG",
+   "clube": "INT",
+   "fmUid": "86057914",
+   "nomeFm": "Félix Torres",
+   "arquivo": "faces/86057914.png"
+  },
+  {
+   "cartolaId": "42500",
+   "apelido": "Fagner",
+   "nome": "Fagner Conserva Lemos",
+   "posicao": "LAT",
+   "clube": "CRU",
+   "fmUid": "19023829",
+   "nomeFm": "Fágner",
+   "arquivo": "faces/19023829.png"
+  },
+  {
+   "cartolaId": "98225",
+   "apelido": "Pedro Raul",
+   "nome": "Pedro Raul Garay da Silva",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "83212491",
+   "nomeFm": "Pedro Raul",
+   "arquivo": "faces/83212491.png"
+  },
+  {
+   "cartolaId": "127242",
+   "apelido": "Bahia",
+   "nome": "Luiz Gustavo Lemos Carvalho",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "2000192476",
+   "nomeFm": "Bahia",
+   "arquivo": "faces/2000192476.png"
+  },
+  {
+   "cartolaId": "84558",
+   "apelido": "Lucas Romero",
+   "nome": "Lucas Daniel Romero",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "14047196",
+   "nomeFm": "Lucas Romero",
+   "arquivo": "faces/14047196.png"
+  },
+  {
+   "cartolaId": "111829",
+   "apelido": "Kayky",
+   "nome": "Kayky da Silva Chagas",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "19408255",
+   "nomeFm": "Kayky",
+   "arquivo": "faces/19408255.png"
+  },
+  {
+   "cartolaId": "131753",
+   "apelido": "Felipe Longo",
+   "nome": "Felipe Longo Fernandes da Silva",
+   "posicao": "GOL",
+   "clube": "COR",
+   "fmUid": "2000208429",
+   "nomeFm": "Felipe Longo",
+   "arquivo": "faces/2000208429.png"
+  },
+  {
+   "cartolaId": "133543",
+   "apelido": "Gui Negão",
+   "nome": "Guilherme William Silva Inácio",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "2000273913",
+   "nomeFm": "Gui Negão",
+   "arquivo": "faces/2000273913.png"
+  },
+  {
+   "cartolaId": "145744",
+   "apelido": "André",
+   "nome": "André Luiz Santos Dias",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "2000273902",
+   "nomeFm": "André",
+   "arquivo": "faces/2000273902.png"
+  },
+  {
+   "cartolaId": "96610",
+   "apelido": "Matheus Pereira",
+   "nome": "Matheus Fellipe Costa Pereira",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "55070289",
+   "nomeFm": "Matheus Pereira",
+   "arquivo": "faces/55070289.png"
+  },
+  {
+   "cartolaId": "72460",
+   "apelido": "Bernard",
+   "nome": "Bernard Anício Caldeira Duarte",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "19152048",
+   "nomeFm": "Bernard",
+   "arquivo": "faces/19152048.png"
+  },
+  {
+   "cartolaId": "100742",
+   "apelido": "Matheus Henrique",
+   "nome": "Matheus Henrique de Souza",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "19263862",
+   "nomeFm": "Matheus Henrique",
+   "arquivo": "faces/19263862.png"
+  },
+  {
+   "cartolaId": "141995",
+   "apelido": "Dieguinho",
+   "nome": "Diego da Cruz Lopes",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "2000480667",
+   "nomeFm": "Dieguinho",
+   "arquivo": "faces/2000480667.png"
+  },
+  {
+   "cartolaId": "79701",
+   "apelido": "Lucas Silva",
+   "nome": "Lucas Silva Borges",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "19152917",
+   "nomeFm": "Lucas Silva",
+   "arquivo": "faces/19152917.png"
+  },
+  {
+   "cartolaId": "111690",
+   "apelido": "Matheus Cunha",
+   "nome": "Matheus Cunha Queiroz",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "19347269",
+   "nomeFm": "Matheus Cunha",
+   "arquivo": "faces/19347269.png"
+  },
+  {
+   "cartolaId": "89275",
+   "apelido": "William",
+   "nome": "Willian de Asevedo Furtado",
+   "posicao": "LAT",
+   "clube": "CRU",
+   "fmUid": "19225946",
+   "nomeFm": "William",
+   "arquivo": "faces/19225946.png"
+  },
+  {
+   "cartolaId": "88479",
+   "apelido": "Walace",
+   "nome": "Walace Souza Silva",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "19184263",
+   "nomeFm": "Walace",
+   "arquivo": "faces/19184263.png"
+  },
+  {
+   "cartolaId": "124912",
+   "apelido": "Jonathan Jesus",
+   "nome": "Jonathan de Jesus Alves",
+   "posicao": "ZAG",
+   "clube": "CRU",
+   "fmUid": "2000158496",
+   "nomeFm": "Jonathan Jesus",
+   "arquivo": "faces/2000158496.png"
+  },
+  {
+   "cartolaId": "117404",
+   "apelido": "Otávio",
+   "nome": "Otávio Eleodoro Rezende Costa",
+   "posicao": "GOL",
+   "clube": "CRU",
+   "fmUid": "2000243117",
+   "nomeFm": "Otávio",
+   "arquivo": "faces/2000243117.png"
+  },
+  {
+   "cartolaId": "132264",
+   "apelido": "Arroyo",
+   "nome": "Keny Alexander Arroyo Alvarado",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000238729",
+   "nomeFm": "Keny Arroyo",
+   "arquivo": "faces/2000238729.png"
+  },
+  {
+   "cartolaId": "146807",
+   "apelido": "Rayan Lelis",
+   "nome": "Rayan Passaglia Lelis",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000403425",
+   "nomeFm": "Rayan Lelis",
+   "arquivo": "faces/2000403425.png"
+  },
+  {
+   "cartolaId": "131967",
+   "apelido": "Villarreal",
+   "nome": "Neyser Villarreal - Neiser",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000295427",
+   "nomeFm": "Néiser Villarreal",
+   "arquivo": "faces/2000295427.png"
+  },
+  {
+   "cartolaId": "114405",
+   "apelido": "Sinisterra",
+   "nome": "Luis Fernando Sinisterra Lucumí",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "76047347",
+   "nomeFm": "Luis Sinisterra",
+   "arquivo": "faces/76047347.png"
+  },
+  {
+   "cartolaId": "113158",
+   "apelido": "Marquinhos",
+   "nome": "Marcus Vinícius Oliveira Alencar",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "19393598",
+   "nomeFm": "Marquinhos",
+   "arquivo": "faces/19393598.png"
+  },
+  {
+   "cartolaId": "105047",
+   "apelido": "João Marcelo",
+   "nome": "João Marcelo Messias Ferreira",
+   "posicao": "ZAG",
+   "clube": "CRU",
+   "fmUid": "2000022861",
+   "nomeFm": "João Marcelo",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "93478",
+   "apelido": "Wanderson",
+   "nome": "Wanderson Maciel Sousa Campos",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "18073840",
+   "nomeFm": "Wanderson",
+   "arquivo": "faces/18073840.png"
+  },
+  {
+   "cartolaId": "69783",
+   "apelido": "Danilo",
+   "nome": "Danilo Luiz da Silva",
+   "posicao": "ZAG",
+   "clube": "FLA",
+   "fmUid": "19099575",
+   "nomeFm": "Danilo",
+   "arquivo": "faces/19099575.png"
+  },
+  {
+   "cartolaId": "84735",
+   "apelido": "Jorginho",
+   "nome": "Jorge Luiz Frello Filho",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "43036641",
+   "nomeFm": "Jorginho",
+   "arquivo": "faces/43036641.png"
+  },
+  {
+   "cartolaId": "80061",
+   "apelido": "Saúl",
+   "nome": "Saúl Ñíguez Esclapez",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "67103336",
+   "nomeFm": "Saúl",
+   "arquivo": "faces/67103336.png"
+  },
+  {
+   "cartolaId": "143600",
+   "apelido": "Kauã Moraes",
+   "nome": "Kauã Moraes da Silva",
+   "posicao": "LAT",
+   "clube": "CRU",
+   "fmUid": "2000454699",
+   "nomeFm": "Kauã Moraes",
+   "arquivo": "faces/2000454699.png"
+  },
+  {
+   "cartolaId": "82627",
+   "apelido": "Luiz Araújo",
+   "nome": "Luiz de Araújo Guimarães Neto",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "19215572",
+   "nomeFm": "Luiz Araújo",
+   "arquivo": "faces/19215572.png"
+  },
+  {
+   "cartolaId": "84816",
+   "apelido": "Varela",
+   "nome": "Guillermo Varela Olivera",
+   "posicao": "LAT",
+   "clube": "FLA",
+   "fmUid": "78044524",
+   "nomeFm": "Guillermo Varela",
+   "arquivo": "faces/78044524.png"
+  },
+  {
+   "cartolaId": "122660",
+   "apelido": "Japa",
+   "nome": "João Wellington Gadelha Melo de Oliveira",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "2000137880",
+   "nomeFm": "Japa",
+   "arquivo": "faces/2000137880.png"
+  },
+  {
+   "cartolaId": "97867",
+   "apelido": "Léo Ortiz",
+   "nome": "Leonardo Rech Ortiz",
+   "posicao": "ZAG",
+   "clube": "FLA",
+   "fmUid": "19260885",
+   "nomeFm": "Léo Ortiz",
+   "arquivo": "faces/19260885.png"
+  },
+  {
+   "cartolaId": "133679",
+   "apelido": "Benedetti",
+   "nome": "Luis Gustavo Roncholeta Benedetti - Luiz",
+   "posicao": "ZAG",
+   "clube": "PAL",
+   "fmUid": "2000263998",
+   "nomeFm": "Benedetti",
+   "arquivo": "faces/2000263998.png"
+  },
+  {
+   "cartolaId": "137542",
+   "apelido": "Kaique Kenji",
+   "nome": "Kaique Kenji Takamura Correa",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "2000272649",
+   "nomeFm": "Kaique Kenji",
+   "arquivo": "faces/2000272649.png"
+  },
+  {
+   "cartolaId": "109096",
+   "apelido": "Plata",
+   "nome": "Gonzalo Jordy Plata Jiménez",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "86066846",
+   "nomeFm": "Gonzalo Plata",
+   "arquivo": "faces/86066846.png"
+  },
+  {
+   "cartolaId": "91473",
+   "apelido": "Erick Pulgar",
+   "nome": "Erick Antonio Pulgar Farfán",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "75030706",
+   "nomeFm": "Erick Pulgar",
+   "arquivo": "faces/75030706.png"
+  },
+  {
+   "cartolaId": "96870",
+   "apelido": "Emerson Royal",
+   "nome": "Emerson Aparecido Leite de Souza Júnior",
+   "posicao": "LAT",
+   "clube": "FLA",
+   "fmUid": "19325045",
+   "nomeFm": "Emerson Royal",
+   "arquivo": "faces/19325045.png"
+  },
+  {
+   "cartolaId": "98873",
+   "apelido": "Samuel Lino",
+   "nome": "Samuel Dias Lino",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "19320258",
+   "nomeFm": "Samuel Lino",
+   "arquivo": "faces/19320258.png"
+  },
+  {
+   "cartolaId": "87863",
+   "apelido": "Arrascaeta",
+   "nome": "Giorgian Daniel de Arrascaeta Benedetti",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "78059800",
+   "nomeFm": "Giorgian De Arrascaeta",
+   "arquivo": "faces/78059800.png"
+  },
+  {
+   "cartolaId": "88393",
+   "apelido": "Ayrton Lucas",
+   "nome": "Ayrton Lucas Dantas de Medeiros",
+   "posicao": "LAT",
+   "clube": "FLA",
+   "fmUid": "19284037",
+   "nomeFm": "Ayrton Lucas",
+   "arquivo": "faces/19284037.png"
+  },
+  {
+   "cartolaId": "86757",
+   "apelido": "Everton",
+   "nome": "Everton Sousa Soares",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "19233146",
+   "nomeFm": "Everton Cebolinha",
+   "arquivo": "faces/19233146.png"
+  },
+  {
+   "cartolaId": "115914",
+   "apelido": "Evertton Araújo",
+   "nome": "Everton Gustavo Fernandes Araújo",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "2000164418",
+   "nomeFm": "Evertton Araújo",
+   "arquivo": "faces/2000164418.png"
+  },
+  {
+   "cartolaId": "122320",
+   "apelido": "Daniel Sales",
+   "nome": "Daniel dos Santos Salles",
+   "posicao": "LAT",
+   "clube": "FLA",
+   "fmUid": "2000239562",
+   "nomeFm": "Daniel Sales",
+   "arquivo": "faces/2000239562.png"
+  },
+  {
+   "cartolaId": "90285",
+   "apelido": "Bruno Henrique",
+   "nome": "Bruno Henrique Pinto",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "19258642",
+   "nomeFm": "Bruno Henrique",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "122318",
+   "apelido": "Dyogo Alves",
+   "nome": "Francisco Dyogo Bento Alves",
+   "posicao": "GOL",
+   "clube": "FLA",
+   "fmUid": "2000100102",
+   "nomeFm": "Dyogo Alves",
+   "arquivo": "faces/2000100102.png"
+  },
+  {
+   "cartolaId": "96652",
+   "apelido": "Allan",
+   "nome": "Allan Rodrigues de Souza",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "19260884",
+   "nomeFm": "Allan",
+   "arquivo": "faces/19260884.png"
+  },
+  {
+   "cartolaId": "140492",
+   "apelido": "João Victor",
+   "nome": "João Victor de Souza Cunha",
+   "posicao": "ZAG",
+   "clube": "FLA",
+   "fmUid": "2000345808",
+   "nomeFm": "João Victor",
+   "arquivo": "faces/2000345808.png"
+  },
+  {
+   "cartolaId": "78445",
+   "apelido": "Renê",
+   "nome": "Renê Rodrigues Martins",
+   "posicao": "LAT",
+   "clube": "FLU",
+   "fmUid": "19174999",
+   "nomeFm": "Renê",
+   "arquivo": "faces/19174999.png"
+  },
+  {
+   "cartolaId": "99228",
+   "apelido": "De la Cruz",
+   "nome": "Diego Nicolás de la Cruz Arcosa",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "78079444",
+   "nomeFm": "Nicolás de la Cruz",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "78855",
+   "apelido": "Thiago Santos",
+   "nome": "Thiago dos Santos",
+   "posicao": "ZAG",
+   "clube": "CFC",
+   "fmUid": "19249773",
+   "nomeFm": "Thiago Santos",
+   "arquivo": "faces/19249773.png"
+  },
+  {
+   "cartolaId": "87228",
+   "apelido": "Guilherme Arana",
+   "nome": "Guilherme Antonio Arana Lopes",
+   "posicao": "LAT",
+   "clube": "FLU",
+   "fmUid": "19232508",
+   "nomeFm": "Guilherme Arana",
+   "arquivo": "faces/19232508.png"
+  },
+  {
+   "cartolaId": "78117",
+   "apelido": "Everaldo",
+   "nome": "Everaldo Stum",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "19112560",
+   "nomeFm": "Everaldo",
+   "arquivo": "faces/19112560.png"
+  },
+  {
+   "cartolaId": "130189",
+   "apelido": "Léo Nannetti",
+   "nome": "Leonardo Nannetti Lopes",
+   "posicao": "GOL",
+   "clube": "FLA",
+   "fmUid": "2000373829",
+   "nomeFm": "Léo Nannetti",
+   "arquivo": "faces/2000373829.png"
+  },
+  {
+   "cartolaId": "73384",
+   "apelido": "Samuel Xavier",
+   "nome": "Samuel Xavier Brito",
+   "posicao": "LAT",
+   "clube": "FLU",
+   "fmUid": "19100038",
+   "nomeFm": "Samuel Xavier",
+   "arquivo": "faces/19100038.png"
+  },
+  {
+   "cartolaId": "122573",
+   "apelido": "Wallace Yan",
+   "nome": "Wallace Yan de Souza Barreto",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "2000157410",
+   "nomeFm": "Wallace Yan",
+   "arquivo": "faces/2000157410.png"
+  },
+  {
+   "cartolaId": "143295",
+   "apelido": "Joshua",
+   "nome": "Caio Joshua Lana de Andrade",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "2000372627",
+   "nomeFm": "Joshua",
+   "arquivo": "faces/2000372627.png"
+  },
+  {
+   "cartolaId": "101319",
+   "apelido": "Guga",
+   "nome": "Cláudio Rodrigues Gomes",
+   "posicao": "LAT",
+   "clube": "FLU",
+   "fmUid": "19266494",
+   "nomeFm": "Guga",
+   "arquivo": "faces/19266494.png"
+  },
+  {
+   "cartolaId": "62977",
+   "apelido": "Ganso",
+   "nome": "Paulo Henrique Chagas de Lima",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "19028171",
+   "nomeFm": "Ganso",
+   "arquivo": "faces/19028171.png"
+  },
+  {
+   "cartolaId": "100987",
+   "apelido": "Nonato",
+   "nome": "Gustavo Nonato Santana",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "19263853",
+   "nomeFm": "Nonato",
+   "arquivo": "faces/19263853.png"
+  },
+  {
+   "cartolaId": "87258",
+   "apelido": "Soteldo",
+   "nome": "Yeferson Julio Soteldo Martínez",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "86040729",
+   "nomeFm": "Yeferson Soteldo",
+   "arquivo": "faces/86040729.png"
+  },
+  {
+   "cartolaId": "145705",
+   "apelido": "Douglas Telles",
+   "nome": "Douglas Costa Telles",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "2000372630",
+   "nomeFm": "Douglas Telles",
+   "arquivo": "faces/2000372630.png"
+  },
+  {
+   "cartolaId": "96340",
+   "apelido": "Lima",
+   "nome": "Vinícius Moreira de Lima",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19259597",
+   "nomeFm": "Lima",
+   "arquivo": "faces/19259597.png"
+  },
+  {
+   "cartolaId": "89493",
+   "apelido": "Igor Rabello",
+   "nome": "Igor Rabello da Costa",
+   "posicao": "ZAG",
+   "clube": "FLU",
+   "fmUid": "19193798",
+   "nomeFm": "Igor Rabello",
+   "arquivo": "faces/19193798.png"
+  },
+  {
+   "cartolaId": "82463",
+   "apelido": "Otávio",
+   "nome": "Otávio Henrique Passos Santos",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "19226437",
+   "nomeFm": "Otávio",
+   "arquivo": "faces/19226437.png"
+  },
+  {
+   "cartolaId": "86485",
+   "apelido": "Keno",
+   "nome": "Marcos da Silva França",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "19219855",
+   "nomeFm": "Keno",
+   "arquivo": "faces/19219855.png"
+  },
+  {
+   "cartolaId": "103523",
+   "apelido": "Ignácio",
+   "nome": "Ignácio da Silva Oliveira",
+   "posicao": "ZAG",
+   "clube": "FLU",
+   "fmUid": "19357955",
+   "nomeFm": "Ignacio",
+   "arquivo": "faces/19357955.png"
+  },
+  {
+   "cartolaId": "102137",
+   "apelido": "Vitor Eudes",
+   "nome": "Vitor Eudes de Souza Costa",
+   "posicao": "GOL",
+   "clube": "FLU",
+   "fmUid": "19345973",
+   "nomeFm": "Vitor Eudes",
+   "arquivo": "faces/19345973.png"
+  },
+  {
+   "cartolaId": "102928",
+   "apelido": "Canobbio",
+   "nome": "Agustín Canobbio Graviz",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "78084523",
+   "nomeFm": "Agustín Canobbio",
+   "arquivo": "faces/78084523.png"
+  },
+  {
+   "cartolaId": "101478",
+   "apelido": "Marcelo Pitaluga",
+   "nome": "Marcelo de Araújo Pitaluga Filho",
+   "posicao": "GOL",
+   "clube": "FLU",
+   "fmUid": "19376885",
+   "nomeFm": "Marcelo Pitaluga",
+   "arquivo": "faces/19376885.png"
+  },
+  {
+   "cartolaId": "116447",
+   "apelido": "Hércules",
+   "nome": "Hércules Pereira do Nascimento",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "2000148372",
+   "nomeFm": "Hércules",
+   "arquivo": "faces/2000148372.png"
+  },
+  {
+   "cartolaId": "87342",
+   "apelido": "Kannemann",
+   "nome": "Walter Kannemann",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "14023376",
+   "nomeFm": "Walter Kannemann",
+   "arquivo": "faces/14023376.png"
+  },
+  {
+   "cartolaId": "79631",
+   "apelido": "Cano",
+   "nome": "Germán Ezequiel Cano",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "14003037",
+   "nomeFm": "Germán Cano",
+   "arquivo": "faces/14003037.png"
+  },
+  {
+   "cartolaId": "113034",
+   "apelido": "Freytes",
+   "nome": "Juan Pablo Freytes",
+   "posicao": "ZAG",
+   "clube": "FLU",
+   "fmUid": "14204629",
+   "nomeFm": "Juan Pablo Freytes",
+   "arquivo": "faces/14204629.png"
+  },
+  {
+   "cartolaId": "127932",
+   "apelido": "Júlio Fidelis",
+   "nome": "Julio Cesar Lima Fidelis",
+   "posicao": "LAT",
+   "clube": "FLU",
+   "fmUid": "2000273239",
+   "nomeFm": "Júlio Fidelis",
+   "arquivo": "faces/2000273239.png"
+  },
+  {
+   "cartolaId": "140484",
+   "apelido": "Riquelme Felipe",
+   "nome": "Riquelme Felipe Silva de Almeida",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "2000273266",
+   "nomeFm": "Riquelme Felipe",
+   "arquivo": "faces/2000273266.png"
+  },
+  {
+   "cartolaId": "72018",
+   "apelido": "Tiago Volpi",
+   "nome": "Tiago Luis Volpi",
+   "posicao": "GOL",
+   "clube": "RBB",
+   "fmUid": "19054347",
+   "nomeFm": "Tiago Volpi",
+   "arquivo": "faces/19054347.png"
+  },
+  {
+   "cartolaId": "91706",
+   "apelido": "Marlon",
+   "nome": "Marlon Rodrigues Xavier",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "19266625",
+   "nomeFm": "Marlon",
+   "arquivo": "faces/19266625.png"
+  },
+  {
+   "cartolaId": "63013",
+   "apelido": "Marcos Rocha",
+   "nome": "Marcos Luis Rocha Aquino",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "19014340",
+   "nomeFm": "Marcos Rocha",
+   "arquivo": "faces/19014340.png"
+  },
+  {
+   "cartolaId": "110759",
+   "apelido": "John Kennedy",
+   "nome": "John Kennedy Batista de Souza",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "19400559",
+   "nomeFm": "John Kennedy",
+   "arquivo": "faces/19400559.png"
+  },
+  {
+   "cartolaId": "105563",
+   "apelido": "Carlos Vinícius",
+   "nome": "Carlos Vinícius Alves Morais",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "19242476",
+   "nomeFm": "Carlos Vinícius",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "132071",
+   "apelido": "Serna",
+   "nome": "Kevin Steven Serna Jaramillo",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "83278923",
+   "nomeFm": "Kevin Serna",
+   "arquivo": "faces/83278923.png"
+  },
+  {
+   "cartolaId": "87887",
+   "apelido": "Balbuena",
+   "nome": "Fabián Cornelio Balbuena González",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "79013838",
+   "nomeFm": "Fabián Balbuena",
+   "arquivo": "faces/79013838.png"
+  },
+  {
+   "cartolaId": "89273",
+   "apelido": "João Pedro",
+   "nome": "João Pedro Maturano dos Santos",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "19212659",
+   "nomeFm": "João Pedro",
+   "arquivo": "faces/19212659.png"
+  },
+  {
+   "cartolaId": "102318",
+   "apelido": "Caio Paulista",
+   "nome": "Caio Fernando de Oliveira",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "19261679",
+   "nomeFm": "Caio Paulista",
+   "arquivo": "faces/19261679.png"
+  },
+  {
+   "cartolaId": "104994",
+   "apelido": "Wagner Leonardo",
+   "nome": "Wagner Leonardo Calvelo de Souza",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "19348577",
+   "nomeFm": "Wagner Leonardo",
+   "arquivo": "faces/19348577.png"
+  },
+  {
+   "cartolaId": "63289",
+   "apelido": "Edenílson",
+   "nome": "Edenílson Andrade dos Santos",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "19090354",
+   "nomeFm": "Edenílson",
+   "arquivo": "faces/19090354.png"
+  },
+  {
+   "cartolaId": "112616",
+   "apelido": "Gabriel Grando",
+   "nome": "Gabriel Hamester Grando",
+   "posicao": "GOL",
+   "clube": "GRE",
+   "fmUid": "19382548",
+   "nomeFm": "Gabriel Grando",
+   "arquivo": "faces/19382548.png"
+  },
+  {
+   "cartolaId": "89883",
+   "apelido": "Dodi",
+   "nome": "Douglas Moreira Fagundes",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "19212066",
+   "nomeFm": "Dodi",
+   "arquivo": "faces/19212066.png"
+  },
+  {
+   "cartolaId": "91908",
+   "apelido": "Pavón",
+   "nome": "Cristian David Pavón",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "14083972",
+   "nomeFm": "Cristian Pavón",
+   "arquivo": "faces/14083972.png"
+  },
+  {
+   "cartolaId": "116067",
+   "apelido": "Thiago Beltrame",
+   "nome": "Thiago Beltrame Stallbaum",
+   "posicao": "GOL",
+   "clube": "GRE",
+   "fmUid": "2000064048",
+   "nomeFm": "Thiago Beltrame",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "97145",
+   "apelido": "Villasanti",
+   "nome": "Mathías Adalberto Villasanti Rolón",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "79029254",
+   "nomeFm": "Mathías Villasanti",
+   "arquivo": "faces/79029254.png"
+  },
+  {
+   "cartolaId": "136156",
+   "apelido": "Larson",
+   "nome": "Larson Torna Ferreira dos Santos",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "2000351881",
+   "nomeFm": "Larson",
+   "arquivo": "faces/2000351881.png"
+  },
+  {
+   "cartolaId": "72951",
+   "apelido": "Mercado",
+   "nome": "Gabriel Iván Mercado",
+   "posicao": "ZAG",
+   "clube": "INT",
+   "fmUid": "14000758",
+   "nomeFm": "Gabriel Mercado",
+   "arquivo": "faces/14000758.png"
+  },
+  {
+   "cartolaId": "70944",
+   "apelido": "Bruno Henrique",
+   "nome": "Bruno Henrique Corsini",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19139837",
+   "nomeFm": "Bruno Henrique",
+   "arquivo": "faces/19139837.png"
+  },
+  {
+   "cartolaId": "92182",
+   "apelido": "Juninho",
+   "nome": "José Carlos Ferreira Júnior",
+   "posicao": "ZAG",
+   "clube": "INT",
+   "fmUid": "19233485",
+   "nomeFm": "Juninho",
+   "arquivo": "faces/19233485.png"
+  },
+  {
+   "cartolaId": "142004",
+   "apelido": "Amuzu",
+   "nome": "Francis Amuzu",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "18101803",
+   "nomeFm": "Francis Amuzu",
+   "arquivo": "faces/18101803.png"
+  },
+  {
+   "cartolaId": "90532",
+   "apelido": "Arthur Melo",
+   "nome": "Arthur Henrique Ramos de Oliveira Melo",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19259600",
+   "nomeFm": "Arthur",
+   "arquivo": "faces/19259600.png"
+  },
+  {
+   "cartolaId": "130889",
+   "apelido": "Riquelme",
+   "nome": "Riquelme Freitas dos Santos",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "2000277653",
+   "nomeFm": "Riquelme",
+   "arquivo": "faces/2000277653.png"
+  },
+  {
+   "cartolaId": "110510",
+   "apelido": "Aguirre",
+   "nome": "Braian Nahuel Aguirre",
+   "posicao": "LAT",
+   "clube": "INT",
+   "fmUid": "14247637",
+   "nomeFm": "Braian Aguirre",
+   "arquivo": "faces/14247637.png"
+  },
+  {
+   "cartolaId": "89637",
+   "apelido": "Thiago Maia",
+   "nome": "Thiago Maia Alencar",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19219732",
+   "nomeFm": "Thiago Maia",
+   "arquivo": "faces/19219732.png"
+  },
+  {
+   "cartolaId": "106202",
+   "apelido": "Bruno Gomes",
+   "nome": "Bruno Gomes da Silva Clevelário",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19376884",
+   "nomeFm": "Bruno Gomes",
+   "arquivo": "faces/19376884.png"
+  },
+  {
+   "cartolaId": "111466",
+   "apelido": "Victor Gabriel",
+   "nome": "Victor Gabriel da Conceição Ribeiro",
+   "posicao": "ZAG",
+   "clube": "INT",
+   "fmUid": "2000085002",
+   "nomeFm": "Victor Gabriel",
+   "arquivo": "faces/2000085002.png"
+  },
+  {
+   "cartolaId": "88136",
+   "apelido": "Ivan",
+   "nome": "Ivan Quaresma da Silva",
+   "posicao": "GOL",
+   "clube": "REM",
+   "fmUid": "19261048",
+   "nomeFm": "Ivan",
+   "arquivo": "faces/19261048.png"
+  },
+  {
+   "cartolaId": "101960",
+   "apelido": "Vitinho",
+   "nome": "Vitor Hugo Naum dos Santos",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "19337928",
+   "nomeFm": "Vitinho",
+   "arquivo": "faces/19337928.png"
+  },
+  {
+   "cartolaId": "71684",
+   "apelido": "Gustavo Gómez",
+   "nome": "Gustavo Raúl Gómez Portillo",
+   "posicao": "ZAG",
+   "clube": "PAL",
+   "fmUid": "79010306",
+   "nomeFm": "Gustavo Gómez",
+   "arquivo": "faces/79010306.png"
+  },
+  {
+   "cartolaId": "111683",
+   "apelido": "Anthoni",
+   "nome": "Anthoni Spier Souza",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "2000020492",
+   "nomeFm": "Anthoni",
+   "arquivo": "faces/2000020492.png"
+  },
+  {
+   "cartolaId": "107989",
+   "apelido": "Carbonero",
+   "nome": "Johan Stiven Carbonero Balanta",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "76053940",
+   "nomeFm": "Johan Carbonero",
+   "arquivo": "faces/76053940.png"
+  },
+  {
+   "cartolaId": "86711",
+   "apelido": "Richard",
+   "nome": "Richard Cândido Coelho",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "19337991",
+   "nomeFm": "Richard",
+   "arquivo": "faces/19337991.png"
+  },
+  {
+   "cartolaId": "71631",
+   "apelido": "Weverton",
+   "nome": "Weverton Pereira da Silva",
+   "posicao": "GOL",
+   "clube": "GRE",
+   "fmUid": "19034819",
+   "nomeFm": "Weverton",
+   "arquivo": "faces/19034819.png"
+  },
+  {
+   "cartolaId": "97653",
+   "apelido": "Murilo",
+   "nome": "Murilo Cerqueira Paim",
+   "posicao": "ZAG",
+   "clube": "PAL",
+   "fmUid": "95040312",
+   "nomeFm": "Murilo",
+   "arquivo": "faces/95040312.png"
+  },
+  {
+   "cartolaId": "92981",
+   "apelido": "Ronaldo",
+   "nome": "Ronaldo da Silva Souza Guerrero",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19226751",
+   "nomeFm": "Ronaldo",
+   "arquivo": "faces/19226751.png"
+  },
+  {
+   "cartolaId": "102130",
+   "apelido": "Piquerez",
+   "nome": "Joaquín Piquerez Moreira",
+   "posicao": "LAT",
+   "clube": "PAL",
+   "fmUid": "78077014",
+   "nomeFm": "Joaquín Piquerez",
+   "arquivo": "faces/78077014.png"
+  },
+  {
+   "cartolaId": "70592",
+   "apelido": "Felipe Anderson",
+   "nome": "Felipe Anderson Pereira Gomes",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "19105713",
+   "nomeFm": "Felipe Anderson",
+   "arquivo": "faces/19105713.png"
+  },
+  {
+   "cartolaId": "104084",
+   "apelido": "Carlos Miguel",
+   "nome": "Carlos Miguel dos Santos Pereira",
+   "posicao": "GOL",
+   "clube": "PAL",
+   "fmUid": "19348822",
+   "nomeFm": "Carlos Miguel",
+   "arquivo": "faces/19348822.png"
+  },
+  {
+   "cartolaId": "105647",
+   "apelido": "Maurício",
+   "nome": "Maurício Magalhães Prado",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "19380455",
+   "nomeFm": "Maurício",
+   "arquivo": "faces/19380455.png"
+  },
+  {
+   "cartolaId": "84674",
+   "apelido": "Lucas Evangelista",
+   "nome": "Lucas Evangelista Santana de Oliveira",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "28086745",
+   "nomeFm": "Lucas Evangelista",
+   "arquivo": "faces/28086745.png"
+  },
+  {
+   "cartolaId": "105175",
+   "apelido": "Khellven",
+   "nome": "Khellven Douglas Silva Oliveira",
+   "posicao": "LAT",
+   "clube": "PAL",
+   "fmUid": "19369351",
+   "nomeFm": "Khellven",
+   "arquivo": "faces/19369351.png"
+  },
+  {
+   "cartolaId": "93790",
+   "apelido": "Marlon Freitas",
+   "nome": "Marlon Rodrigues Freitas",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "19202746",
+   "nomeFm": "Marlon Freitas",
+   "arquivo": "faces/19202746.png"
+  },
+  {
+   "cartolaId": "99818",
+   "apelido": "Paulinho",
+   "nome": "Paulo Henrique Sampaio Filho",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "19302476",
+   "nomeFm": "Paulinho",
+   "arquivo": "faces/19302476.png"
+  },
+  {
+   "cartolaId": "92811",
+   "apelido": "Bruno Rodrigues",
+   "nome": "Bruno Rafael Rodrigues do Nascimento",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "19280849",
+   "nomeFm": "Bruno Rodrigues",
+   "arquivo": "faces/19280849.png"
+  },
+  {
+   "cartolaId": "108683",
+   "apelido": "Emiliano Martínez",
+   "nome": "Emiliano Martínez Toranza",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "78095755",
+   "nomeFm": "Emiliano Martínez",
+   "arquivo": "faces/78095755.png"
+  },
+  {
+   "cartolaId": "104085",
+   "apelido": "Bruno Fuchs",
+   "nome": "Bruno de Lara Fuchs",
+   "posicao": "ZAG",
+   "clube": "PAL",
+   "fmUid": "19350684",
+   "nomeFm": "Bruno Fuchs",
+   "arquivo": "faces/19350684.png"
+  },
+  {
+   "cartolaId": "83528",
+   "apelido": "Léo Pereira",
+   "nome": "Leonardo Pereira",
+   "posicao": "ZAG",
+   "clube": "FLA",
+   "fmUid": "19219840",
+   "nomeFm": "Léo Pereira",
+   "arquivo": "faces/19219840.png"
+  },
+  {
+   "cartolaId": "143488",
+   "apelido": "Raykkonen",
+   "nome": "Raykkonen Pereira Soares",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "2000380140",
+   "nomeFm": "Raykkonen",
+   "arquivo": "faces/2000380140.png"
+  },
+  {
+   "cartolaId": "112863",
+   "apelido": "Ramón Sosa",
+   "nome": "Ramón Sosa Acosta",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000017278",
+   "nomeFm": "Ramón Sosa",
+   "arquivo": "faces/2000017278.png"
+  },
+  {
+   "cartolaId": "68872",
+   "apelido": "Marcelo Lomba",
+   "nome": "Marcelo Lomba do Nascimento",
+   "posicao": "GOL",
+   "clube": "PAL",
+   "fmUid": "315180",
+   "nomeFm": "Marcelo Lomba",
+   "arquivo": "faces/315180.png"
+  },
+  {
+   "cartolaId": "81005",
+   "apelido": "André Luis",
+   "nome": "André Luis Silva de Aguiar",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19258902",
+   "nomeFm": "André Luís",
+   "arquivo": "faces/19258902.png"
+  },
+  {
+   "cartolaId": "124526",
+   "apelido": "Giay",
+   "nome": "Agustín Giay",
+   "posicao": "LAT",
+   "clube": "PAL",
+   "fmUid": "2000044680",
+   "nomeFm": "Agustín Giay",
+   "arquivo": "faces/2000044680.png"
+  },
+  {
+   "cartolaId": "97321",
+   "apelido": "Alesson",
+   "nome": "Alesson dos Santos Batista",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19306798",
+   "nomeFm": "Alesson",
+   "arquivo": "faces/19306798.png"
+  },
+  {
+   "cartolaId": "97460",
+   "apelido": "João Victor",
+   "nome": "João Victor Carroll Santana - Caroll",
+   "posicao": "ZAG",
+   "clube": "MIR",
+   "fmUid": "19351947",
+   "nomeFm": "João Victor",
+   "arquivo": "faces/19351947.png"
+  },
+  {
+   "cartolaId": "113103",
+   "apelido": "Flaco López",
+   "nome": "José Manuel Alberto López",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000044526",
+   "nomeFm": "José Manuel López",
+   "arquivo": "faces/2000044526.png"
+  },
+  {
+   "cartolaId": "111309",
+   "apelido": "Gustavo Martins",
+   "nome": "Gustavo Martins de Souza Santos",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "2000083129",
+   "nomeFm": "Gustavo Martins",
+   "arquivo": "faces/2000083129.png"
+  },
+  {
+   "cartolaId": "87742",
+   "apelido": "Neto Moura",
+   "nome": "Antônio Francisco Moura Neto",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19249770",
+   "nomeFm": "Neto Moura",
+   "arquivo": "faces/19249770.png"
+  },
+  {
+   "cartolaId": "82775",
+   "apelido": "Lucas Ramon",
+   "nome": "Lucas Ramon Batista Silva",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "19255930",
+   "nomeFm": "Lucas Ramon",
+   "arquivo": "faces/19255930.png"
+  },
+  {
+   "cartolaId": "82730",
+   "apelido": "Marcelo Rangel",
+   "nome": "Marcelo Rangel da Rosa",
+   "posicao": "GOL",
+   "clube": "REM",
+   "fmUid": "19131168",
+   "nomeFm": "Marcelo Rangel",
+   "arquivo": "faces/19131168.png"
+  },
+  {
+   "cartolaId": "98384",
+   "apelido": "Negueba",
+   "nome": "Luiz Henrique Soares Firmino",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19358051",
+   "nomeFm": "Negueba",
+   "arquivo": "faces/19358051.png"
+  },
+  {
+   "cartolaId": "73318",
+   "apelido": "Daniel Borges",
+   "nome": "Daniel Fortunato Borges",
+   "posicao": "LAT",
+   "clube": "MIR",
+   "fmUid": "19171782",
+   "nomeFm": "Daniel Borges",
+   "arquivo": "faces/19171782.png"
+  },
+  {
+   "cartolaId": "79066",
+   "apelido": "Alex Muralha",
+   "nome": "Alex Roberto Santana Rafael",
+   "posicao": "GOL",
+   "clube": "MIR",
+   "fmUid": "19172116",
+   "nomeFm": "Alex Muralha",
+   "arquivo": "faces/19172116.png"
+  },
+  {
+   "cartolaId": "83257",
+   "apelido": "Gabriel",
+   "nome": "Gabriel Barbosa Almeida",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "30035404",
+   "nomeFm": "Gabriel Barbosa",
+   "arquivo": "faces/30035404.png"
+  },
+  {
+   "cartolaId": "104204",
+   "apelido": "Edson Carioca",
+   "nome": "Edson Guilherme Mendes dos Santos",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "2000021000",
+   "nomeFm": "Edson Carioca",
+   "arquivo": "faces/2000021000.png"
+  },
+  {
+   "cartolaId": "97520",
+   "apelido": "Shaylon",
+   "nome": "Shaylon Kallyson Cardozo - Cardoso",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19245683",
+   "nomeFm": "Shaylon",
+   "arquivo": "faces/19245683.png"
+  },
+  {
+   "cartolaId": "101708",
+   "apelido": "Felipe Jonatan",
+   "nome": "Felipe Jonatan Rocha Andrade",
+   "posicao": "LAT",
+   "clube": "CFC",
+   "fmUid": "19352672",
+   "nomeFm": "Felipe Jonatan",
+   "arquivo": "faces/19352672.png"
+  },
+  {
+   "cartolaId": "72279",
+   "apelido": "Thomazella",
+   "nome": "Carlos Eduardo Lecciolle Thomazella",
+   "posicao": "GOL",
+   "clube": "MIR",
+   "fmUid": "19108263",
+   "nomeFm": "Thomazella",
+   "arquivo": "faces/19108263.png"
+  },
+  {
+   "cartolaId": "84042",
+   "apelido": "Tiquinho Soares",
+   "nome": "Francisco das Chagas Soares dos Santos Meireles",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "19090895",
+   "nomeFm": "Tiquinho Soares",
+   "arquivo": "faces/19090895.png"
+  },
+  {
+   "cartolaId": "77777",
+   "apelido": "João Schmidt",
+   "nome": "João Felipe Schmidt Urbano",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19102937",
+   "nomeFm": "João Schmidt",
+   "arquivo": "faces/19102937.png"
+  },
+  {
+   "cartolaId": "90917",
+   "apelido": "Carlos Eduardo",
+   "nome": "Carlos Eduardo Ferreira de Souza",
+   "posicao": "ATA",
+   "clube": "MIR",
+   "fmUid": "19220698",
+   "nomeFm": "Carlos Eduardo",
+   "arquivo": "faces/19220698.png"
+  },
+  {
+   "cartolaId": "117403",
+   "apelido": "Renato Marques",
+   "nome": "Renato Marques de Oliveira Júnior",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000109747",
+   "nomeFm": "Renato Marques",
+   "arquivo": "faces/2000109747.png"
+  },
+  {
+   "cartolaId": "105903",
+   "apelido": "Aldo Filho",
+   "nome": "José Aldo Soares de Oliveira Filho",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19271927",
+   "nomeFm": "José Aldo",
+   "arquivo": "faces/19271927.png"
+  },
+  {
+   "cartolaId": "102975",
+   "apelido": "Escobar",
+   "nome": "Gonzalo Daniel Escobar",
+   "posicao": "LAT",
+   "clube": "SAN",
+   "fmUid": "14172026",
+   "nomeFm": "Gonzalo Escobar",
+   "arquivo": "faces/14172026.png"
+  },
+  {
+   "cartolaId": "70164",
+   "apelido": "Lucas Moura",
+   "nome": "Lucas Rodrigues Moura da Silva",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "19073564",
+   "nomeFm": "Lucas Moura",
+   "arquivo": "faces/19073564.png"
+  },
+  {
+   "cartolaId": "104257",
+   "apelido": "João Lucas",
+   "nome": "João Lucas de Almeida Carvalho",
+   "posicao": "LAT",
+   "clube": "REM",
+   "fmUid": "19351927",
+   "nomeFm": "João Lucas",
+   "arquivo": "faces/19351927.png"
+  },
+  {
+   "cartolaId": "141754",
+   "apelido": "Gabriel Bontempo",
+   "nome": "Gabriel Morais Silva Bontempo",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "2000206863",
+   "nomeFm": "Gabriel Bontempo",
+   "arquivo": "faces/2000206863.png"
+  },
+  {
+   "cartolaId": "95466",
+   "apelido": "Igor Vinícius",
+   "nome": "Igor Vinícius de Souza",
+   "posicao": "LAT",
+   "clube": "SAN",
+   "fmUid": "19258929",
+   "nomeFm": "Igor Vinicius",
+   "arquivo": "faces/19258929.png"
+  },
+  {
+   "cartolaId": "63008",
+   "apelido": "Rafael Tolói",
+   "nome": "Rafael Toloi",
+   "posicao": "ZAG",
+   "clube": "SAO",
+   "fmUid": "19052922",
+   "nomeFm": "Rafael Toloi",
+   "arquivo": "faces/19052922.png"
+  },
+  {
+   "cartolaId": "91573",
+   "apelido": "Arboleda",
+   "nome": "Robert Abel Arboleda Escobar",
+   "posicao": "ZAG",
+   "clube": "SAO",
+   "fmUid": "86011987",
+   "nomeFm": "Robert Arboleda",
+   "arquivo": "faces/86011987.png"
+  },
+  {
+   "cartolaId": "89840",
+   "apelido": "Calleri",
+   "nome": "Jonathan Calleri",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "14034934",
+   "nomeFm": "Jonathan Calleri",
+   "arquivo": "faces/14034934.png"
+  },
+  {
+   "cartolaId": "87470",
+   "apelido": "Thaciano",
+   "nome": "Thaciano Mickael da Silva",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19246772",
+   "nomeFm": "Thaciano",
+   "arquivo": "faces/19246772.png"
+  },
+  {
+   "cartolaId": "113690",
+   "apelido": "Diógenes",
+   "nome": "Diógenes Vinícius da Silva",
+   "posicao": "GOL",
+   "clube": "SAN",
+   "fmUid": "19399114",
+   "nomeFm": "Diogenes",
+   "arquivo": "faces/19399114.png"
+  },
+  {
+   "cartolaId": "84847",
+   "apelido": "Luan Peres",
+   "nome": "Luan Peres Petroni",
+   "posicao": "ZAG",
+   "clube": "SAN",
+   "fmUid": "19215476",
+   "nomeFm": "Luan Peres",
+   "arquivo": "faces/19215476.png"
+  },
+  {
+   "cartolaId": "102256",
+   "apelido": "Rollheiser",
+   "nome": "Benjamín Rollheiser",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "14183203",
+   "nomeFm": "Benjamín Rollheiser",
+   "arquivo": "faces/14183203.png"
+  },
+  {
+   "cartolaId": "106028",
+   "apelido": "Coronel",
+   "nome": "Carlos Miguel Coronel",
+   "posicao": "GOL",
+   "clube": "SAO",
+   "fmUid": "19184434",
+   "nomeFm": "Carlos Coronel",
+   "arquivo": "faces/19184434.png"
+  },
+  {
+   "cartolaId": "91866",
+   "apelido": "Zé Ivaldo",
+   "nome": "José Ivaldo Almeida Silva",
+   "posicao": "ZAG",
+   "clube": "REM",
+   "fmUid": "19232616",
+   "nomeFm": "Zé Ivaldo",
+   "arquivo": "faces/19232616.png"
+  },
+  {
+   "cartolaId": "85403",
+   "apelido": "Danielzinho",
+   "nome": "Daniel de Oliveira Sertanejo",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "19227023",
+   "nomeFm": "Danielzinho",
+   "arquivo": "faces/19227023.png"
+  },
+  {
+   "cartolaId": "141868",
+   "apelido": "Vini Lira",
+   "nome": "Vinicius Rodrigues Lira",
+   "posicao": "LAT",
+   "clube": "SAN",
+   "fmUid": "2000379979",
+   "nomeFm": "Vinícius Lira",
+   "arquivo": "faces/2000379979.png"
+  },
+  {
+   "cartolaId": "77656",
+   "apelido": "Cédric Soares",
+   "nome": "Cédric Ricardo Alves Soares",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "55012984",
+   "nomeFm": "Cédric Soares",
+   "arquivo": "faces/55012984.png"
+  },
+  {
+   "cartolaId": "105300",
+   "apelido": "Ferraresi",
+   "nome": "Nahuel Adolfo Ferraresi Hernández",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": "14185468",
+   "nomeFm": "Nahuel Ferraresi",
+   "arquivo": "faces/14185468.png"
+  },
+  {
+   "cartolaId": "107873",
+   "apelido": "Bobadilla",
+   "nome": "Damián Josué Bobadilla Benítez",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "2000084596",
+   "nomeFm": "Damián Bobadilla",
+   "arquivo": "faces/2000084596.png"
+  },
+  {
+   "cartolaId": "101290",
+   "apelido": "Ferreira",
+   "nome": "Aldemir dos Santos Ferreira",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "104075",
+   "apelido": "Sabino",
+   "nome": "José Sabino Chagas Monteiro",
+   "posicao": "ZAG",
+   "clube": "SAO",
+   "fmUid": "19258926",
+   "nomeFm": "Sabino",
+   "arquivo": "faces/19258926.png"
+  },
+  {
+   "cartolaId": "81845",
+   "apelido": "Alisson",
+   "nome": "Alisson Euler de Freitas Castro",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "19189685",
+   "nomeFm": "Alisson",
+   "arquivo": "faces/19189685.png"
+  },
+  {
+   "cartolaId": "113359",
+   "apelido": "Pablo Maia",
+   "nome": "Pablo Gonçalves Maia Fortunato",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "19375656",
+   "nomeFm": "Pablo Maia",
+   "arquivo": "faces/19375656.png"
+  },
+  {
+   "cartolaId": "131617",
+   "apelido": "André Silva",
+   "nome": "André Oliveira e Silva",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "19264972",
+   "nomeFm": "André Silva",
+   "arquivo": "faces/19264972.png"
+  },
+  {
+   "cartolaId": "71123",
+   "apelido": "Thiago Mendes",
+   "nome": "Thiago Henrique Mendes Ribeiro",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "19175014",
+   "nomeFm": "Thiago Mendes",
+   "arquivo": "faces/19175014.png"
+  },
+  {
+   "cartolaId": "140542",
+   "apelido": "Ryan Francisco",
+   "nome": "Ryan Francisco Rodrigues dos Santos Silva",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "2000263566",
+   "nomeFm": "Ryan Francisco",
+   "arquivo": "faces/2000263566.png"
+  },
+  {
+   "cartolaId": "106294",
+   "apelido": "Marcos Antônio",
+   "nome": "Marcos Antônio Silva Santos",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "19337942",
+   "nomeFm": "Marcos Antonio",
+   "arquivo": "faces/19337942.png"
+  },
+  {
+   "cartolaId": "81091",
+   "apelido": "Jair",
+   "nome": "Jair Rodrigues Júnior",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "19190120",
+   "nomeFm": "Jair",
+   "arquivo": "faces/19190120.png"
+  },
+  {
+   "cartolaId": "86410",
+   "apelido": "Victor Luis",
+   "nome": "Victor Luis Chuab Zamblauskas",
+   "posicao": "LAT",
+   "clube": "MIR",
+   "fmUid": "55060173",
+   "nomeFm": "Victor Luís",
+   "arquivo": "faces/55060173.png"
+  },
+  {
+   "cartolaId": "80570",
+   "apelido": "Wendell",
+   "nome": "Wendell Nascimento Borges",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "19149016",
+   "nomeFm": "Wendell",
+   "arquivo": "faces/19149016.png"
+  },
+  {
+   "cartolaId": "117818",
+   "apelido": "Young",
+   "nome": "Young Navarro Moraes",
+   "posicao": "GOL",
+   "clube": "SAO",
+   "fmUid": "19375642",
+   "nomeFm": "Young",
+   "arquivo": "faces/19375642.png"
+  },
+  {
+   "cartolaId": "90309",
+   "apelido": "David",
+   "nome": "David Corrêa da Fonseca",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "19249510",
+   "nomeFm": "David",
+   "arquivo": "faces/19249510.png"
+  },
+  {
+   "cartolaId": "86686",
+   "apelido": "Tchê Tchê",
+   "nome": "Danilo das Neves Pinheiro",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "19250321",
+   "nomeFm": "Tchê Tchê",
+   "arquivo": "faces/19250321.png"
+  },
+  {
+   "cartolaId": "105584",
+   "apelido": "Lucas Piton",
+   "nome": "Lucas Piton Crivellaro",
+   "posicao": "LAT",
+   "clube": "VAS",
+   "fmUid": "19380037",
+   "nomeFm": "Lucas Piton",
+   "arquivo": "faces/19380037.png"
+  },
+  {
+   "cartolaId": "111682",
+   "apelido": "Adson",
+   "nome": "Adson Ferreira Soares",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "19380038",
+   "nomeFm": "Adson",
+   "arquivo": "faces/19380038.png"
+  },
+  {
+   "cartolaId": "141609",
+   "apelido": "Lucca",
+   "nome": "Lucca Marques Alencar",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "2000272456",
+   "nomeFm": "Lucca",
+   "arquivo": "faces/2000272456.png"
+  },
+  {
+   "cartolaId": "118563",
+   "apelido": "Rodriguinho",
+   "nome": "Rodrigo Huendra Almeida Mendonça",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "2000141091",
+   "nomeFm": "Rodriguinho",
+   "arquivo": "faces/2000141091.png"
+  },
+  {
+   "cartolaId": "93716",
+   "apelido": "Paulo Henrique",
+   "nome": "Paulo Henrique de Oliveira Alves",
+   "posicao": "LAT",
+   "clube": "VAS",
+   "fmUid": "19310729",
+   "nomeFm": "Paulo Henrique",
+   "arquivo": "faces/19310729.png"
+  },
+  {
+   "cartolaId": "115141",
+   "apelido": "Lucas Freitas",
+   "nome": "Lucas de Freitas Molarinho Chagas",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "19371033",
+   "nomeFm": "Lucas Freitas",
+   "arquivo": "faces/19371033.png"
+  },
+  {
+   "cartolaId": "117330",
+   "apelido": "Robert Renan",
+   "nome": "Robert Renan Alves Barbosa",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "2000136297",
+   "nomeFm": "Robert Renan",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "95936",
+   "apelido": "Daniel Fuzato",
+   "nome": "Daniel Cerântula Fuzato",
+   "posicao": "GOL",
+   "clube": "VAS",
+   "fmUid": "19220270",
+   "nomeFm": "Daniel Fuzato",
+   "arquivo": "faces/19220270.png"
+  },
+  {
+   "cartolaId": "97095",
+   "apelido": "Carlos Cuesta",
+   "nome": "Carlos Eccehomo Cuesta Figueroa",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "76047487",
+   "nomeFm": "Carlos Cuesta",
+   "arquivo": "faces/76047487.png"
+  },
+  {
+   "cartolaId": "90703",
+   "apelido": "Matheuzinho",
+   "nome": "Matheus Martins Fogaça de Paulo",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "19245597",
+   "nomeFm": "Matheuzinho",
+   "arquivo": "faces/19245597.png"
+  },
+  {
+   "cartolaId": "142279",
+   "apelido": "Nuno Moreira",
+   "nome": "Nuno Gonçalo Rocha Moreira",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "83111513",
+   "nomeFm": "Nuno Moreira",
+   "arquivo": "faces/83111513.png"
+  },
+  {
+   "cartolaId": "99213",
+   "apelido": "Puma Rodríguez",
+   "nome": "José Luis Rodríguez Bebanz",
+   "posicao": "LAT",
+   "clube": "VAS",
+   "fmUid": "78081551",
+   "nomeFm": "José Luis Rodríguez",
+   "arquivo": "faces/78081551.png"
+  },
+  {
+   "cartolaId": "104118",
+   "apelido": "Lucas Arcanjo",
+   "nome": "Lucas Willians Assis Arcanjo",
+   "posicao": "GOL",
+   "clube": "VIT",
+   "fmUid": "19320119",
+   "nomeFm": "Lucas Arcanjo",
+   "arquivo": "faces/19320119.png"
+  },
+  {
+   "cartolaId": "116706",
+   "apelido": "Andrés Gómez",
+   "nome": "Carlos Andrés Gómez Hinestroza",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "2000148761",
+   "nomeFm": "Andrés Gómez",
+   "arquivo": "faces/2000148761.png"
+  },
+  {
+   "cartolaId": "90588",
+   "apelido": "Caíque",
+   "nome": "Caique de Jesus Gonçalves",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "19270810",
+   "nomeFm": "Caíque Gonçalves",
+   "arquivo": "faces/19270810.png"
+  },
+  {
+   "cartolaId": "92696",
+   "apelido": "Renato Kayzer",
+   "nome": "Renato Kayzer de Souza",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "96793",
+   "apelido": "Camutanga",
+   "nome": "Cleidson Andrade de Souza Silva",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "19190175",
+   "nomeFm": "Camutanga",
+   "arquivo": "faces/19190175.png"
+  },
+  {
+   "cartolaId": "99440",
+   "apelido": "Baralhas",
+   "nome": "Gabriel Baralhas dos Santos",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "19339282",
+   "nomeFm": "Baralhas",
+   "arquivo": "faces/19339282.png"
+  },
+  {
+   "cartolaId": "101597",
+   "apelido": "Ramon",
+   "nome": "Ramon Ramos Lima",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "19350602",
+   "nomeFm": "Ramon",
+   "arquivo": "faces/19350602.png"
+  },
+  {
+   "cartolaId": "111879",
+   "apelido": "Mateus Silva",
+   "nome": "Mateus da Silva Duarte",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "2000212612",
+   "nomeFm": "Mateus Silva",
+   "arquivo": "faces/2000212612.png"
+  },
+  {
+   "cartolaId": "90031",
+   "apelido": "Mendoza",
+   "nome": "John Stiven Mendoza Valencia",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "76016258",
+   "nomeFm": "Stiven Mendoza",
+   "arquivo": "faces/76016258.png"
+  },
+  {
+   "cartolaId": "118752",
+   "apelido": "Mateus Carvalho",
+   "nome": "Mateus Carvalho dos Santos",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "2000128772",
+   "nomeFm": "Mateus Carvalho",
+   "arquivo": "faces/2000128772.png"
+  },
+  {
+   "cartolaId": "104330",
+   "apelido": "Dudu",
+   "nome": "Eduardo Marcelo Rodrigues Nunes",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "19382111",
+   "nomeFm": "Dudu",
+   "arquivo": "faces/19382111.png"
+  },
+  {
+   "cartolaId": "122485",
+   "apelido": "Barros",
+   "nome": "Cauan Lucas Barros da Luz",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "2000248821",
+   "nomeFm": "Cauan Barros",
+   "arquivo": "faces/2000248821.png"
+  },
+  {
+   "cartolaId": "80129",
+   "apelido": "Jadson",
+   "nome": "Jadson Alves dos Santos",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "19180532",
+   "nomeFm": "Jádson",
+   "arquivo": "faces/19180532.png"
+  },
+  {
+   "cartolaId": "42222",
+   "apelido": "Osvaldo",
+   "nome": "Osvaldo Lourenço Filho",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "19019038",
+   "nomeFm": "Osvaldo",
+   "arquivo": "faces/19019038.png"
+  },
+  {
+   "cartolaId": "97645",
+   "apelido": "Thiago Couto",
+   "nome": "Thiago Couto Wenceslau",
+   "posicao": "GOL",
+   "clube": "VIT",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "107985",
+   "apelido": "Terán",
+   "nome": "Carlos Terán Díaz",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "76062372",
+   "nomeFm": "Carlos Terán",
+   "arquivo": "faces/76062372.png"
+  },
+  {
+   "cartolaId": "110698",
+   "apelido": "Mycael",
+   "nome": "Mycael Pontes Moreira",
+   "posicao": "GOL",
+   "clube": "CAP",
+   "fmUid": "19409140",
+   "nomeFm": "Mycael",
+   "arquivo": "faces/19409140.png"
+  },
+  {
+   "cartolaId": "110668",
+   "apelido": "Esquivel",
+   "nome": "Lucas Ángel Esquivel",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "14236055",
+   "nomeFm": "Lucas Esquivel",
+   "arquivo": "faces/14236055.png"
+  },
+  {
+   "cartolaId": "113113",
+   "apelido": "Benavídez",
+   "nome": "Gastón Américo Benavídez",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "14152361",
+   "nomeFm": "Gastón Benavídez",
+   "arquivo": "faces/14152361.png"
+  },
+  {
+   "cartolaId": "145387",
+   "apelido": "Rúben Ismael",
+   "nome": "Rúben Ismael Valente Ramos",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "83168101",
+   "nomeFm": "Rúben Ismael",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "105518",
+   "apelido": "Renan Peixoto",
+   "nome": "Renan Peixoto Nepomuceno",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "19347411",
+   "nomeFm": "Renan Peixoto",
+   "arquivo": "faces/19347411.png"
+  },
+  {
+   "cartolaId": "85626",
+   "apelido": "Léo",
+   "nome": "Leonardo Pinheiro da Conceição",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "19231123",
+   "nomeFm": "Léo",
+   "arquivo": "faces/19231123.png"
+  },
+  {
+   "cartolaId": "130620",
+   "apelido": "Edenílson",
+   "nome": "Edenílson Santos Nascimento Filho",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "2000308464",
+   "nomeFm": "Edenílson",
+   "arquivo": "faces/2000308464.png"
+  },
+  {
+   "cartolaId": "123869",
+   "apelido": "Aguirre",
+   "nome": "Juan Felipe Aguirre Tabares",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "76046572",
+   "nomeFm": "Felipe Aguirre",
+   "arquivo": "faces/76046572.png"
+  },
+  {
+   "cartolaId": "115266",
+   "apelido": "Renan Viana",
+   "nome": "Renan Rodrigues Fonseca Viana",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "2000071609",
+   "nomeFm": "Renan Viana",
+   "arquivo": "faces/2000071609.png"
+  },
+  {
+   "cartolaId": "107700",
+   "apelido": "Eduardo Melo",
+   "nome": "Eduardo de Queiroz Melo",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "2000009036",
+   "nomeFm": "Eduardo Melo",
+   "arquivo": "faces/2000009036.png"
+  },
+  {
+   "cartolaId": "112017",
+   "apelido": "Felipinho",
+   "nome": "Antonio Feliphe Costa Silva",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "2000088861",
+   "nomeFm": "Felipinho",
+   "arquivo": "faces/2000088861.png"
+  },
+  {
+   "cartolaId": "120433",
+   "apelido": "Léo Derik",
+   "nome": "Leonardo Derik Dias Gonçalves",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "2000215083",
+   "nomeFm": "Léo Derik",
+   "arquivo": "faces/2000215083.png"
+  },
+  {
+   "cartolaId": "123101",
+   "apelido": "Leozinho",
+   "nome": "Leonardo Caetano Silva",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "2000249439",
+   "nomeFm": "Leozinho",
+   "arquivo": "faces/2000249439.png"
+  },
+  {
+   "cartolaId": "128431",
+   "apelido": "João Cruz",
+   "nome": "João Victor Machado Cruz",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "2000230043",
+   "nomeFm": "João Cruz",
+   "arquivo": "faces/2000230043.png"
+  },
+  {
+   "cartolaId": "125746",
+   "apelido": "Dudu",
+   "nome": "Eduardo Kogitzki Anastacio",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "2000218052",
+   "nomeFm": "Dudu",
+   "arquivo": "faces/2000218052.png"
+  },
+  {
+   "cartolaId": "143193",
+   "apelido": "Viveros",
+   "nome": "Kevin Stiven Viveros Rodallega",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "76050787",
+   "nomeFm": "Kevin Viveros",
+   "arquivo": "faces/76050787.png"
+  },
+  {
+   "cartolaId": "63354",
+   "apelido": "Rodrigo Moledo",
+   "nome": "Rodrigo Modesto da Silva Moledo",
+   "posicao": "ZAG",
+   "clube": "CFC",
+   "fmUid": "19082804",
+   "nomeFm": "Rodrigo Moledo",
+   "arquivo": "faces/19082804.png"
+  },
+  {
+   "cartolaId": "131832",
+   "apelido": "Portilla",
+   "nome": "Juan Camilo Portilla Orozco",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "76047163",
+   "nomeFm": "Juan Camilo Portilla",
+   "arquivo": "faces/76047163.png"
+  },
+  {
+   "cartolaId": "84339",
+   "apelido": "Bruno Melo",
+   "nome": "Bruno Ferreira Melo",
+   "posicao": "LAT",
+   "clube": "CFC",
+   "fmUid": "19272744",
+   "nomeFm": "Bruno Melo",
+   "arquivo": "faces/19272744.png"
+  },
+  {
+   "cartolaId": "143532",
+   "apelido": "Carlos Eduardo",
+   "nome": "Carlos Eduardo Souza de Barros",
+   "posicao": "GOL",
+   "clube": "CAP",
+   "fmUid": "2000438505",
+   "nomeFm": "Carlos Eduardo",
+   "arquivo": "faces/2000438505.png"
+  },
+  {
+   "cartolaId": "125926",
+   "apelido": "Zapelli",
+   "nome": "Bruno Zapelli",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "14221545",
+   "nomeFm": "Bruno Zapelli",
+   "arquivo": "faces/14221545.png"
+  },
+  {
+   "cartolaId": "127970",
+   "apelido": "Felipe Chiqueti",
+   "nome": "Felipe Chiqueti Bandeira",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "2000218066",
+   "nomeFm": "Felipe Chiqueti",
+   "arquivo": "faces/2000218066.png"
+  },
+  {
+   "cartolaId": "71227",
+   "apelido": "Maicon",
+   "nome": "Maicon Pereira Roque",
+   "posicao": "ZAG",
+   "clube": "CFC",
+   "fmUid": "19017908",
+   "nomeFm": "Maicon",
+   "arquivo": "faces/19017908.png"
+  },
+  {
+   "cartolaId": "82628",
+   "apelido": "Tinga",
+   "nome": "Guilherme de Jesus da Silva",
+   "posicao": "LAT",
+   "clube": "CFC",
+   "fmUid": "19180528",
+   "nomeFm": "Tinga",
+   "arquivo": "faces/19180528.png"
+  },
+  {
+   "cartolaId": "84626",
+   "apelido": "Josué",
+   "nome": "Josué Filipe Soares Pesqueira",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "55013011",
+   "nomeFm": "Josué",
+   "arquivo": "faces/55013011.png"
+  },
+  {
+   "cartolaId": "130842",
+   "apelido": "Matheus Soares",
+   "nome": "Matheus Soares Rocha",
+   "posicao": "GOL",
+   "clube": "CAP",
+   "fmUid": "2000218043",
+   "nomeFm": "Matheus Soares",
+   "arquivo": "faces/2000218043.png"
+  },
+  {
+   "cartolaId": "122316",
+   "apelido": "Batata",
+   "nome": "João Vitor Vigolo Gomes",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "2000500047",
+   "nomeFm": "João Vitor",
+   "arquivo": "faces/2000500047.png"
+  },
+  {
+   "cartolaId": "104811",
+   "apelido": "Sebastián Gómez",
+   "nome": "Sebastián Gómez Londoño",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "76046577",
+   "nomeFm": "Sebastián Gómez",
+   "arquivo": "faces/76046577.png"
+  },
+  {
+   "cartolaId": "128427",
+   "apelido": "Alejandro García",
+   "nome": "Alejandro García Castillo",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "76051058",
+   "nomeFm": "Alejandro García",
+   "arquivo": "faces/76051058.png"
+  },
+  {
+   "cartolaId": "90302",
+   "apelido": "Pedro Rocha",
+   "nome": "Pedro Rocha Neves",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "19189171",
+   "nomeFm": "Pedro Rocha",
+   "arquivo": "faces/19189171.png"
+  },
+  {
+   "cartolaId": "112576",
+   "apelido": "Vini Paulista",
+   "nome": "Vinicius Romualdo dos Santos",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "19390627",
+   "nomeFm": "Vini Paulista",
+   "arquivo": "faces/19390627.png"
+  },
+  {
+   "cartolaId": "117930",
+   "apelido": "Lavega",
+   "nome": "Joaquín Lavega Colzada",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000094147",
+   "nomeFm": "Joaquín Lavega",
+   "arquivo": "faces/2000094147.png"
+  },
+  {
+   "cartolaId": "109127",
+   "apelido": "Tiago Cóser",
+   "nome": "Tiago Cóser",
+   "posicao": "ZAG",
+   "clube": "CFC",
+   "fmUid": "2000020945",
+   "nomeFm": "Tiago Cóser",
+   "arquivo": "faces/2000020945.png"
+  },
+  {
+   "cartolaId": "101405",
+   "apelido": "Wallisson",
+   "nome": "Wallisson Luiz Alves Máximo",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19404752",
+   "nomeFm": "Wallisson",
+   "arquivo": "faces/19404752.png"
+  },
+  {
+   "cartolaId": "110708",
+   "apelido": "Pedro Rangel",
+   "nome": "Pedro Felipe de Faria Rangel",
+   "posicao": "GOL",
+   "clube": "CFC",
+   "fmUid": "2000067906",
+   "nomeFm": "Pedro Rangel",
+   "arquivo": "faces/2000067906.png"
+  },
+  {
+   "cartolaId": "97795",
+   "apelido": "Marcelinho",
+   "nome": "Marcelo Rodrigues Souza",
+   "posicao": "LAT",
+   "clube": "REM",
+   "fmUid": "19394777",
+   "nomeFm": "Marcelinho",
+   "arquivo": "faces/19394777.png"
+  },
+  {
+   "cartolaId": "97878",
+   "apelido": "Jacy",
+   "nome": "Jacy Maranhão Oliveira",
+   "posicao": "ZAG",
+   "clube": "CFC",
+   "fmUid": "19259024",
+   "nomeFm": "Jacy Maranhão",
+   "arquivo": "faces/19259024.png"
+  },
+  {
+   "cartolaId": "141337",
+   "apelido": "Lucas Taverna",
+   "nome": "Lucas Taverna",
+   "posicao": "LAT",
+   "clube": "CFC",
+   "fmUid": "2000380244",
+   "nomeFm": "Lucas Taverna",
+   "arquivo": "faces/2000380244.png"
+  },
+  {
+   "cartolaId": "116461",
+   "apelido": "Jamerson",
+   "nome": "Jamerson Santos de Jesus",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "83261113",
+   "nomeFm": "Jamerson",
+   "arquivo": "faces/83261113.png"
+  },
+  {
+   "cartolaId": "108131",
+   "apelido": "Garcez",
+   "nome": "Maurício Garcez de Jesus",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "2000030782",
+   "nomeFm": "Garcez",
+   "arquivo": "faces/2000030782.png"
+  },
+  {
+   "cartolaId": "123648",
+   "apelido": "Lucas Ronier",
+   "nome": "Lucas Ronier Vieira Pires",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000166672",
+   "nomeFm": "Lucas Ronier",
+   "arquivo": "faces/2000166672.png"
+  },
+  {
+   "cartolaId": "115840",
+   "apelido": "Benassi",
+   "nome": "João Victor Silva Benassi",
+   "posicao": "GOL",
+   "clube": "CFC",
+   "fmUid": "2000086305",
+   "nomeFm": "Benassi",
+   "arquivo": "faces/2000086305.png"
+  },
+  {
+   "cartolaId": "130283",
+   "apelido": "Matheus Dias",
+   "nome": "Matheus Dalsasso Dias",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "2000267816",
+   "nomeFm": "Matheus Dias",
+   "arquivo": "faces/2000267816.png"
+  },
+  {
+   "cartolaId": "102911",
+   "apelido": "Zé Ricardo",
+   "nome": "José Ricardo Araújo Fernandes",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19342184",
+   "nomeFm": "Zé Ricardo",
+   "arquivo": "faces/19342184.png"
+  },
+  {
+   "cartolaId": "83074",
+   "apelido": "Ygor Vinhas",
+   "nome": "Ygor Vinhas Oliveira Lima",
+   "posicao": "GOL",
+   "clube": "REM",
+   "fmUid": "19171814",
+   "nomeFm": "Ygor Vinhas",
+   "arquivo": "faces/19171814.png"
+  },
+  {
+   "cartolaId": "131279",
+   "apelido": "Thiago Azaf",
+   "nome": "Thiago Azaf Siqueira Soares",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000321128",
+   "nomeFm": "Thiago Azaf",
+   "arquivo": "faces/2000321128.png"
+  },
+  {
+   "cartolaId": "125803",
+   "apelido": "Pedro Morisco",
+   "nome": "Pedro Luccas Morisco da Silva",
+   "posicao": "GOL",
+   "clube": "CFC",
+   "fmUid": "2000298276",
+   "nomeFm": "Pedro Morisco",
+   "arquivo": "faces/2000298276.png"
+  },
+  {
+   "cartolaId": "95332",
+   "apelido": "Marcinho",
+   "nome": "Márcio Antônio de Sousa Júnior",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "19230473",
+   "nomeFm": "Marcinho",
+   "arquivo": "faces/19230473.png"
+  },
+  {
+   "cartolaId": "145782",
+   "apelido": "Tassano",
+   "nome": "Cristian Marcelo González Tassano",
+   "posicao": "ZAG",
+   "clube": "REM",
+   "fmUid": "78071000",
+   "nomeFm": "Cristian Tassano",
+   "arquivo": "faces/78071000.png"
+  },
+  {
+   "cartolaId": "98224",
+   "apelido": "Jáderson",
+   "nome": "Jaderson Flores dos Reis",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19319725",
+   "nomeFm": "Jaderson",
+   "arquivo": "faces/19319725.png"
+  },
+  {
+   "cartolaId": "141385",
+   "apelido": "João Victor",
+   "nome": "João Victor Ferreira da Silva",
+   "posicao": "GOL",
+   "clube": "REM",
+   "fmUid": "2000326317",
+   "nomeFm": "João Victor",
+   "arquivo": "faces/2000326317.png"
+  },
+  {
+   "cartolaId": "68822",
+   "apelido": "Rafael Santos",
+   "nome": "Rafael de Carvalho Santos",
+   "posicao": "GOL",
+   "clube": "CHA",
+   "fmUid": "19028925",
+   "nomeFm": "Rafael Santos",
+   "arquivo": "faces/19028925.png"
+  },
+  {
+   "cartolaId": "101393",
+   "apelido": "Eduardo Doma",
+   "nome": "Eduardo Vinícius Domachowski",
+   "posicao": "ZAG",
+   "clube": "CHA",
+   "fmUid": "2000070850",
+   "nomeFm": "Eduardo Doma",
+   "arquivo": "faces/2000070850.png"
+  },
+  {
+   "cartolaId": "78478",
+   "apelido": "Willian Arão",
+   "nome": "Willian Souza Arão da Silva",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "19073567",
+   "nomeFm": "Willian Arão",
+   "arquivo": "faces/19073567.png"
+  },
+  {
+   "cartolaId": "104470",
+   "apelido": "Everton",
+   "nome": "Everton Souza da Cruz",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19389545",
+   "nomeFm": "Everton",
+   "arquivo": "faces/19389545.png"
+  },
+  {
+   "cartolaId": "68938",
+   "apelido": "Giovanni Augusto",
+   "nome": "Giovanni Augusto Oliveira Cardoso",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "19073767",
+   "nomeFm": "Giovanni Augusto",
+   "arquivo": "faces/19073767.png"
+  },
+  {
+   "cartolaId": "97432",
+   "apelido": "Victor Caetano",
+   "nome": "Victor Henrique Carvalho Caetano",
+   "posicao": "ZAG",
+   "clube": "CHA",
+   "fmUid": "19384502",
+   "nomeFm": "Victor Caetano",
+   "arquivo": "faces/19384502.png"
+  },
+  {
+   "cartolaId": "141386",
+   "apelido": "Marcos Alexandre",
+   "nome": "Marcos Alexandre Ferreira Campos Filho",
+   "posicao": "GOL",
+   "clube": "REM",
+   "fmUid": "2000544878",
+   "nomeFm": "Marcos Alexandre",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "109336",
+   "apelido": "Rafael Carvalheira",
+   "nome": "Rafael dos Santos Carvalheira Natividade",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "19380915",
+   "nomeFm": "Rafael Carvalheira",
+   "arquivo": "faces/19380915.png"
+  },
+  {
+   "cartolaId": "147546",
+   "apelido": "Roger",
+   "nome": "Roger Dias Fernandes",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "2000487363",
+   "nomeFm": "Roger",
+   "arquivo": "faces/2000487363.png"
+  },
+  {
+   "cartolaId": "104519",
+   "apelido": "Camilo",
+   "nome": "Camilo Reijers de Oliveira",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "19377973",
+   "nomeFm": "Camilo",
+   "arquivo": "faces/19377973.png"
+  },
+  {
+   "cartolaId": "121870",
+   "apelido": "Gustavo Talles",
+   "nome": "Gustavo Talles da Silva",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "2000210542",
+   "nomeFm": "Da Silva",
+   "arquivo": "faces/2000210542.png"
+  },
+  {
+   "cartolaId": "116066",
+   "apelido": "Rubens",
+   "nome": "Rubens Tadeu Hartmann Ricoldi",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "2000071101",
+   "nomeFm": "Rubens",
+   "arquivo": "faces/2000071101.png"
+  },
+  {
+   "cartolaId": "130843",
+   "apelido": "Arthur Dias",
+   "nome": "Arthur dos Santos Barbosa Dias",
+   "posicao": "ZAG",
+   "clube": "CAP",
+   "fmUid": "2000264292",
+   "nomeFm": "Arthur Dias",
+   "arquivo": "faces/2000264292.png"
+  },
+  {
+   "cartolaId": "97900",
+   "apelido": "Vitão",
+   "nome": "Vitor Eduardo da Silva Matos",
+   "posicao": "ZAG",
+   "clube": "FLA",
+   "fmUid": "19303821",
+   "nomeFm": "Vitão",
+   "arquivo": "faces/19303821.png"
+  },
+  {
+   "cartolaId": "107453",
+   "apelido": "João Paulo",
+   "nome": "João Paulo Silveira dos Santos",
+   "posicao": "ZAG",
+   "clube": "CHA",
+   "fmUid": "83257022",
+   "nomeFm": "João Paulo",
+   "arquivo": "faces/83257022.png"
+  },
+  {
+   "cartolaId": "68708",
+   "apelido": "Eduardo",
+   "nome": "Carlos Eduardo de Oliveira Alves",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19095200",
+   "nomeFm": "Eduardo",
+   "arquivo": "faces/19095200.png"
+  },
+  {
+   "cartolaId": "110426",
+   "apelido": "Bernabei",
+   "nome": "Alexandro Ezequiel Bernabei",
+   "posicao": "LAT",
+   "clube": "INT",
+   "fmUid": "14217260",
+   "nomeFm": "Alexandro Bernabei",
+   "arquivo": "faces/14217260.png"
+  },
+  {
+   "cartolaId": "99552",
+   "apelido": "Rossi",
+   "nome": "Agustín Daniel Rossi",
+   "posicao": "GOL",
+   "clube": "FLA",
+   "fmUid": "14101872",
+   "nomeFm": "Agustín Rossi",
+   "arquivo": "faces/14101872.png"
+  },
+  {
+   "cartolaId": "102906",
+   "apelido": "Anderson",
+   "nome": "Anderson Silva da Paixão",
+   "posicao": "GOL",
+   "clube": "CHA",
+   "fmUid": "19250117",
+   "nomeFm": "Anderson",
+   "arquivo": "faces/19250117.png"
+  },
+  {
+   "cartolaId": "111279",
+   "apelido": "Mancha",
+   "nome": "Gianluca Piola Minozzo",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19364445",
+   "nomeFm": "Mancha",
+   "arquivo": "faces/19364445.png"
+  },
+  {
+   "cartolaId": "126471",
+   "apelido": "Barreal",
+   "nome": "Álvaro Martín Barreal",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "14201730",
+   "nomeFm": "Álvaro Barreal",
+   "arquivo": "faces/14201730.png"
+  },
+  {
+   "cartolaId": "130806",
+   "apelido": "Kauan",
+   "nome": "Kauan Faria Gomes",
+   "posicao": "ZAG",
+   "clube": "CHA",
+   "fmUid": "2000020497",
+   "nomeFm": "Kauan",
+   "arquivo": "faces/2000020497.png"
+  },
+  {
+   "cartolaId": "130414",
+   "apelido": "Robert",
+   "nome": "Robert dos Santos Conceição",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "2000139477",
+   "nomeFm": "Robert Santos",
+   "arquivo": "faces/2000139477.png"
+  },
+  {
+   "cartolaId": "78850",
+   "apelido": "Reinaldo",
+   "nome": "Reinaldo Manoel da Silva",
+   "posicao": "LAT",
+   "clube": "MIR",
+   "fmUid": "19162646",
+   "nomeFm": "Reinaldo",
+   "arquivo": "faces/19162646.png"
+  },
+  {
+   "cartolaId": "89368",
+   "apelido": "Braithwaite",
+   "nome": "Martin Christensen Braithwaite",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "27013113",
+   "nomeFm": "Martin Braithwaite",
+   "arquivo": "faces/27013113.png"
+  },
+  {
+   "cartolaId": "80287",
+   "apelido": "Luciano",
+   "nome": "Luciano da Rocha Neves",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "19202502",
+   "nomeFm": "Luciano",
+   "arquivo": "faces/19202502.png"
+  },
+  {
+   "cartolaId": "39148",
+   "apelido": "Hulk",
+   "nome": "Givanildo Vieira de Souza",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "2105510",
+   "nomeFm": "Hulk",
+   "arquivo": "faces/2105510.png"
+  },
+  {
+   "cartolaId": "100652",
+   "apelido": "Yuri Alberto",
+   "nome": "Yuri Alberto Monteiro da Silva",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "19326424",
+   "nomeFm": "Yuri Alberto",
+   "arquivo": "faces/19326424.png"
+  },
+  {
+   "cartolaId": "89274",
+   "apelido": "Andreas Pereira",
+   "nome": "Andreas Hugo Hoelgebaum Pereira",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "28085588",
+   "nomeFm": "Andreas Pereira",
+   "arquivo": "faces/28085588.png"
+  },
+  {
+   "cartolaId": "140438",
+   "apelido": "David",
+   "nome": "David Antunes da Silva",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "2000283565",
+   "nomeFm": "David",
+   "arquivo": "faces/2000283565.png"
+  },
+  {
+   "cartolaId": "89837",
+   "apelido": "Lucho Acosta",
+   "nome": "Luciano Federico Acosta",
+   "posicao": "MEI",
+   "clube": "FLU",
+   "fmUid": "14031418",
+   "nomeFm": "Luciano Acosta",
+   "arquivo": "faces/14031418.png"
+  },
+  {
+   "cartolaId": "122781",
+   "apelido": "Caballero",
+   "nome": "Gustavo Rubén Caballero González",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "79033967",
+   "nomeFm": "Gustavo Caballero",
+   "arquivo": "faces/79033967.png"
+  },
+  {
+   "cartolaId": "133673",
+   "apelido": "Mateus Xavier",
+   "nome": "Mateus Xavier de Sousa",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "2000272620",
+   "nomeFm": "Mateus Xavier",
+   "arquivo": "faces/2000272620.png"
+  },
+  {
+   "cartolaId": "141776",
+   "apelido": "Gustavo Henrique",
+   "nome": "Gustavo Henrique Pereira",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "2000206870",
+   "nomeFm": "Gustavo Henrique",
+   "arquivo": "faces/2000206870.png"
+  },
+  {
+   "cartolaId": "146991",
+   "apelido": "Rhuan Gabriel",
+   "nome": "Rhuan Gabriel Rodrigues de Souza Silva",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "2000243132",
+   "nomeFm": "Rhuan Gabriel",
+   "arquivo": "faces/2000243132.png"
+  },
+  {
+   "cartolaId": "144423",
+   "apelido": "Nicolas Pontes",
+   "nome": "Nicolas Pontes de Souza Almeida",
+   "posicao": "LAT",
+   "clube": "CRU",
+   "fmUid": "2000272495",
+   "nomeFm": "Nicolas",
+   "arquivo": "faces/2000272495.png"
+  },
+  {
+   "cartolaId": "86292",
+   "apelido": "Bolasie",
+   "nome": "Yannick Bolasie",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "83000374",
+   "nomeFm": "Yannick Bolasie",
+   "arquivo": "faces/83000374.png"
+  },
+  {
+   "cartolaId": "103445",
+   "apelido": "Kaio Jorge",
+   "nome": "Kaio Jorge Pinto Ramos",
+   "posicao": "ATA",
+   "clube": "CRU",
+   "fmUid": "19348862",
+   "nomeFm": "Kaio Jorge",
+   "arquivo": "faces/19348862.png"
+  },
+  {
+   "cartolaId": "115025",
+   "apelido": "Miguelito",
+   "nome": "Miguel Àngel Terceros",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "2000088460",
+   "nomeFm": "Miguel Terceros",
+   "arquivo": "faces/2000088460.png"
+  },
+  {
+   "cartolaId": "106104",
+   "apelido": "Enamorado",
+   "nome": "José David Enamorado Gómez",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "76050433",
+   "nomeFm": "José Enamorado",
+   "arquivo": "faces/76050433.png"
+  },
+  {
+   "cartolaId": "94583",
+   "apelido": "Pedro",
+   "nome": "Pedro Guilherme Abreu dos Santos",
+   "posicao": "ATA",
+   "clube": "FLA",
+   "fmUid": "19259566",
+   "nomeFm": "Pedro",
+   "arquivo": "faces/19259566.png"
+  },
+  {
+   "cartolaId": "142130",
+   "apelido": "Marcelo Eráclito",
+   "nome": "Marcelo Eráclito de Souza Filho",
+   "posicao": "GOL",
+   "clube": "CRU",
+   "fmUid": "2000272658",
+   "nomeFm": "Marcelo",
+   "arquivo": "faces/2000272658.png"
+  },
+  {
+   "cartolaId": "101908",
+   "apelido": "Willian Machado",
+   "nome": "Willian Estefani Machado",
+   "posicao": "ZAG",
+   "clube": "MIR",
+   "fmUid": "19216899",
+   "nomeFm": "Willian Machado",
+   "arquivo": "faces/19216899.png"
+  },
+  {
+   "cartolaId": "114802",
+   "apelido": "Vitor Roque",
+   "nome": "Vitor Hugo Roque Ferreira",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000095783",
+   "nomeFm": "Vitor Roque",
+   "arquivo": "faces/2000095783.png"
+  },
+  {
+   "cartolaId": "128433",
+   "apelido": "Johan Rojas",
+   "nome": "Johan Rojas Echavarría",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "2000159964",
+   "nomeFm": "Johan Rojas",
+   "arquivo": "faces/2000159964.png"
+  },
+  {
+   "cartolaId": "108713",
+   "apelido": "Galeano",
+   "nome": "Antonio Javier Galeano Ferreira",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "79030409",
+   "nomeFm": "Antonio Galeano",
+   "arquivo": "faces/79030409.png"
+  },
+  {
+   "cartolaId": "51772",
+   "apelido": "Everton Ribeiro",
+   "nome": "Everton Augusto de Barros Ribeiro",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "19028921",
+   "nomeFm": "Everton Ribeiro",
+   "arquivo": "faces/19028921.png"
+  },
+  {
+   "cartolaId": "90061",
+   "apelido": "Bruno Pacheco",
+   "nome": "Bruno de Jesus Pacheco",
+   "posicao": "LAT",
+   "clube": "CHA",
+   "fmUid": "19235900",
+   "nomeFm": "Bruno Pacheco",
+   "arquivo": "faces/19235900.png"
+  },
+  {
+   "cartolaId": "133696",
+   "apelido": "Wallace Davi",
+   "nome": "Wallace Davi Nunes da Silva Dias",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000274298",
+   "nomeFm": "Wallace Davi",
+   "arquivo": "faces/2000274298.png"
+  },
+  {
+   "cartolaId": "132412",
+   "apelido": "Román Gómez",
+   "nome": "Román Agustín Gómez",
+   "posicao": "LAT",
+   "clube": "BAH",
+   "fmUid": "2000241159",
+   "nomeFm": "Román Gómez",
+   "arquivo": "faces/2000241159.png"
+  },
+  {
+   "cartolaId": "115986",
+   "apelido": "Denilson",
+   "nome": "Denilson Alves Borges",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19354891",
+   "nomeFm": "Denilson",
+   "arquivo": "faces/19354891.png"
+  },
+  {
+   "cartolaId": "114040",
+   "apelido": "Minda",
+   "nome": "Alan Steve Minda García",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "2000048774",
+   "nomeFm": "Alan Minda",
+   "arquivo": "faces/2000048774.png"
+  },
+  {
+   "cartolaId": "145400",
+   "apelido": "Cauê",
+   "nome": "Cauê Nascimento Santos",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "2000488984",
+   "nomeFm": "Cauê",
+   "arquivo": "faces/2000488984.png"
+  },
+  {
+   "cartolaId": "94514",
+   "apelido": "Lucas Oliveira",
+   "nome": "Lucas da Cruz Oliveira",
+   "posicao": "ZAG",
+   "clube": "MIR",
+   "fmUid": "19367739",
+   "nomeFm": "Lucas Oliveira",
+   "arquivo": "faces/19367739.png"
+  },
+  {
+   "cartolaId": "126120",
+   "apelido": "Marcelinho",
+   "nome": "Marcelo Braz da Silva",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "2000125585",
+   "nomeFm": "Marcelinho",
+   "arquivo": "faces/2000125585.png"
+  },
+  {
+   "cartolaId": "147090",
+   "apelido": "Kauã Pascini",
+   "nome": "Kauã Pascini Resende",
+   "posicao": "LAT",
+   "clube": "CAM",
+   "fmUid": "2000365595",
+   "nomeFm": "Kauã Pascini",
+   "arquivo": "faces/2000365595.png"
+  },
+  {
+   "cartolaId": "94154",
+   "apelido": "Maycon",
+   "nome": "Maycon de Andrade Barberan",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "19221567",
+   "nomeFm": "Maycon",
+   "arquivo": "faces/19221567.png"
+  },
+  {
+   "cartolaId": "118655",
+   "apelido": "Saldivia",
+   "nome": "Alan Gabriel Saldivia Vázquez",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "78097775",
+   "nomeFm": "Alan Saldivia",
+   "arquivo": "faces/78097775.png"
+  },
+  {
+   "cartolaId": "130280",
+   "apelido": "Phillipe Gabriel",
+   "nome": "Phillipe Gabriel Pires de Oliveira",
+   "posicao": "GOL",
+   "clube": "VAS",
+   "fmUid": "2000218551",
+   "nomeFm": "Phillipe Gabriel",
+   "arquivo": "faces/2000218551.png"
+  },
+  {
+   "cartolaId": "93988",
+   "apelido": "Breno Lopes",
+   "nome": "Breno Henrique Vasconcelos Lopes",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "19271622",
+   "nomeFm": "Breno Lopes",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "126182",
+   "apelido": "Paulinho",
+   "nome": "Paulo Lucas Santos de Paula",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "19261512",
+   "nomeFm": "Paulinho",
+   "arquivo": "faces/19261512.png"
+  },
+  {
+   "cartolaId": "106708",
+   "apelido": "Igor Formiga",
+   "nome": "Igor Marques Paciência Cardoso",
+   "posicao": "LAT",
+   "clube": "MIR",
+   "fmUid": "19355315",
+   "nomeFm": "Igor Formiga",
+   "arquivo": "faces/19355315.png"
+  },
+  {
+   "cartolaId": "130048",
+   "apelido": "Noriega",
+   "nome": "Erick Carlos Noriega Loret de Mola",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "77058584",
+   "nomeFm": "Erick Noriega",
+   "arquivo": "faces/77058584.png"
+  },
+  {
+   "cartolaId": "141131",
+   "apelido": "Vitão",
+   "nome": "Vitor Fernandes Chaves Teixeira",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "2000379663",
+   "nomeFm": "Vitão",
+   "arquivo": "faces/2000379663.png"
+  },
+  {
+   "cartolaId": "89256",
+   "apelido": "Gerson",
+   "nome": "Gerson Santos da Silva",
+   "posicao": "MEI",
+   "clube": "CRU",
+   "fmUid": "19217413",
+   "nomeFm": "Gérson",
+   "arquivo": "faces/19217413.png"
+  },
+  {
+   "cartolaId": "70666",
+   "apelido": "Marllon",
+   "nome": "Marllon Gonçalves Jerônimo Borges",
+   "posicao": "ZAG",
+   "clube": "REM",
+   "fmUid": "19138505",
+   "nomeFm": "Marllon",
+   "arquivo": "faces/19138505.png"
+  },
+  {
+   "cartolaId": "146410",
+   "apelido": "Marquinhos",
+   "nome": "Marcos Felipe Vinagre Souza",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000377980",
+   "nomeFm": "Marquinhos",
+   "arquivo": "faces/2000377980.png"
+  },
+  {
+   "cartolaId": "100342",
+   "apelido": "Léo Andrade",
+   "nome": "Leonardo de Andrade Silva",
+   "posicao": "ZAG",
+   "clube": "REM",
+   "fmUid": "19260157",
+   "nomeFm": "Léo Andrade",
+   "arquivo": "faces/19260157.png"
+  },
+  {
+   "cartolaId": "106302",
+   "apelido": "Preciado",
+   "nome": "Ángelo Smit Preciado Quiñónez",
+   "posicao": "LAT",
+   "clube": "CAM",
+   "fmUid": "86066845",
+   "nomeFm": "Ángelo Preciado",
+   "arquivo": "faces/86066845.png"
+  },
+  {
+   "cartolaId": "103388",
+   "apelido": "Emmanuel Martínez",
+   "nome": "Leandro Emmanuel Martínez",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "14110845",
+   "nomeFm": "Emmanuel Martínez",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "105157",
+   "apelido": "Villagra",
+   "nome": "Rodrigo Román Villagra",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "14223258",
+   "nomeFm": "Rodrigo Villagra",
+   "arquivo": "faces/14223258.png"
+  },
+  {
+   "cartolaId": "83433",
+   "apelido": "Patrick",
+   "nome": "Patrick Bezerra do Nascimento",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19194171",
+   "nomeFm": "Patrick",
+   "arquivo": "faces/19194171.png"
+  },
+  {
+   "cartolaId": "71536",
+   "apelido": "Luiz Gustavo",
+   "nome": "Luiz Gustavo Dias",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "19016523",
+   "nomeFm": "Luiz Gustavo",
+   "arquivo": "faces/19016523.png"
+  },
+  {
+   "cartolaId": "69208",
+   "apelido": "Gabriel Paulista",
+   "nome": "Gabriel Armando de Abreu",
+   "posicao": "ZAG",
+   "clube": "COR",
+   "fmUid": "19127830",
+   "nomeFm": "Gabriel Paulista",
+   "arquivo": "faces/19127830.png"
+  },
+  {
+   "cartolaId": "123689",
+   "apelido": "Milans",
+   "nome": "Pedro Milans Carámbula",
+   "posicao": "LAT",
+   "clube": "COR",
+   "fmUid": "78099060",
+   "nomeFm": "Pedro Milans",
+   "arquivo": "faces/78099060.png"
+  },
+  {
+   "cartolaId": "105089",
+   "apelido": "Tetê",
+   "nome": "Mateus Cardoso Lemos Martins",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "19348859",
+   "nomeFm": "Tetê",
+   "arquivo": "faces/19348859.png"
+  },
+  {
+   "cartolaId": "141873",
+   "apelido": "Jacaré",
+   "nome": "João Vitor Barros Silva",
+   "posicao": "LAT",
+   "clube": "COR",
+   "fmUid": "2000517004",
+   "nomeFm": "Jacaré",
+   "arquivo": "faces/2000517004.png"
+  },
+  {
+   "cartolaId": "95362",
+   "apelido": "Cassierra",
+   "nome": "Zander Mateo Casierra Cabezas",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "76043519",
+   "nomeFm": "Mateo Cassierra",
+   "arquivo": "faces/76043519.png"
+  },
+  {
+   "cartolaId": "116034",
+   "apelido": "Victor Hugo",
+   "nome": "Victor Hugo Gomes Silva",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000050657",
+   "nomeFm": "Victor Hugo",
+   "arquivo": "faces/2000050657.png"
+  },
+  {
+   "cartolaId": "110633",
+   "apelido": "Gustavo",
+   "nome": "Gustavo Silva de Oliveira",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "2000048797",
+   "nomeFm": "Gustavo Oliveira",
+   "arquivo": "faces/2000048797.png"
+  },
+  {
+   "cartolaId": "86859",
+   "apelido": "José Welison",
+   "nome": "José Welison da Silva - Zé",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19197120",
+   "nomeFm": "Zé Welison",
+   "arquivo": "faces/19197120.png"
+  },
+  {
+   "cartolaId": "113125",
+   "apelido": "Picco",
+   "nome": "Leonel Marcelo Picco",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "14134689",
+   "nomeFm": "Leonel Picco",
+   "arquivo": "faces/14134689.png"
+  },
+  {
+   "cartolaId": "142265",
+   "apelido": "Dell",
+   "nome": "Wendeson Wanderley Santos de Melo",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "2000378966",
+   "nomeFm": "Dell",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "140496",
+   "apelido": "Tiaguinho",
+   "nome": "Tiago Augusto Gonçalves",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "2000440048",
+   "nomeFm": "Tiago",
+   "arquivo": "faces/2000440048.png"
+  },
+  {
+   "cartolaId": "105842",
+   "apelido": "Edu",
+   "nome": "Lucas Eduardo Ribeiro de Souza",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "19350726",
+   "nomeFm": "Edu",
+   "arquivo": "faces/19350726.png"
+  },
+  {
+   "cartolaId": "146374",
+   "apelido": "Gilberto Junior",
+   "nome": "Gilberto Junior Leite dos Santos",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "2000246376",
+   "nomeFm": "Gilberto Júnior",
+   "arquivo": "faces/2000246376.png"
+  },
+  {
+   "cartolaId": "146623",
+   "apelido": "Luis Pacheco",
+   "nome": "Luis Felipe Pacheco da Costa",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "2000408356",
+   "nomeFm": "Luís Pacheco",
+   "arquivo": "faces/2000408356.png"
+  },
+  {
+   "cartolaId": "68952",
+   "apelido": "Marinho",
+   "nome": "Mário Sérgio Santos Costa",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "19060670",
+   "nomeFm": "Marinho",
+   "arquivo": "faces/19060670.png"
+  },
+  {
+   "cartolaId": "97906",
+   "apelido": "Riccieli",
+   "nome": "Riccieli Eduardo da Silva Júnior",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "19362992",
+   "nomeFm": "Riccieli",
+   "arquivo": "faces/19362992.png"
+  },
+  {
+   "cartolaId": "107859",
+   "apelido": "Fintelman",
+   "nome": "Alexandre Fintelman de Mello Ribeiro da Silva",
+   "posicao": "GOL",
+   "clube": "VIT",
+   "fmUid": "19410805",
+   "nomeFm": "Fintelman",
+   "arquivo": "faces/19410805.png"
+  },
+  {
+   "cartolaId": "99789",
+   "apelido": "Brenner",
+   "nome": "Brenner Souza da Silva",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "19302917",
+   "nomeFm": "Brenner",
+   "arquivo": "faces/19302917.png"
+  },
+  {
+   "cartolaId": "145404",
+   "apelido": "Arthur",
+   "nome": "Arthur Gabriel Santana Marcolino",
+   "posicao": "LAT",
+   "clube": "PAL",
+   "fmUid": "2000329679",
+   "nomeFm": "Arthur",
+   "arquivo": "faces/2000329679.png"
+  },
+  {
+   "cartolaId": "87552",
+   "apelido": "Vitor Bueno",
+   "nome": "Vitor Frezarin Bueno",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "19257876",
+   "nomeFm": "Vitor Bueno",
+   "arquivo": "faces/19257876.png"
+  },
+  {
+   "cartolaId": "141628",
+   "apelido": "Pablo Lúcio",
+   "nome": "Pablo Lúcio",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "2000372620",
+   "nomeFm": "Pablo Lúcio",
+   "arquivo": "faces/2000372620.png"
+  },
+  {
+   "cartolaId": "90370",
+   "apelido": "Matheus Pereira",
+   "nome": "Matheus Pereira da Silva",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "19237947",
+   "nomeFm": "Matheus Pereira",
+   "arquivo": "faces/19237947.png"
+  },
+  {
+   "cartolaId": "130906",
+   "apelido": "Riquelme",
+   "nome": "Diogo Riquelme Rivas do Nascimento",
+   "posicao": "MEI",
+   "clube": "CAP",
+   "fmUid": "2000211094",
+   "nomeFm": "Diogo Riquelme",
+   "arquivo": "faces/2000211094.png"
+  },
+  {
+   "cartolaId": "145436",
+   "apelido": "Belé",
+   "nome": "Erick Machado Belé",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000331301",
+   "nomeFm": "Erick Belé",
+   "arquivo": "faces/2000331301.png"
+  },
+  {
+   "cartolaId": "101729",
+   "apelido": "Fabinho",
+   "nome": "Fabio Augusto Luciano da Silva",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "19290887",
+   "nomeFm": "Fabinho",
+   "arquivo": "faces/19290887.png"
+  },
+  {
+   "cartolaId": "107075",
+   "apelido": "Yuri Sena",
+   "nome": "Yuri Sena dos Reis Batista",
+   "posicao": "GOL",
+   "clube": "VIT",
+   "fmUid": "19335351",
+   "nomeFm": "Yuri Sena",
+   "arquivo": "faces/19335351.png"
+  },
+  {
+   "cartolaId": "147088",
+   "apelido": "Cissé",
+   "nome": "Mamady Cissé",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000460990",
+   "nomeFm": "Mamady Cissé",
+   "arquivo": "faces/2000460990.png"
+  },
+  {
+   "cartolaId": "110598",
+   "apelido": "Marino Hinestroza",
+   "nome": "Marino Hinestroza Angulo",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "76057670",
+   "nomeFm": "Marino Hinestroza",
+   "arquivo": "faces/76057670.png"
+  },
+  {
+   "cartolaId": "104134",
+   "apelido": "Fabri",
+   "nome": "Fabrício do Rosário dos Santos",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "19355039",
+   "nomeFm": "Fabri",
+   "arquivo": "faces/19355039.png"
+  },
+  {
+   "cartolaId": "146632",
+   "apelido": "Alisson",
+   "nome": "Alisson Rodrigues de Melo",
+   "posicao": "LAT",
+   "clube": "INT",
+   "fmUid": "2000579113",
+   "nomeFm": "Alisson",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141551",
+   "apelido": "Índio",
+   "nome": "Hendel dos Santos Nascimento",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000417192",
+   "nomeFm": "Índio",
+   "arquivo": "faces/2000417192.png"
+  },
+  {
+   "cartolaId": "145036",
+   "apelido": "Fernando Pradella",
+   "nome": "Fernando Pradella Rocha",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "2000380015",
+   "nomeFm": "Pradella",
+   "arquivo": "faces/2000380015.png"
+  },
+  {
+   "cartolaId": "141406",
+   "apelido": "Andrey Fernandes",
+   "nome": "Andrey Fernandes de Oliveira Nunes",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "2000481532",
+   "nomeFm": "Andrey Fernandes",
+   "arquivo": "faces/2000481532.png"
+  },
+  {
+   "cartolaId": "147202",
+   "apelido": "João Bezerra",
+   "nome": "João Pedro Bezerra de Oliveira Lo",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "2000579111",
+   "nomeFm": "João Bezerra",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "118844",
+   "apelido": "Kaio César",
+   "nome": "Kaio César Andrade Lima",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "2000245921",
+   "nomeFm": "Kaio César",
+   "arquivo": "faces/2000245921.png"
+  },
+  {
+   "cartolaId": "94930",
+   "apelido": "Lucas Paquetá",
+   "nome": "Lucas Tolentino Coelho de Lima",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "19226741",
+   "nomeFm": "Lucas Paquetá",
+   "arquivo": "faces/19226741.png"
+  },
+  {
+   "cartolaId": "124270",
+   "apelido": "Allex",
+   "nome": "Allex Rodrigues Pereira da Silva",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "2000273986",
+   "nomeFm": "Allex",
+   "arquivo": "faces/2000273986.png"
+  },
+  {
+   "cartolaId": "101715",
+   "apelido": "Alerrandro",
+   "nome": "Alerrandro Barra Mansa Realino de Souza",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "19296892",
+   "nomeFm": "Alerrandro",
+   "arquivo": "faces/19296892.png"
+  },
+  {
+   "cartolaId": "147782",
+   "apelido": "Arthur Novaes",
+   "nome": "Arthur Alves Novaes",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000491208",
+   "nomeFm": "Arthur Novaes",
+   "arquivo": "faces/2000491208.png"
+  },
+  {
+   "cartolaId": "147788",
+   "apelido": "Arthur Izaque",
+   "nome": "Arthur Izaque Bendayan de Castro Silva",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "2000540416",
+   "nomeFm": "Arthur Izaque",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "142638",
+   "apelido": "João Victor",
+   "nome": "João Victor Alves de Morais Francisco",
+   "posicao": "ATA",
+   "clube": "INT",
+   "fmUid": "2000579100",
+   "nomeFm": "João Victor",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141615",
+   "apelido": "Pedro Ferreira",
+   "nome": "Pedro Henrique Ferreira da Silva",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "2000378974",
+   "nomeFm": "Pedro Ferreira",
+   "arquivo": "faces/2000378974.png"
+  },
+  {
+   "cartolaId": "130698",
+   "apelido": "Kadu",
+   "nome": "Carlos Eduardo da Silva Santos",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "2000455818",
+   "nomeFm": "Kadu Santos",
+   "arquivo": "faces/2000455818.png"
+  },
+  {
+   "cartolaId": "147883",
+   "apelido": "João Vitor",
+   "nome": "João Vitor Fonseca da Silva - JV Mutano",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "2000546094",
+   "nomeFm": "João Vitor",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "142086",
+   "apelido": "Kauan Toledo",
+   "nome": "Kauan Almeida Toledo",
+   "posicao": "ATA",
+   "clube": "BOT",
+   "fmUid": "2000213003",
+   "nomeFm": "Kauan Toledo",
+   "arquivo": "faces/2000213003.png"
+  },
+  {
+   "cartolaId": "114208",
+   "apelido": "Alejo Véliz",
+   "nome": "Alejo Véliz",
+   "posicao": "ATA",
+   "clube": "BAH",
+   "fmUid": "2000096330",
+   "nomeFm": "Alejo Veliz",
+   "arquivo": "faces/2000096330.png"
+  },
+  {
+   "cartolaId": "141991",
+   "apelido": "Tico",
+   "nome": "Paulo Sérgio da Costa Evangelista Junior",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "2000570715",
+   "nomeFm": "Tico",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "103183",
+   "apelido": "Andrew",
+   "nome": "Andrew da Silva Ventura",
+   "posicao": "GOL",
+   "clube": "FLA",
+   "fmUid": "19370048",
+   "nomeFm": "Andrew",
+   "arquivo": "faces/19370048.png"
+  },
+  {
+   "cartolaId": "112939",
+   "apelido": "Catarozzi",
+   "nome": "Franco Catarozzi Parafita",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "2000064712",
+   "nomeFm": "Franco Catarozzi",
+   "arquivo": "faces/2000064712.png"
+  },
+  {
+   "cartolaId": "148109",
+   "apelido": "Filipe Lima",
+   "nome": "Filipe Lima de Oliveira",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "2000544876",
+   "nomeFm": "Filipe Oliveira",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141126",
+   "apelido": "Pedro Cobra",
+   "nome": "Pedro Cobra Rodrigues",
+   "posicao": "GOL",
+   "clube": "CAM",
+   "fmUid": "2000270802",
+   "nomeFm": "Pedro Cobra",
+   "arquivo": "faces/2000270802.png"
+  },
+  {
+   "cartolaId": "82407",
+   "apelido": "Chico Kim",
+   "nome": "Francisco Hyun-Sol Kim",
+   "posicao": "MEI",
+   "clube": "MIR",
+   "fmUid": "19119371",
+   "nomeFm": "Chico Kim",
+   "arquivo": "faces/19119371.png"
+  },
+  {
+   "cartolaId": "123738",
+   "apelido": "Herrera",
+   "nome": "José María Herrera Ares",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "2000051680",
+   "nomeFm": "José María Herrera",
+   "arquivo": "faces/2000051680.png"
+  },
+  {
+   "cartolaId": "130438",
+   "apelido": "Diego",
+   "nome": "Diego Esser Pereira",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "2000497901",
+   "nomeFm": "Diego Esser",
+   "arquivo": "faces/2000497901.png"
+  },
+  {
+   "cartolaId": "71043",
+   "apelido": "Léo Vieira",
+   "nome": "Leonardo da Silva Vieira",
+   "posicao": "GOL",
+   "clube": "BAH",
+   "fmUid": "2107498",
+   "nomeFm": "Léo Vieira",
+   "arquivo": "faces/2107498.png"
+  },
+  {
+   "cartolaId": "99815",
+   "apelido": "Arias",
+   "nome": "Jhon Adolfo Arias Andrade",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "76053760",
+   "nomeFm": "Jhon Arias",
+   "arquivo": "faces/76053760.png"
+  },
+  {
+   "cartolaId": "143463",
+   "apelido": "Wesley Natã",
+   "nome": "Wesley Natã de Freitas Prado",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "2000379917",
+   "nomeFm": "Wesley Natã",
+   "arquivo": "faces/2000379917.png"
+  },
+  {
+   "cartolaId": "108162",
+   "apelido": "Nardoni",
+   "nome": "Juan Ignacio Martín Nardoni",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "14242680",
+   "nomeFm": "Juan Ignacio Nardoni",
+   "arquivo": "faces/14242680.png"
+  },
+  {
+   "cartolaId": "127969",
+   "apelido": "Matheus Reis",
+   "nome": "Matheus dos Reis Francisco",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "2000264997",
+   "nomeFm": "Matheus Reis",
+   "arquivo": "faces/2000264997.png"
+  },
+  {
+   "cartolaId": "97911",
+   "apelido": "Lucas Silva",
+   "nome": "Lucas Rodrigues da Silva",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "19362985",
+   "nomeFm": "Lucas Silva",
+   "arquivo": "faces/19362985.png"
+  },
+  {
+   "cartolaId": "148152",
+   "apelido": "Ararat",
+   "nome": "Alejandro Ararat Díaz",
+   "posicao": "MEI",
+   "clube": "CFC",
+   "fmUid": "2000362029",
+   "nomeFm": "Alejandro Ararat",
+   "arquivo": "faces/2000362029.png"
+  },
+  {
+   "cartolaId": "148215",
+   "apelido": "Djhordney",
+   "nome": "Djhordney Ferreira",
+   "posicao": "MEI",
+   "clube": "SAO",
+   "fmUid": "2000290679",
+   "nomeFm": "Djhordney",
+   "arquivo": "faces/2000290679.png"
+  },
+  {
+   "cartolaId": "110144",
+   "apelido": "Spinelli",
+   "nome": "Claudio Paul Spinelli",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "14150244",
+   "nomeFm": "Claudio Spinelli",
+   "arquivo": "faces/14150244.png"
+  },
+  {
+   "cartolaId": "131964",
+   "apelido": "Jhoan Hernández",
+   "nome": "Jhoan Hernández Mejía",
+   "posicao": "LAT",
+   "clube": "BOT",
+   "fmUid": "2000231497",
+   "nomeFm": "Jhoan Hernández",
+   "arquivo": "faces/2000231497.png"
+  },
+  {
+   "cartolaId": "148124",
+   "apelido": "Vinicius",
+   "nome": "Vinicius Eduardo de Almeida Gomes da Silva",
+   "posicao": "ZAG",
+   "clube": "CHA",
+   "fmUid": "2000283562",
+   "nomeFm": "Vinicius Eduardo",
+   "arquivo": "faces/2000283562.png"
+  },
+  {
+   "cartolaId": "146430",
+   "apelido": "Justino",
+   "nome": "Gabriel Pereira Justino",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": "2000219162",
+   "nomeFm": "Gabriel Justino",
+   "arquivo": "faces/2000219162.png"
+  },
+  {
+   "cartolaId": "97899",
+   "apelido": "Matheus Bahia",
+   "nome": "Matheus Bahia Santos",
+   "posicao": "LAT",
+   "clube": "INT",
+   "fmUid": "19293344",
+   "nomeFm": "Matheus Bahia",
+   "arquivo": "faces/19293344.png"
+  },
+  {
+   "cartolaId": "116065",
+   "apelido": "Cuiabano",
+   "nome": "Luís Eduardo Soares da Silva",
+   "posicao": "LAT",
+   "clube": "VAS",
+   "fmUid": "2000064082",
+   "nomeFm": "Cuiabano",
+   "arquivo": "faces/2000064082.png"
+  },
+  {
+   "cartolaId": "148206",
+   "apelido": "Nadson",
+   "nome": "Nadson Juan Maia da Silva de Souza",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "2000488891",
+   "nomeFm": "Nadson",
+   "arquivo": "faces/2000488891.png"
+  },
+  {
+   "cartolaId": "104666",
+   "apelido": "Moisés",
+   "nome": "Moisés Vieira da Veiga",
+   "posicao": "ATA",
+   "clube": "SAN",
+   "fmUid": "19383039",
+   "nomeFm": "Moisés",
+   "arquivo": "faces/19383039.png"
+  },
+  {
+   "cartolaId": "93371",
+   "apelido": "Rodrigo Rodrigues",
+   "nome": "Rodrigo Rodrigues Silva",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "19220269",
+   "nomeFm": "Rodrigo Rodrigues",
+   "arquivo": "faces/19220269.png"
+  },
+  {
+   "cartolaId": "109987",
+   "apelido": "Medina",
+   "nome": "Cristian Nicolás Medina",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "14241925",
+   "nomeFm": "Cristian Medina",
+   "arquivo": "faces/14241925.png"
+  },
+  {
+   "cartolaId": "145563",
+   "apelido": "João Ananias",
+   "nome": "João Paulo Ananias Bento",
+   "posicao": "ZAG",
+   "clube": "SAN",
+   "fmUid": "2000272636",
+   "nomeFm": "João Ananias",
+   "arquivo": "faces/2000272636.png"
+  },
+  {
+   "cartolaId": "126189",
+   "apelido": "Tomás Pérez",
+   "nome": "Tomás Pérez",
+   "posicao": "MEI",
+   "clube": "CAM",
+   "fmUid": "2000166169",
+   "nomeFm": "Tomás Pérez",
+   "arquivo": "faces/2000166169.png"
+  },
+  {
+   "cartolaId": "104036",
+   "apelido": "Labyad",
+   "nome": "Zakaria Labyad",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "37018928",
+   "nomeFm": "Zakaria Labyad",
+   "arquivo": "faces/37018928.png"
+  },
+  {
+   "cartolaId": "105048",
+   "apelido": "Jajá",
+   "nome": "Jandir Breno Souza Silva",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "19410262",
+   "nomeFm": "Jajá Silva",
+   "arquivo": "faces/19410262.png"
+  },
+  {
+   "cartolaId": "130393",
+   "apelido": "Luiz Gustavo",
+   "nome": "Luiz Gustavo Marinho Ribeiro dos Santos",
+   "posicao": "ZAG",
+   "clube": "BAH",
+   "fmUid": "2000219322",
+   "nomeFm": "Luiz Gustavo",
+   "arquivo": "faces/2000219322.png"
+  },
+  {
+   "cartolaId": "133671",
+   "apelido": "Gustavo Reis",
+   "nome": "Gustavo Reis de Alcântara",
+   "posicao": "GOL",
+   "clube": "RBB",
+   "fmUid": "2000135310",
+   "nomeFm": "Gustavo Reis",
+   "arquivo": "faces/2000135310.png"
+  },
+  {
+   "cartolaId": "124386",
+   "apelido": "Kainã",
+   "nome": "Kainã Correa Dal Magro",
+   "posicao": "GOL",
+   "clube": "CHA",
+   "fmUid": "2000247258",
+   "nomeFm": "Kainã",
+   "arquivo": "faces/2000247258.png"
+  },
+  {
+   "cartolaId": "100804",
+   "apelido": "Tchamba",
+   "nome": "Duplexe Tchamba Bangou",
+   "posicao": "ZAG",
+   "clube": "REM",
+   "fmUid": "49045789",
+   "nomeFm": "Duplexe Tchamba",
+   "arquivo": "faces/49045789.png"
+  },
+  {
+   "cartolaId": "147545",
+   "apelido": "Jefinho",
+   "nome": "Jéferson Forneck",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "2000256321",
+   "nomeFm": "Jéferson Forneck",
+   "arquivo": "faces/2000256321.png"
+  },
+  {
+   "cartolaId": "142261",
+   "apelido": "Jeferson",
+   "nome": "Jeferson Borges dos Santos",
+   "posicao": "ATA",
+   "clube": "GRE",
+   "fmUid": "2000256321",
+   "nomeFm": "Jéferson Forneck",
+   "arquivo": "faces/2000256321.png"
+  },
+  {
+   "cartolaId": "142275",
+   "apelido": "Luiz Felipe",
+   "nome": "Luiz Felipe Mariano dos Santos",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "2000535367",
+   "nomeFm": "Luiz Felipe",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "101807",
+   "apelido": "Oliva",
+   "nome": "Christian Gabriel Oliva Giménez",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "78091915",
+   "nomeFm": "Christian Oliva",
+   "arquivo": "faces/78091915.png"
+  },
+  {
+   "cartolaId": "93834",
+   "apelido": "Keiller",
+   "nome": "Keiller da Silva Nunes",
+   "posicao": "GOL",
+   "clube": "CFC",
+   "fmUid": "19261641",
+   "nomeFm": "Keiller",
+   "arquivo": "faces/19261641.png"
+  },
+  {
+   "cartolaId": "124219",
+   "apelido": "Millán",
+   "nome": "Julián Camilo Millán Díaz",
+   "posicao": "ZAG",
+   "clube": "FLU",
+   "fmUid": "76047308",
+   "nomeFm": "Julián Millán",
+   "arquivo": "faces/76047308.png"
+  },
+  {
+   "cartolaId": "141400",
+   "apelido": "Huguinho",
+   "nome": "Victor Hugo Custódio de Melo Moura",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000273232",
+   "nomeFm": "Huguinho",
+   "arquivo": "faces/2000273232.png"
+  },
+  {
+   "cartolaId": "147875",
+   "apelido": "Daniel Silva",
+   "nome": "Daniel Carvalho Marinho da Silva - Thuram",
+   "posicao": "ZAG",
+   "clube": "FLA",
+   "fmUid": "2000535365",
+   "nomeFm": "Daniel Thuram",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "139200",
+   "apelido": "Pedro Kauã",
+   "nome": "Pedro Kauã Rodrigues Machado",
+   "posicao": "ZAG",
+   "clube": "INT",
+   "fmUid": "2000385929",
+   "nomeFm": "Pedro Kauã",
+   "arquivo": "faces/2000385929.png"
+  },
+  {
+   "cartolaId": "143465",
+   "apelido": "Keven Samuel",
+   "nome": "Keven Samuel Moreira dos Santos",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "2000273260",
+   "nomeFm": "Keven Samuel",
+   "arquivo": "faces/2000273260.png"
+  },
+  {
+   "cartolaId": "93368",
+   "apelido": "Lucas Veríssimo",
+   "nome": "Lucas Veríssimo da Silva",
+   "posicao": "ZAG",
+   "clube": "SAN",
+   "fmUid": "19249631",
+   "nomeFm": "Lucas Veríssimo",
+   "arquivo": "faces/19249631.png"
+  },
+  {
+   "cartolaId": "124424",
+   "apelido": "Rodrigo Castillo",
+   "nome": "Rodrigo Castillo",
+   "posicao": "ATA",
+   "clube": "FLU",
+   "fmUid": "14223205",
+   "nomeFm": "Rodrigo Castillo",
+   "arquivo": "faces/14223205.png"
+  },
+  {
+   "cartolaId": "142260",
+   "apelido": "Bernardo Zortea",
+   "nome": "Bernardo Schons Zortea",
+   "posicao": "MEI",
+   "clube": "GRE",
+   "fmUid": "2000281188",
+   "nomeFm": "Zortea",
+   "arquivo": "faces/2000281188.png"
+  },
+  {
+   "cartolaId": "121823",
+   "apelido": "Kauê",
+   "nome": "Kauê Vinicius de Souza Camargo",
+   "posicao": "GOL",
+   "clube": "COR",
+   "fmUid": "2000109527",
+   "nomeFm": "Kauê",
+   "arquivo": "faces/2000109527.png"
+  },
+  {
+   "cartolaId": "133690",
+   "apelido": "Bruno Lopes",
+   "nome": "Bruno Lopes Ferreira",
+   "posicao": "ATA",
+   "clube": "VAS",
+   "fmUid": "2000380239",
+   "nomeFm": "Bruno Lopes",
+   "arquivo": "faces/2000380239.png"
+  },
+  {
+   "cartolaId": "129661",
+   "apelido": "Wendel",
+   "nome": "Wendel Silva Passos",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "2000272489",
+   "nomeFm": "Wendel Passos",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "140726",
+   "apelido": "David Martins",
+   "nome": "David Martins Almeida de Lira",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "2000501174",
+   "nomeFm": "David Martins",
+   "arquivo": "faces/2000501174.png"
+  },
+  {
+   "cartolaId": "147268",
+   "apelido": "Anderson Pato",
+   "nome": "Anderson Bispo dos Santos",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "2000533103",
+   "nomeFm": "Anderson Pato",
+   "arquivo": "faces/2000533103.png"
+  },
+  {
+   "cartolaId": "148125",
+   "apelido": "Ryan Augusto",
+   "nome": "Ryan Augusto Tavares da Silva",
+   "posicao": "LAT",
+   "clube": "RBB",
+   "fmUid": "2000378227",
+   "nomeFm": "Ryan",
+   "arquivo": "faces/2000378227.png"
+  },
+  {
+   "cartolaId": "81720",
+   "apelido": "Lingard",
+   "nome": "Jesse Ellis Lingard",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "28047560",
+   "nomeFm": "Jesse Lingard",
+   "arquivo": "faces/28047560.png"
+  },
+  {
+   "cartolaId": "115537",
+   "apelido": "Marcos Victor",
+   "nome": "Marcos Victor Ferreira da Silva",
+   "posicao": "ZAG",
+   "clube": "BAH",
+   "fmUid": "2000223472",
+   "nomeFm": "Marcos Victor",
+   "arquivo": "faces/2000223472.png"
+  },
+  {
+   "cartolaId": "141184",
+   "apelido": "Walace Falcão",
+   "nome": "Wallace Fernandes Alves Falcão",
+   "posicao": "ZAG",
+   "clube": "VAS",
+   "fmUid": "2000482532",
+   "nomeFm": "Walace Falcão",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "84268",
+   "apelido": "Georgemy",
+   "nome": "Georgemy Gonçalves",
+   "posicao": "GOL",
+   "clube": "MIR",
+   "fmUid": "19210609",
+   "nomeFm": "Georgemy",
+   "arquivo": "faces/19210609.png"
+  },
+  {
+   "cartolaId": "145659",
+   "apelido": "Nicolas",
+   "nome": "Nicolas Bosshardt",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "2000378988",
+   "nomeFm": "Nicolas",
+   "arquivo": "faces/2000378988.png"
+  },
+  {
+   "cartolaId": "143153",
+   "apelido": "Tarzia",
+   "nome": "Diego Tarzia",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "2000208899",
+   "nomeFm": "Diego Tarzia",
+   "arquivo": "faces/2000208899.png"
+  },
+  {
+   "cartolaId": "141752",
+   "apelido": "Caio Valle",
+   "nome": "Caio Ribeiro do Valle Silva",
+   "posicao": "MEI",
+   "clube": "BOT",
+   "fmUid": "2000491660",
+   "nomeFm": "Caio Valle",
+   "arquivo": "faces/2000491660.png"
+  },
+  {
+   "cartolaId": "143252",
+   "apelido": "Gean",
+   "nome": "Gean de Jesus Soares",
+   "posicao": "LAT",
+   "clube": "VIT",
+   "fmUid": "2000440215",
+   "nomeFm": "Gean",
+   "arquivo": "faces/2000440215.png"
+  },
+  {
+   "cartolaId": "147192",
+   "apelido": "Claudinho",
+   "nome": "Claudio Henrique de Jesus Passos",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "2000437239",
+   "nomeFm": "Claudinho",
+   "arquivo": "faces/2000437239.png"
+  },
+  {
+   "cartolaId": "95131",
+   "apelido": "Gabriel Taliari",
+   "nome": "Gabriel Pereira Taliari",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "19264778",
+   "nomeFm": "Gabriel Taliari",
+   "arquivo": "faces/19264778.png"
+  },
+  {
+   "cartolaId": "102877",
+   "apelido": "Gabriel Poveda",
+   "nome": "Gabriel Buscariol Poveda",
+   "posicao": "ATA",
+   "clube": "REM",
+   "fmUid": "19306964",
+   "nomeFm": "Gabriel Poveda",
+   "arquivo": "faces/19306964.png"
+  },
+  {
+   "cartolaId": "142257",
+   "apelido": "Luis Eduardo",
+   "nome": "Luis Eduardo Guedes de Souza",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "2000440037",
+   "nomeFm": "Luis Eduardo",
+   "arquivo": "faces/2000440037.png"
+  },
+  {
+   "cartolaId": "130209",
+   "apelido": "Renê",
+   "nome": "Carlos Renê de Sousa Ferreira - Souza",
+   "posicao": "ATA",
+   "clube": "VIT",
+   "fmUid": "2000302554",
+   "nomeFm": "Renê",
+   "arquivo": "faces/2000302554.png"
+  },
+  {
+   "cartolaId": "110605",
+   "apelido": "Vinícius Balieiro",
+   "nome": "Vinícius Balieiro Lourenço de Carvalho",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "19348581",
+   "nomeFm": "Vinicius Balieiro",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "107256",
+   "apelido": "Zé Vitor",
+   "nome": "Jose Vitor Silva Neves",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": "19409399",
+   "nomeFm": "Zé Vitor",
+   "arquivo": "faces/19409399.png"
+  },
+  {
+   "cartolaId": "141594",
+   "apelido": "Pedro Gabriel",
+   "nome": "Pedro Gabriel Crisostomo Pinheiro",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "2000280442",
+   "nomeFm": "Pedro Gabriel",
+   "arquivo": "faces/2000280442.png"
+  },
+  {
+   "cartolaId": "123016",
+   "apelido": "David Braga",
+   "nome": "David Francisco Trindade Braga",
+   "posicao": "MEI",
+   "clube": "REM",
+   "fmUid": "2000139291",
+   "nomeFm": "David Braga",
+   "arquivo": "faces/2000139291.png"
+  },
+  {
+   "cartolaId": "149715",
+   "apelido": "Rafael Gonzaga",
+   "nome": "Rafael de Andrade Gonzaga",
+   "posicao": "LAT",
+   "clube": "SAN",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "121811",
+   "apelido": "Da Silva",
+   "nome": "Fernando Carlos da Silva Filho",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "2000210542",
+   "nomeFm": "Da Silva",
+   "arquivo": "faces/2000210542.png"
+  },
+  {
+   "cartolaId": "124264",
+   "apelido": "Kauan Jesus",
+   "nome": "Kauan Jesus Santos Oliveira",
+   "posicao": "GOL",
+   "clube": "INT",
+   "fmUid": "2000276631",
+   "nomeFm": "Kauan",
+   "arquivo": "faces/2000276631.png"
+  },
+  {
+   "cartolaId": "123005",
+   "apelido": "Sidney",
+   "nome": "Sidney de Carvalho Duarte",
+   "posicao": "MEI",
+   "clube": "BAH",
+   "fmUid": "2000264550",
+   "nomeFm": "Sidney",
+   "arquivo": "faces/2000264550.png"
+  },
+  {
+   "cartolaId": "103347",
+   "apelido": "Matheus Alexandre",
+   "nome": "Matheus Alexandre Anastácio de Souza",
+   "posicao": "LAT",
+   "clube": "REM",
+   "fmUid": "19386120",
+   "nomeFm": "Matheus Alexandre",
+   "arquivo": "faces/19386120.png"
+  },
+  {
+   "cartolaId": "94034",
+   "apelido": "Kevin Ramírez",
+   "nome": "Kevin Federik Ramírez Dutra",
+   "posicao": "ATA",
+   "clube": "CHA",
+   "fmUid": "78066939",
+   "nomeFm": "Kevin Ramírez",
+   "arquivo": "faces/78066939.png"
+  },
+  {
+   "cartolaId": "130282",
+   "apelido": "Anthony",
+   "nome": "Anthony Wesley Ciriano Oliveira",
+   "posicao": "ZAG",
+   "clube": "BOT",
+   "fmUid": "2000347152",
+   "nomeFm": "Anthony",
+   "arquivo": "faces/2000347152.png"
+  },
+  {
+   "cartolaId": "148717",
+   "apelido": "Tetê",
+   "nome": "Perivan dos Santos",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "2000378992",
+   "nomeFm": "Tete",
+   "arquivo": "faces/2000378992.png"
+  },
+  {
+   "cartolaId": "130309",
+   "apelido": "Rodrigo Falcão",
+   "nome": "Rodrigo Plazezwski Falcão",
+   "posicao": "GOL",
+   "clube": "SAN",
+   "fmUid": "2000206937",
+   "nomeFm": "Rodrigo Falcão",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "149993",
+   "apelido": "Iago Machado",
+   "nome": "Iago da Silva Machado",
+   "posicao": "ZAG",
+   "clube": "COR",
+   "fmUid": "2000503806",
+   "nomeFm": "Iago Machado",
+   "arquivo": "faces/2000503806.png"
+  },
+  {
+   "cartolaId": "147089",
+   "apelido": "Cauã Soares",
+   "nome": "Cauã Campos Soares",
+   "posicao": "ATA",
+   "clube": "CAM",
+   "fmUid": "2000459964",
+   "nomeFm": "Cauã Soares",
+   "arquivo": "faces/2000459964.png"
+  },
+  {
+   "cartolaId": "101820",
+   "apelido": "Mayk",
+   "nome": "Mayksilvan da Silva Ferreira",
+   "posicao": "LAT",
+   "clube": "REM",
+   "fmUid": "19327981",
+   "nomeFm": "Mayk",
+   "arquivo": "faces/19327981.png"
+  },
+  {
+   "cartolaId": "150197",
+   "apelido": "Osorio",
+   "nome": "Luís Osório Messias de Oliveira",
+   "posicao": "ZAG",
+   "clube": "SAO",
+   "fmUid": "2000298962",
+   "nomeFm": "Osório",
+   "arquivo": "faces/2000298962.png"
+  },
+  {
+   "cartolaId": "97905",
+   "apelido": "Matheus Aurélio",
+   "nome": "Matheus Aurélio Palhares Guimarães",
+   "posicao": "GOL",
+   "clube": "CHA",
+   "fmUid": "19362988",
+   "nomeFm": "Matheus Aurélio",
+   "arquivo": "faces/19362988.png"
+  },
+  {
+   "cartolaId": "149991",
+   "apelido": "David",
+   "nome": "David Alves França",
+   "posicao": "ATA",
+   "clube": "CFC",
+   "fmUid": "2000541546",
+   "nomeFm": "David Alves",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141405",
+   "apelido": "Avellar",
+   "nome": "Riquelme Avellar da Silva Fortes",
+   "posicao": "LAT",
+   "clube": "VAS",
+   "fmUid": "2000264136",
+   "nomeFm": "Riquelme Avellar",
+   "arquivo": "faces/2000264136.png"
+  },
+  {
+   "cartolaId": "130399",
+   "apelido": "Igor Felisberto",
+   "nome": "Igor Teixeira Felisberto",
+   "posicao": "LAT",
+   "clube": "SAO",
+   "fmUid": "2000272196",
+   "nomeFm": "Igor Felisberto",
+   "arquivo": "faces/2000272196.png"
+  },
+  {
+   "cartolaId": "150757",
+   "apelido": "Samuel Pierri",
+   "nome": "Samuel Pierri Mendes e Silva",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "2000491168",
+   "nomeFm": "Samuel Pierri",
+   "arquivo": "faces/2000491168.png"
+  },
+  {
+   "cartolaId": "146701",
+   "apelido": "Benjamin Arhin",
+   "nome": "Benjamin Arhin",
+   "posicao": "MEI",
+   "clube": "INT",
+   "fmUid": "2000396334",
+   "nomeFm": "Benjamin",
+   "arquivo": "faces/2000396334.png"
+  },
+  {
+   "cartolaId": "85465",
+   "apelido": "Alex Santana",
+   "nome": "Alex Paulo Menezes Santana",
+   "posicao": "MEI",
+   "clube": "COR",
+   "fmUid": "19167419",
+   "nomeFm": "Alex Santana",
+   "arquivo": "faces/19167419.png"
+  },
+  {
+   "cartolaId": "149994",
+   "apelido": "Jhuan Nunes",
+   "nome": "Jhuan Nunes Coelho",
+   "posicao": "ATA",
+   "clube": "RBB",
+   "fmUid": "2000378256",
+   "nomeFm": "Jhuan Nunes",
+   "arquivo": "faces/2000378256.png"
+  },
+  {
+   "cartolaId": "141795",
+   "apelido": "Kauan Coutinho",
+   "nome": "Kauan Santos Neves Coutinho",
+   "posicao": "ZAG",
+   "clube": "VIT",
+   "fmUid": "2000440208",
+   "nomeFm": "Kauan Coutinho",
+   "arquivo": "faces/2000440208.png"
+  },
+  {
+   "cartolaId": "143253",
+   "apelido": "Wendell",
+   "nome": "Wendell dos Santos Sacramento",
+   "posicao": "MEI",
+   "clube": "VIT",
+   "fmUid": null,
+   "nomeFm": null,
+   "arquivo": null
+  },
+  {
+   "cartolaId": "150180",
+   "apelido": "Ramon Rique",
+   "nome": "Ramon Rique Santos de Souza Barros",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "2000380237",
+   "nomeFm": "Ramon Rique",
+   "arquivo": "faces/2000380237.png"
+  },
+  {
+   "cartolaId": "142868",
+   "apelido": "Johnny",
+   "nome": "Johnny Monteiro Góes",
+   "posicao": "LAT",
+   "clube": "FLA",
+   "fmUid": "2000443501",
+   "nomeFm": "Johnny",
+   "arquivo": "faces/2000443501.png"
+  },
+  {
+   "cartolaId": "150826",
+   "apelido": "Nícollas",
+   "nome": "Nícollas Vitor Pascoal Melo",
+   "posicao": "ATA",
+   "clube": "COR",
+   "fmUid": "2000484230",
+   "nomeFm": "Nícollas",
+   "arquivo": "faces/2000484230.png"
+  },
+  {
+   "cartolaId": "145660",
+   "apelido": "Luiz Felipe",
+   "nome": "Luiz Felipe de Morais Francisco",
+   "posicao": "LAT",
+   "clube": "INT",
+   "fmUid": "2000285884",
+   "nomeFm": "Luiz Felipe",
+   "arquivo": "faces/2000285884.png"
+  },
+  {
+   "cartolaId": "144898",
+   "apelido": "Vitinho",
+   "nome": "Victor Vinicius Teodoro Ferraz",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "2000454677",
+   "nomeFm": "Vitinho",
+   "arquivo": "faces/2000454677.png"
+  },
+  {
+   "cartolaId": "148092",
+   "apelido": "Vitor Ramon",
+   "nome": "Vitor Ramon Ribeiro de Oliveira",
+   "posicao": "LAT",
+   "clube": "GRE",
+   "fmUid": "2000487371",
+   "nomeFm": "Vitor Ramon",
+   "arquivo": "faces/2000487371.png"
+  },
+  {
+   "cartolaId": "147792",
+   "apelido": "Koné",
+   "nome": "Koné Zie Mohamed",
+   "posicao": "ZAG",
+   "clube": "PAL",
+   "fmUid": "2000531495",
+   "nomeFm": "Koné Mohamed",
+   "arquivo": "faces/2000531495.png"
+  },
+  {
+   "cartolaId": "132750",
+   "apelido": "João Pedro",
+   "nome": "João Pedro Lucio da Silva",
+   "posicao": "GOL",
+   "clube": "SAN",
+   "fmUid": "2000379974",
+   "nomeFm": "João Pedro",
+   "arquivo": "faces/2000379974.png"
+  },
+  {
+   "cartolaId": "129665",
+   "apelido": "Pablo",
+   "nome": "Pablo de Paula Cardoso",
+   "posicao": "GOL",
+   "clube": "VAS",
+   "fmUid": "2000218896",
+   "nomeFm": "Pablo",
+   "arquivo": "faces/2000218896.png"
+  },
+  {
+   "cartolaId": "130233",
+   "apelido": "Iuri",
+   "nome": "Iuri Jean Carlo Neres dos Santos",
+   "posicao": "GOL",
+   "clube": "BAH",
+   "fmUid": "2000442650",
+   "nomeFm": "Iuri Jean",
+   "arquivo": "faces/2000442650.png"
+  },
+  {
+   "cartolaId": "150825",
+   "apelido": "Breno",
+   "nome": "Breno de Moraes Souza",
+   "posicao": "ZAG",
+   "clube": "RBB",
+   "fmUid": "2000538131",
+   "nomeFm": "Breno Moraes",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "147544",
+   "apelido": "Gabriel Menegon",
+   "nome": "Gabriel Otávio Menegon",
+   "posicao": "GOL",
+   "clube": "GRE",
+   "fmUid": "2000491985",
+   "nomeFm": "Gabriel Menegon",
+   "arquivo": "faces/2000491985.png"
+  },
+  {
+   "cartolaId": "150959",
+   "apelido": "Davizinho",
+   "nome": "Davi Fernandes Cavalcante Ribeiro",
+   "posicao": "LAT",
+   "clube": "SAN",
+   "fmUid": "2000569692",
+   "nomeFm": "Davi Fernandes",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "141382",
+   "apelido": "Gustavo Santana",
+   "nome": "Gustavo Domingos Santana",
+   "posicao": "ATA",
+   "clube": "SAO",
+   "fmUid": "2000450081",
+   "nomeFm": "Gustavo Santana",
+   "arquivo": "faces/2000450081.png"
+  },
+  {
+   "cartolaId": "148126",
+   "apelido": "Weimar Palacios",
+   "nome": "Weimar Enrique Vivas Palacios",
+   "posicao": "ZAG",
+   "clube": "RBB",
+   "fmUid": "2000370089",
+   "nomeFm": "Weimar Vivas",
+   "arquivo": "faces/2000370089.png"
+  },
+  {
+   "cartolaId": "141536",
+   "apelido": "Yuri Alves",
+   "nome": "Yuri Alves de Aquino",
+   "posicao": "MEI",
+   "clube": "RBB",
+   "fmUid": "2000274054",
+   "nomeFm": "Yuri Alves",
+   "arquivo": "faces/2000274054.png"
+  },
+  {
+   "cartolaId": "144255",
+   "apelido": "João Alencar",
+   "nome": "João Alencar Santos Paes da Costa",
+   "posicao": "ZAG",
+   "clube": "SAN",
+   "fmUid": "2000276354",
+   "nomeFm": "João Alencar",
+   "arquivo": "faces/2000276354.png"
+  },
+  {
+   "cartolaId": "150952",
+   "apelido": "Arthur Monteiro",
+   "nome": "Arthur Rodrigues Monteiro",
+   "posicao": "LAT",
+   "clube": "CAP",
+   "fmUid": "2000551084",
+   "nomeFm": "Arthur Monteiro",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "147736",
+   "apelido": "Pepê Fermino",
+   "nome": "Pedro Paulo Manoel Fermino",
+   "posicao": "MEI",
+   "clube": "SAN",
+   "fmUid": "2000523947",
+   "nomeFm": "Pepê Fermino",
+   "arquivo": "faces/2000523947.png"
+  },
+  {
+   "cartolaId": "141125",
+   "apelido": "Robert",
+   "nome": "Robert Pinto Alves Assunção",
+   "posicao": "GOL",
+   "clube": "CAM",
+   "fmUid": "2000320687",
+   "nomeFm": "Robert",
+   "arquivo": "faces/2000320687.png"
+  },
+  {
+   "cartolaId": "150995",
+   "apelido": "Sayago",
+   "nome": "Juan Gabriel Sayago",
+   "posicao": "MEI",
+   "clube": "FLA",
+   "fmUid": "2000531339",
+   "nomeFm": "Juan Sayago",
+   "arquivo": "faces/2000531339.png"
+  },
+  {
+   "cartolaId": "151003",
+   "apelido": "Eduardo",
+   "nome": "Eduardo Conceição Silva",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000587215",
+   "nomeFm": "Eduardo Conceição",
+   "arquivo": null
+  },
+  {
+   "cartolaId": "97101",
+   "apelido": "Gabriel Rojas",
+   "nome": "Gabriel Hernán Rojas",
+   "posicao": "LAT",
+   "clube": "CRU",
+   "fmUid": "14080638",
+   "nomeFm": "Gabriel Rojas",
+   "arquivo": "faces/14080638.png"
+  },
+  {
+   "cartolaId": "130279",
+   "apelido": "Lukas Zuccarello",
+   "nome": "Lukas Rocha Zuccarello",
+   "posicao": "MEI",
+   "clube": "VAS",
+   "fmUid": "2000264142",
+   "nomeFm": "Lukas Zuccarello",
+   "arquivo": "faces/2000264142.png"
+  },
+  {
+   "cartolaId": "94214",
+   "apelido": "Léo Duarte",
+   "nome": "Leonardo Campos Duarte da Silva",
+   "posicao": "ZAG",
+   "clube": "CAM",
+   "fmUid": "19247744",
+   "nomeFm": "Léo Duarte",
+   "arquivo": "faces/19247744.png"
+  },
+  {
+   "cartolaId": "107203",
+   "apelido": "Max",
+   "nome": "Max Alves da Silva",
+   "posicao": "MEI",
+   "clube": "CHA",
+   "fmUid": "19409291",
+   "nomeFm": "Max Alves",
+   "arquivo": "faces/19409291.png"
+  },
+  {
+   "cartolaId": "37715",
+   "apelido": "Thiago Silva",
+   "nome": "Thiago Emiliano da Silva",
+   "posicao": "ZAG",
+   "clube": "FLU",
+   "fmUid": "8833628",
+   "nomeFm": "Thiago Silva",
+   "arquivo": "faces/8833628.png"
+  },
+  {
+   "cartolaId": "144889",
+   "apelido": "Victor Gabriel",
+   "nome": "Victor Gabriel Leite dos Santos",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "2000393847",
+   "nomeFm": "Victor Gabriel",
+   "arquivo": "faces/2000393847.png"
+  },
+  {
+   "cartolaId": "146663",
+   "apelido": "Kauan Lima",
+   "nome": "Kauan Lima da Cunha",
+   "posicao": "GOL",
+   "clube": "PAL",
+   "fmUid": "2000521531",
+   "nomeFm": "Kauan Lima",
+   "arquivo": "faces/2000521531.png"
+  },
+  {
+   "cartolaId": "145413",
+   "apelido": "Rafael Coutinho",
+   "nome": "Rafael Barbosa Coutinho",
+   "posicao": "MEI",
+   "clube": "PAL",
+   "fmUid": "2000301368",
+   "nomeFm": "Rafael Coutinho",
+   "arquivo": "faces/2000301368.png"
+  },
+  {
+   "cartolaId": "132733",
+   "apelido": "Fabiano",
+   "nome": "Fabiano Rodrigues Pereira",
+   "posicao": "ATA",
+   "clube": "PAL",
+   "fmUid": "2000219167",
+   "nomeFm": "Fabiano",
+   "arquivo": "faces/2000219167.png"
+  },
+  {
+   "cartolaId": "130307",
+   "apelido": "Wallace",
+   "nome": "Wallace Gomes da Silva Santos",
+   "posicao": "ZAG",
+   "clube": "GRE",
+   "fmUid": "793846",
+   "nomeFm": "Wallace",
+   "arquivo": "faces/793846.png"
+  },
+  {
+   "cartolaId": "151120",
+   "apelido": "Jorge Rivaldo",
+   "nome": "Jorge Luis Rivaldo Pinto",
+   "posicao": "ATA",
+   "clube": "CAP",
+   "fmUid": "2000254827",
+   "nomeFm": "Jorge Rivaldo",
+   "arquivo": "faces/2000254827.png"
+  }
+ ]
+}

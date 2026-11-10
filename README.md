@@ -148,3 +148,19 @@ Imagens de terceiros (Transfermarkt e escudos/troféus de clubes e competições
 sem licença de redistribuição. O repositório é público por decisão deliberada,
 para que o conteúdo possa ser servido por jsDelivr como já acontece com o
 `thefenomeno-assets` — não porque haja direito de republicação.
+
+---
+
+## fm/ — rostos recortados do Football Manager (10/11/2026)
+
+Recortes de cabeça e ombros (PNG 250x250 com alfa) dos jogadores dos 20 clubes da Série A 2026,
+extraídos do Cut-Out Player Faces Megapack 2027.00 (comunidade do sortitoutsi), indexados pelo
+**id de pessoa do Football Manager**. Uso: teste interno e beta do Gravata.
+
+```
+fm/faces/<uidFM>.png          rostos
+fm/brasileirao-2026.json      manifesto: cartolaId, apelido, nome, posição, clube, fmUid, nomeFm, arquivo
+```
+
+URL pela CDN: `https://cdn.jsdelivr.net/gh/TheSMF-Group/assets@main/fm/faces/<uidFM>.png`.
+O mapeamento Cartola → FM foi feito pelos elencos FM27 publicados no próprio sortitoutsi (756 de 767 atletas do Cartola).
